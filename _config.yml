@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: INFORMS Journal on Computing
+description: A site for histing software and data associated with papers appearing in the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)
+logo: logo.png
