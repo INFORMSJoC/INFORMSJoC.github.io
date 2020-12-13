@@ -5,9 +5,11 @@ organization](https://github.com/INFORMSJoC).
 
 ## Repository layout
 
-Your repository layout should resemble that of this template to the extent
-possible, although some variations may occur. In general, the repository
-contents should be as follows.
+Your repository layout should resemble that of the template 
+[here](https://github.com/INFORMSJoC/JoCTemplate)
+to the extent possible, although some variations may occur and there are no 
+inviolable rules. For examples, see https://INFORMSJoC.github.io.
+In general, the repository contents should be as follows.
 
  * `README.md` should describe the contribution, how to use it, how to cite
    it, and how to replicate the experim,ents in the paper, following roughly
