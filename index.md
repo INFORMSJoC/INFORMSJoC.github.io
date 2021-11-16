@@ -14,6 +14,7 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
  *  [JANOS](https://github.com/INFORMSJoC/2020.1023) the software and data associated with the paper [JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://doi.org/10.1287/ijoc.2020.1023) by D. Bergman, T. Huang, P. Brooks, A. Lodi, and A.U. Raghunathan (paper may not be available on-line yet).
  * [alfonso](https://github.com/INFORMSJoC/2021.1058) the software and data associated with the paper [alfonso: Matlab package for nonsymmetric conic optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız.
  
-#### Accepted papers awaiting publication 
+#### Accepted papers awaiting publication (paper may not be available on-line)
  
  * The data associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://doi.org/10.1287/ijoc.2021.1096) by N. Noyan and G. Rudolf and M.A. Lejeune (paper may not be available on-line yet).
+ * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2020.0287), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/) by M. Biel and M. Johansson.
