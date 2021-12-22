@@ -16,5 +16,6 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
  
 #### Accepted papers awaiting publication (paper may not be available on-line)
  
- * The data associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://doi.org/10.1287/ijoc.2021.1096) by N. Noyan and G. Rudolf and M.A. Lejeune (paper may not be available on-line yet).
+ * The data associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://doi.org/10.1287/ijoc.2021.1096) by N. Noyan and G. Rudolf and M.A. Lejeune.
  * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2020.0287), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/) by M. Biel and M. Johansson.
+ * [VeroViz](https://github.com/INFORMSJoC/2020.0340), the software and data associated with the paper [VeRoViz: A Vehicle Routing Visualization Toolkit](https://doi.org/10.1287/)  by L. Peng and C. Murray.
