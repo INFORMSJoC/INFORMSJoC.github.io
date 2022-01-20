@@ -25,3 +25,4 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
 * The software and data associated with the paper [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://github.com/INFORMSJoC/2022.1162) by Rishabh Gupta and Qi Zhang.
 * The software and data associated with the paper [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://github.com/INFORMSJoC/2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe.
 * The software and data associated with the paper [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://github.com/INFORMSJoC/2022.1160) by Daniel Porumbel.
+* The software and data associated with the paper [SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering](https://github.com/INFORMSJoC/2022.1166) by Veronica Piccialli, Antonio M. Sudoso, and Angelika Wiegele.
