@@ -13,10 +13,10 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
  * [VBOHCA](https://github.com/INFORMSJoC/2020.1022) the software and data associated with the paper [Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2020.1022) by J. Custodio and M. Lejeune.
  *  [JANOS](https://github.com/INFORMSJoC/2020.1023) the software and data associated with the paper [JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://doi.org/10.1287/ijoc.2020.1023) by D. Bergman, T. Huang, P. Brooks, A. Lodi, and A.U. Raghunathan.
  * [alfonso](https://github.com/INFORMSJoC/2021.1058) the software and data associated with the paper [alfonso: Matlab package for nonsymmetric conic optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız.
- 
+  * [The data](https://github.com/INFORMSJoC/2021.1096) associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://doi.org/10.1287/ijoc.2021.1096) by N. Noyan, G. Rudolf, and M.A. Lejeune.
+  * 
 #### Accepted papers awaiting publication (paper may not be available on-line)
  
- * The data associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://github.com/INFORMSJoC/2021.1096) by N. Noyan, G. Rudolf, and M.A. Lejeune.
  * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2022.1158), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/) by M. Biel and M. Johansson.
  * [VeroViz](https://github.com/INFORMSJoC/2022.1159), the software and data associated with the paper [VeRoViz: A Vehicle Routing Visualization Toolkit](https://doi.org/10.1287/)  by L. Peng and C. Murray.
 * The software and data associated with the paper [An Interior-Point Differentiable Path-Following Method to Compute Stationary Equilibria in Stochastic Games](https://github.com/INFORMSJoC/2021.1139) by Chuangyin Dang, P. Jean-Jacques Herings, and Peixuan Li.
