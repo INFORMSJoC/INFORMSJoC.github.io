@@ -18,7 +18,7 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
 
 #### Accepted papers awaiting publication (paper may not be available on-line)
  
- * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2022.1158), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/ijoc.2022.1158) by M. Biel and M. Johansson.
+ * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2020.0287), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/ijoc.2022.1158) by M. Biel and M. Johansson.
  * [VeroViz](https://github.com/INFORMSJoC/2022.1159), the software and data associated with the paper [VeRoViz: A Vehicle Routing Visualization Toolkit](https://doi.org/10.1287/ijoc.2022.1159)  by L. Peng and C. Murray.
 * The software and data associated with the paper [Variable Bound Tightening and Valid Constraints for Multiperiod Blending](https://github.com/INFORMSJoC/2021.1140) by Yifu Chen and Christos T. Maravelias.
 * The software and data associated with the paper [A Restricted Dual Peaceman-Rachford Splitting Method for a Strengthened DNN Relaxation for QAP](https://github.com/INFORMSJoC/2022.1161) by Naomi Graham, Hao Hu, Jiyoung Im, Xinxin Li, and Henry Wolkowicz.
