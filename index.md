@@ -15,7 +15,7 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
  * [alfonso](https://github.com/INFORMSJoC/2021.1058) the software and data associated with the paper [alfonso: Matlab package for nonsymmetric conic optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız.
   * The [data](https://github.com/INFORMSJoC/2021.1096) associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://doi.org/10.1287/ijoc.2021.1096) by N. Noyan, G. Rudolf, and M.A. Lejeune.
   * The [software and data](https://github.com/INFORMSJoC/2021.1139) associated with the paper [An Interior-Point Differentiable Path-Following Method to Compute Stationary Equilibria in Stochastic Games](https://doi.org/10.1287/ijoc.2021.1139) by Chuangyin Dang, P. Jean-Jacques Herings, and Peixuan Li.
-  * 
+
 #### Accepted papers awaiting publication (paper may not be available on-line)
  
  * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2022.1158), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/ijoc.2022.1158) by M. Biel and M. Johansson.
