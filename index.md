@@ -20,12 +20,11 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
   * [VeroViz](https://github.com/INFORMSJoC/2020.0340), the software and data associated with the paper [VeRoViz: A Vehicle Routing Visualization Toolkit](https://doi.org/10.1287/ijoc.2022.1159) by L. Peng and C. Murray.
 * The [software and data](https://github.com/INFORMSJoC/2020.0336) associated with the paper [A Restricted Dual Peaceman-Rachford Splitting Method for a Strengthened DNN Relaxation for QAP](https://doi.org/10.1287/ijoc.2022.1161) by Naomi Graham, Hao Hu, Jiyoung Im, Xinxin Li, and Henry Wolkowicz.
 * The [software and data](https://github.com/INFORMSJoC/2021.0096) associated with the paper [SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering](https://doi.org/10.1287/ijoc.2022.1166) by Veronica Piccialli, Antonio M. Sudoso, and Angelika Wiegele.
+* The [software and data](https://github.com/INFORMSJoC/2020.0211) associated with the paper [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://doi.org/10.1287/ijoc.2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe.
 *
 #### Accepted papers awaiting publication (paper may not be available on-line)
  
 * The [software and data](https://github.com/INFORMSJoC/2020.0231) associated with the paper [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang.
-* The [software and data](https://github.com/INFORMSJoC/2020.0211) associated with the paper [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://doi.org/10.1287/ijoc.2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe.
 * The [software and data](https://github.com/INFORMSJoC/2020.0068) associated with the paper [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel.
-
 * The [software and data](https://github.com/INFORMSJoC/2020.0301) associated with the paper [An Iterated Dual Substitution Approach for Binary Integer Programming Problems under the Min–Max Regret Criterion](https://doi.org/10.1287/ijoc.2022.1189) by Wei Wu, Manuel Iori, Silvano Martello, and Mutsunori Yagiura.
 * The [software and data](https://github.com/INFORMSJoC/2021.0098) associated with the paper [FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by Mathieu Besançon, Alejandro Carderera, and Sebastian Pokutta.
