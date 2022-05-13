@@ -28,7 +28,7 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
  
 * The [software and data](https://github.com/INFORMSJoC/2020.0231) associated with the paper [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang.
 * The [software and data](https://github.com/INFORMSJoC/2020.0068) associated with the paper [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel.
-* The [software and data](https://github.com/INFORMSJoC/2021.0177) associated with the paper [Solving Natural Conic Formulations with Hypatia.jl](https://doi.org/10.1287/ijoc.2022.1202) by Chris Coey, Lea Kapelevich, and Juan Pablo Vielma.
+* [Hypatia](https://github.com/INFORMSJoC/2021.0177) the software and data associated with the paper [Solving Natural Conic Formulations with Hypatia.jl](https://doi.org/10.1287/ijoc.2022.1202) by Chris Coey, Lea Kapelevich, and Juan Pablo Vielma.
 * The [software and data](https://github.com/INFORMSJoC/2021.0171) associated with the paper [A Software Package and Data Set for the Personal
 Protective Equipment Matching Problem During
 Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He. 
