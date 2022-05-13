@@ -4,7 +4,7 @@ This is the Website for the Github repository for hosting software and data asso
 
 ### Available Software and Data 
 
-#### Papers already published (in an issue or on AIA)
+#### PAPERS ALREADY PUBLISHED (in an issue or on AIA)
 **Volume 32, Issue 4**
  * [PyMOSO](https://github.com/INFORMSJoc/2019.0902), the software and data associated with the paper [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter.
 
@@ -23,7 +23,7 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
  *  [JANOS](https://github.com/INFORMSJoC/2020.1023) the software and data associated with the paper [JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://doi.org/10.1287/ijoc.2020.1023) by D. Bergman, T. Huang, P. Brooks, A. Lodi, and A.U. Raghunathan.
   * [AMPL](https://github.com/INFORMSJoC/2021.1096) the software and data associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://doi.org/10.1287/ijoc.2021.1096) by N. Noyan, G. Rudolf, and M.A. Lejeune.
 
-**ARTICLES IN ADVANCE (AIA)**
+**Articles in Advance (AIA)**
   * The [software and data](https://github.com/INFORMSJoC/2020.0259) associated with the paper [An Interior-Point Differentiable Path-Following Method to Compute Stationary Equilibria in Stochastic Games](https://doi.org/10.1287/ijoc.2021.1139) by Chuangyin Dang, P. Jean-Jacques Herings, and Peixuan Li.
   * The [software and data](https://github.com/INFORMSJoC/2020.0210) associated with the paper [Variable Bound Tightening and Valid Constraints for Multiperiod Blending](https://doi.org/10.1287/ijoc.2021.1140) by Yifu Chen and Christos T. Maravelias.
   * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2020.0287), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/ijoc.2022.1158) by M. Biel and M. Johansson.
@@ -34,7 +34,7 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
   * The [software and data](https://github.com/INFORMSJoC/2020.0301) associated with the paper [An Iterated Dual Substitution Approach for Binary Integer Programming Problems under the Min–Max Regret Criterion](https://doi.org/10.1287/ijoc.2022.1189) by Wei Wu, Manuel Iori, Silvano Martello, and Mutsunori Yagiura.
   * [FrankWolfe.jl](https://github.com/INFORMSJoC/2021.0098) the software and data associated with the paper [FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by Mathieu Besançon, Alejandro Carderera, and Sebastian Pokutta.
  
-#### Accepted papers awaiting publication
+#### ACCEPTED PAPERS AWAITING PUBLICATION
  
 * The [software and data](https://github.com/INFORMSJoC/2020.0231) associated with the paper [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang.
 * The [software and data](https://github.com/INFORMSJoC/2020.0068) associated with the paper [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel.
