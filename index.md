@@ -24,9 +24,6 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
   * The [software and data](https://github.com/INFORMSJoC/2020.0301) associated with the paper [An Iterated Dual Substitution Approach for Binary Integer Programming Problems under the Min–Max Regret Criterion](https://doi.org/10.1287/ijoc.2022.1189) by Wei Wu, Manuel Iori, Silvano Martello, and Mutsunori Yagiura.
   * The [software and data](https://github.com/INFORMSJoC/2021.0098) associated with the paper [FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by Mathieu Besançon, Alejandro Carderera, and Sebastian Pokutta.
  
-#### Add links to README for AIA-published papers below
-
-  *
 #### Accepted papers awaiting publication
  
 * The [software and data](https://github.com/INFORMSJoC/2020.0231) associated with the paper [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang.
