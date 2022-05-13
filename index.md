@@ -4,7 +4,7 @@ This is the Website for the Github repository for hosting software and data asso
 
 ### Available Software and Data 
 
-#### PAPERS ALREADY PUBLISHED (in an issue or on AIA)
+#### PAPERS ALREADY PUBLISHED
 **Volume 32, Issue 4**
  * [PyMOSO](https://github.com/INFORMSJoc/2019.0902), the software and data associated with the paper [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter.
 
