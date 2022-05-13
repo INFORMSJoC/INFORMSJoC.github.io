@@ -5,21 +5,25 @@ This is the Website for the Github repository for hosting software and data asso
 ### Available Software and Data 
 
 #### Papers already published (on AIA or officially published in an issue)
-Volume 32, Issue 4
+**Volume 32, Issue 4**
  * [PyMOSO](https://github.com/INFORMSJoc/2019.0902), the software and data associated with the paper [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter.
 
-Volume 33, Issue 1
+**Volume 33, Issue 1**
  * [SDDP.jl](https://github.com/INFORMSJoC/2020.0987) the software and data associated with the paper [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich.
-Volume 33, Issue 4
+
+**Volume 33, Issue 4**
  * [frvcpy](https://github.com/INFORMSJoc/2020.1035), the software and data associated with the paper [frvcpy: An Open-Source Solver for the Fixed Route Vehicle
 Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Froger, JE Mendoza, and J. Goodson.
-Volume 34, Issue 1
+
+**Volume 34, Issue 1**
  * [VBOHCA](https://github.com/INFORMSJoC/2020.1022) the software and data associated with the paper [Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2020.1022) by J. Custodio and M. Lejeune.
  * [alfonso](https://github.com/INFORMSJoC/2021.1058) the software and data associated with the paper [alfonso: Matlab package for nonsymmetric conic optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız.
-Volume 34, Issue 2
+
+**Volume 34, Issue 2**
  *  [JANOS](https://github.com/INFORMSJoC/2020.1023) the software and data associated with the paper [JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://doi.org/10.1287/ijoc.2020.1023) by D. Bergman, T. Huang, P. Brooks, A. Lodi, and A.U. Raghunathan.
   * [AMPL](https://github.com/INFORMSJoC/2021.1096) the software and data associated with the paper [Distributionally Robust Optimization under Decision-Dependent Ambiguity Set with Applications to Machine Scheduling and Humanitarian Logistics](https://doi.org/10.1287/ijoc.2021.1096) by N. Noyan, G. Rudolf, and M.A. Lejeune.
-ARTICLES IN ADVANCE
+
+**ARTICLES IN ADVANCE**
   * The [software and data](https://github.com/INFORMSJoC/2020.0259) associated with the paper [An Interior-Point Differentiable Path-Following Method to Compute Stationary Equilibria in Stochastic Games](https://doi.org/10.1287/ijoc.2021.1139) by Chuangyin Dang, P. Jean-Jacques Herings, and Peixuan Li.
   * The [software and data](https://github.com/INFORMSJoC/2020.0210) associated with the paper [Variable Bound Tightening and Valid Constraints for Multiperiod Blending](https://doi.org/10.1287/ijoc.2021.1140) by Yifu Chen and Christos T. Maravelias.
   * [StochasticPrograms.jl](https://github.com/INFORMSJoC/2020.0287), the software and data associated with the paper [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/ijoc.2022.1158) by M. Biel and M. Johansson.
