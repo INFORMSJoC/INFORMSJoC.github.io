@@ -42,4 +42,4 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
 * The [software and data](https://github.com/INFORMSJoC/2021.0171) associated with the paper [A Software Package and Data Set for the Personal
 Protective Equipment Matching Problem During
 Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He. 
-
+* The [software and data](https://github.com/INFORMSJoC/2020.0140) associated with the paper [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios.
