@@ -33,7 +33,7 @@ Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Frog
   * The [software and data](https://github.com/INFORMSJoC/2020.0211) associated with the paper [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://doi.org/10.1287/ijoc.2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe.
   * The [software and data](https://github.com/INFORMSJoC/2020.0301) associated with the paper [An Iterated Dual Substitution Approach for Binary Integer Programming Problems under the Min–Max Regret Criterion](https://doi.org/10.1287/ijoc.2022.1189) by Wei Wu, Manuel Iori, Silvano Martello, and Mutsunori Yagiura.
   * [FrankWolfe.jl](https://github.com/INFORMSJoC/2021.0098) the software and data associated with the paper [FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by Mathieu Besançon, Alejandro Carderera, and Sebastian Pokutta.
-  * * The [software and data](https://github.com/INFORMSJoC/2020.0068) associated with the paper [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel.
+  * The [software and data](https://github.com/INFORMSJoC/2020.0068) associated with the paper [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel.
  
 #### ACCEPTED PAPERS AWAITING PUBLICATION
  
