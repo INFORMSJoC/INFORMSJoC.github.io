@@ -6,7 +6,7 @@ This is the Website for the Github repository for hosting software and data asso
 
 #### PAPERS ALREADY PUBLISHED
 **Volume 32, Issue 4**
- * [PyMOSO](https://github.com/INFORMSJoc/2019.0902), the software and data associated with the paper [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter.
+ * [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter, has associated software/data: [PyMOSO](https://github.com/INFORMSJoc/2019.0902).
 
 **Volume 33, Issue 1**
  * [SDDP.jl](https://github.com/INFORMSJoC/2020.0987) the software and data associated with the paper [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich.
