@@ -9,14 +9,13 @@ This is the Website for the Github repository for hosting software and data asso
  * [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter, has associated software/data: [PyMOSO](https://github.com/INFORMSJoc/2019.0902).
 
 **Volume 33, Issue 1**
- * [SDDP.jl](https://github.com/INFORMSJoC/2020.0987) the software and data associated with the paper [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich.
+ * [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich, has associated software/data: [SDDP.jl](https://github.com/INFORMSJoC/2020.0987).
 
 **Volume 33, Issue 4**
- * [frvcpy](https://github.com/INFORMSJoc/2020.1035), the software and data associated with the paper [frvcpy: An Open-Source Solver for the Fixed Route Vehicle
-Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Froger, JE Mendoza, and J. Goodson.
+ * [frvcpy: An Open-Source Solver for the Fixed Route Vehicle Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Froger, JE Mendoza, and J. Goodson, has associated software/data: [frvcpy](https://github.com/INFORMSJoc/2020.1035).
 
 **Volume 34, Issue 1**
- * [VBOHCA](https://github.com/INFORMSJoC/2020.1022) the software and data associated with the paper [Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2020.1022) by J. Custodio and M. Lejeune.
+ * [Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2020.1022) by J. Custodio and M. Lejeune, has associated software/data: [VBOHCA](https://github.com/INFORMSJoC/2020.1022).
  * [alfonso](https://github.com/INFORMSJoC/2021.1058) the software and data associated with the paper [alfonso: Matlab package for nonsymmetric conic optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız.
 
 **Volume 34, Issue 2**
