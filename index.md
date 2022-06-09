@@ -38,9 +38,9 @@ This is the Website for the Github repository for hosting software and data asso
   * [FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by Mathieu Besançon, Alejandro Carderera, and Sebastian Pokutta, has associated software/data: [FrankWolfe.jl](https://github.com/INFORMSJoC/2021.0098).
   * [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel, has associated [software/data](https://github.com/INFORMSJoC/2020.0068).
   * [Solving Natural Conic Formulations with Hypatia.jl](https://doi.org/10.1287/ijoc.2022.1202) by Chris Coey, Lea Kapelevich, and Juan Pablo Vielma, has associated software/data: [Hypatia](https://github.com/INFORMSJoC/2021.0177).
+  * [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2020.0231).
  
 #### ACCEPTED PAPERS AWAITING PUBLICATION
  
-* [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2020.0231).
 * [A Software Package and Data Set for the Personal Protective Equipment Matching Problem During Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He, has associated [software/data](https://github.com/INFORMSJoC/2021.0171).
 * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
