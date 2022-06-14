@@ -44,3 +44,4 @@ This is the Website for the Github repository for hosting software and data asso
  
 * [A Software Package and Data Set for the Personal Protective Equipment Matching Problem During Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He, has associated [software/data](https://github.com/INFORMSJoC/2021.0171).
 * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
+* [Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances](https://doi.org/10.1287/ijoc.2022.1217) by Nicolau Andr ́es-Thi ́o, Mario Andr ́es Mu ̃noz, Kate Smith-Miles, has associated [software/data](https://github.com/INFORMSJoC/2021.0299).
