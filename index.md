@@ -39,9 +39,9 @@ This is the Website for the Github repository for hosting software and data asso
   * [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel, has associated [software/data](https://github.com/INFORMSJoC/2020.0068).
   * [Solving Natural Conic Formulations with Hypatia.jl](https://doi.org/10.1287/ijoc.2022.1202) by Chris Coey, Lea Kapelevich, and Juan Pablo Vielma, has associated software/data: [Hypatia](https://github.com/INFORMSJoC/2021.0177).
   * [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2020.0231).
+  * [A Software Package and Data Set for the Personal Protective Equipment Matching Problem During Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He, has associated [software/data](https://github.com/INFORMSJoC/2021.0171).
  
 #### ACCEPTED PAPERS AWAITING PUBLICATION
  
-* [A Software Package and Data Set for the Personal Protective Equipment Matching Problem During Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He, has associated [software/data](https://github.com/INFORMSJoC/2021.0171).
 * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
 * [Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances](https://doi.org/10.1287/ijoc.2022.1217) by Nicolau Andr ́es-Thi ́o, Mario Andr ́es Mu ̃noz, Kate Smith-Miles, has associated [software/data](https://github.com/INFORMSJoC/2021.0299).
