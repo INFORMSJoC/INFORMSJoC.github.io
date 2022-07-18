@@ -23,18 +23,17 @@ This is the Website for the Github repository for hosting software and data asso
  * [JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://doi.org/10.1287/ijoc.2020.1023) by D. Bergman, T. Huang, P. Brooks, A. Lodi, and A.U. Raghunathan, has associated software/data: [JANOS](https://github.com/INFORMSJoC/2020.1023).
 
 **Volume 34, Issue 3**
- [An Interior-Point Differentiable Path-Following Method to Compute Stationary Equilibria in Stochastic Games](https://doi.org/10.1287/ijoc.2021.1139) by Chuangyin Dang, P. Jean-Jacques Herings, and Peixuan Li, has associated [software/data](https://github.com/INFORMSJoC/2020.0259).
+ * [An Interior-Point Differentiable Path-Following Method to Compute Stationary Equilibria in Stochastic Games](https://doi.org/10.1287/ijoc.2021.1139) by Chuangyin Dang, P. Jean-Jacques Herings, and Peixuan Li, has associated [software/data](https://github.com/INFORMSJoC/2020.0259).
 
 
-**Articles in Advance (AIA)**
- * (SCHEDULED FOR 34/4) 
+**Articles in Advance (SCHEDULED FOR 34/4)**
+ * [VeRoViz: A Vehicle Routing Visualization Toolkit](https://doi.org/10.1287/ijoc.2022.1159) by L. Peng and C. Murray, has associated software/data: [VeroViz](https://github.com/INFORMSJoC/2020.0340).
  * [Efficient Stochastic Programming in Julia](https://doi.org/10.1287/ijoc.2022.1158) by M. Biel and M. Johansson, has associated software/data: [StochasticPrograms.jl](https://github.com/INFORMSJoC/2020.0287).
   * [Variable Bound Tightening and Valid Constraints for Multiperiod Blending](https://doi.org/10.1287/ijoc.2021.1140) by Yifu Chen and Christos T. Maravelias, has associated software/data: [software/data](https://github.com/INFORMSJoC/2020.0210).
   * [A Restricted Dual Peaceman-Rachford Splitting Method for a Strengthened DNN Relaxation for QAP](https://doi.org/10.1287/ijoc.2022.1161) by Naomi Graham, Hao Hu, Jiyoung Im, Xinxin Li, and Henry Wolkowicz, has associated [software/data](https://github.com/INFORMSJoC/2020.0336).
   * [SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering](https://doi.org/10.1287/ijoc.2022.1166) by Veronica Piccialli, Antonio M. Sudoso, and Angelika Wiegele, has associated software/data: [SOS-SDP](https://github.com/INFORMSJoC/2021.0096).
 
-  * (NOT YET SCHEDULED FOR AN ISSUE)
-  * [VeRoViz: A Vehicle Routing Visualization Toolkit](https://doi.org/10.1287/ijoc.2022.1159) by L. Peng and C. Murray, has associated software/data: [VeroViz](https://github.com/INFORMSJoC/2020.0340).
+**Articles in Advance (NOT YET SCHEDULED)**
   * [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://doi.org/10.1287/ijoc.2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe, has associated [software/data](https://github.com/INFORMSJoC/2020.0211).
   * [An Iterated Dual Substitution Approach for Binary Integer Programming Problems under the Min–Max Regret Criterion](https://doi.org/10.1287/ijoc.2022.1189) by Wei Wu, Manuel Iori, Silvano Martello, and Mutsunori Yagiura, has associated [software/data](https://github.com/INFORMSJoC/2020.0301).
   * [FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by Mathieu Besançon, Alejandro Carderera, and Sebastian Pokutta, has associated software/data: [FrankWolfe.jl](https://github.com/INFORMSJoC/2021.0098).
