@@ -42,11 +42,11 @@ This is the Website for the Github repository for hosting software and data asso
   * [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2020.0231).
   * [A Software Package and Data Set for the Personal Protective Equipment Matching Problem During Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He, has associated [software/data](https://github.com/INFORMSJoC/2021.0171).
   * [Solving Stochastic Optimization with Expectation Constraints Eﬀiciently by a Stochastic Augmented Lagrangian-Type Algorithm](https://doi.org/10.1287/ijoc.2022.1228) by Liwei Zhang, Yule Zhang, Jia Wu, and Xiantao Xiao, has associated [software/data](https://github.com/INFORMSJoC/2021.0248).
+  * [Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances](https://doi.org/10.1287/ijoc.2022.1217) by Nicolau Andr ́es-Thi ́o, Mario Andr ́es Mu ̃noz, Kate Smith-Miles, has associated [software/data](https://github.com/INFORMSJoC/2021.0299).
  
 #### ACCEPTED PAPERS AWAITING PUBLICATION
  
 * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
-* [Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances](https://doi.org/10.1287/ijoc.2022.1217) by Nicolau Andr ́es-Thi ́o, Mario Andr ́es Mu ̃noz, Kate Smith-Miles, has associated [software/data](https://github.com/INFORMSJoC/2021.0299).
 * [Revisiting semidefinite programming approaches to options pricing: complexity and computational perspectives](https://doi.org/10.1287/ijoc.2022.1220) by Didier Henrion, Felix Kirschner, Etienne de Klerk, Milan Korda, Jean-Bernard Lasserre, and Victor Magron, has associated software/data: [Options/Pricing](https://github.com/INFORMSJoC/2021.0321).
 * [Integrated Backup Rolling Stock Allocation and Timetable Rescheduling with Uncertain Time-Variant Passenger Demand Under Disruptive Events](https://doi.org/10.1287/ijoc.2022.1233) by Jiateng Yin, Lixing Yang, Andrea D’Ariano, Tao Tang, and Ziyou Gao, has associated [software/data](https://github.com/INFORMSJoC/2021.0094).
 * 
