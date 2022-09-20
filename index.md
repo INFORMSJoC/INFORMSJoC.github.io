@@ -45,6 +45,7 @@ This is the Website for the Github repository for hosting software and data asso
   * [Solving Stochastic Optimization with Expectation Constraints Eﬀiciently by a Stochastic Augmented Lagrangian-Type Algorithm](https://doi.org/10.1287/ijoc.2022.1228) by Liwei Zhang, Yule Zhang, Jia Wu, and Xiantao Xiao, has associated [software/data](https://github.com/INFORMSJoC/2021.0248).
   * [Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances](https://doi.org/10.1287/ijoc.2022.1217) by Nicolau Andres-Thio, Mario Andres Munoz, Kate Smith-Miles, has associated [software/data](https://github.com/INFORMSJoC/2021.0299).
   * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
+  * [An algorithm for maximizing a convex function based on its minimum](https://doi.org/10.1287/ijoc.2022.1238) by Aharon Ben-Tal and Ernst Roos, has associated [software/data](https://github.com/INFORMSJoC/2022.0034).
  
 #### ACCEPTED PAPERS AWAITING PUBLICATION
  
@@ -52,6 +53,5 @@ This is the Website for the Github repository for hosting software and data asso
 * [Integrated Backup Rolling Stock Allocation and Timetable Rescheduling with Uncertain Time-Variant Passenger Demand Under Disruptive Events](https://doi.org/10.1287/ijoc.2022.1233) by Jiateng Yin, Lixing Yang, Andrea D’Ariano, Tao Tang, and Ziyou Gao, has associated [software/data](https://github.com/INFORMSJoC/2021.0094).
 * [A Polyhedral Study on Fuel-Constrained Unit Commitment](https://doi.org/10.1287/ijoc.2022.1235) by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu, has associated [software/data](https://github.com/INFORMSJoC/2021.0219).
 * [A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization](https://doi.org/10.1287/ijoc.2022.1237) by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2021.0058).
-* [An algorithm for maximizing a convex function based on its minimum](https://doi.org/10.1287/ijoc.2022.1238) by Aharon Ben-Tal and Ernst Roos, has associated [software/data](https://github.com/INFORMSJoC/2022.0034).
 * [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
 * 
