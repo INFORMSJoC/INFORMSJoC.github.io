@@ -53,3 +53,5 @@ This is the Website for the Github repository for hosting software and data asso
 * [A Polyhedral Study on Fuel-Constrained Unit Commitment](https://doi.org/10.1287/ijoc.2022.1235) by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu, has associated [software/data](https://github.com/INFORMSJoC/2021.0219).
 * [A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization](https://doi.org/10.1287/ijoc.2022.1237) by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2021.0058).
 * [An algorithm for maximizing a convex function based on its minimum](https://doi.org/10.1287/ijoc.2022.1238) by Aharon Ben-Tal and Ernst Roos, has associated [software/data](https://github.com/INFORMSJoC/2022.0034).
+* [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
+* 
