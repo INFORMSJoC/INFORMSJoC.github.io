@@ -47,12 +47,12 @@ This is the Website for the Github repository for hosting software and data asso
   * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
   * [An algorithm for maximizing a convex function based on its minimum](https://doi.org/10.1287/ijoc.2022.1238) by Aharon Ben-Tal and Ernst Roos, has associated [software/data](https://github.com/INFORMSJoC/2022.0034).
   * [Integrated Backup Rolling Stock Allocation and Timetable Rescheduling with Uncertain Time-Variant Passenger Demand Under Disruptive Events](https://doi.org/10.1287/ijoc.2022.1233) by Jiateng Yin, Lixing Yang, Andrea D’Ariano, Tao Tang, and Ziyou Gao, has associated [software/data](https://github.com/INFORMSJoC/2021.0094).
+  * [Disjunctive Rule Lists](https://doi.org/10.1287/ijoc.2022.1242) by Ronilo Ragodos and Tong Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0009).
+  * [A Polyhedral Study on Fuel-Constrained Unit Commitment](https://doi.org/10.1287/ijoc.2022.1235) by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu, has associated [software/data](https://github.com/INFORMSJoC/2021.0219).
+  * [Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach](https://doi.org/10.1287/ijoc.2022.1237) by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2021.0058).
  
 #### ACCEPTED PAPERS AWAITING PUBLICATION
  
 * [Revisiting semidefinite programming approaches to options pricing: complexity and computational perspectives](https://doi.org/10.1287/ijoc.2022.1220) by Didier Henrion, Felix Kirschner, Etienne de Klerk, Milan Korda, Jean-Bernard Lasserre, and Victor Magron, has associated software/data: [Options/Pricing](https://github.com/INFORMSJoC/2021.0321).
-* [A Polyhedral Study on Fuel-Constrained Unit Commitment](https://doi.org/10.1287/ijoc.2022.1235) by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu, has associated [software/data](https://github.com/INFORMSJoC/2021.0219).
-* [A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization](https://doi.org/10.1287/ijoc.2022.1237) by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2021.0058).
-* [Disjunctive Rule Lists](https://doi.org/10.1287/ijoc.2022.1242) by Ronilo Ragodos and Tong Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0009).
 * [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
 * 
