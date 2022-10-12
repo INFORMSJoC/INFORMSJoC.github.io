@@ -55,4 +55,4 @@ This is the Website for the Github repository for hosting software and data asso
  
 * [Revisiting semidefinite programming approaches to options pricing: complexity and computational perspectives](https://doi.org/10.1287/ijoc.2022.1220) by Didier Henrion, Felix Kirschner, Etienne de Klerk, Milan Korda, Jean-Bernard Lasserre, and Victor Magron, has associated software/data: [Options/Pricing](https://github.com/INFORMSJoC/2021.0321).
 * [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
-* 
+* [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
