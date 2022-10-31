@@ -32,7 +32,7 @@ This is the Website for the Github repository for hosting software and data asso
   * [A Restricted Dual Peaceman-Rachford Splitting Method for a Strengthened DNN Relaxation for QAP](https://doi.org/10.1287/ijoc.2022.1161) by Naomi Graham, Hao Hu, Jiyoung Im, Xinxin Li, and Henry Wolkowicz, has associated [software/data](https://github.com/INFORMSJoC/2020.0336).
   * [SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering](https://doi.org/10.1287/ijoc.2022.1166) by Veronica Piccialli, Antonio M. Sudoso, and Angelika Wiegele, has associated software/data: [SOS-SDP](https://github.com/INFORMSJoC/2021.0096).
 
-**Articles in Advance (SCHEDULED FOR 34/5)**
+**Volume 34, Issue 5**
   * [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://doi.org/10.1287/ijoc.2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe, has associated [software/data](https://github.com/INFORMSJoC/2020.0211).
   * [An Iterated Dual Substitution Approach for Binary Integer Programming Problems under the Min–Max Regret Criterion](https://doi.org/10.1287/ijoc.2022.1189) by Wei Wu, Manuel Iori, Silvano Martello, and Mutsunori Yagiura, has associated [software/data](https://github.com/INFORMSJoC/2020.0301).
   * [FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by Mathieu Besançon, Alejandro Carderera, and Sebastian Pokutta, has associated software/data: [FrankWolfe.jl](https://github.com/INFORMSJoC/2021.0098).
@@ -40,6 +40,11 @@ This is the Website for the Github repository for hosting software and data asso
   * [Decomposition and Adaptive Sampling for Data-Driven Inverse Linear Optimization](https://doi.org/10.1287/ijoc.2022.1162) by Rishabh Gupta and Qi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2020.0231).
   * [Projective Cutting-Planes for Robust Linear Programming and Cutting-stock Problems](https://doi.org/10.1287/ijoc.2022.1160) by Daniel Porumbel, has associated [software/data](https://github.com/INFORMSJoC/2020.0068).
   * [A Software Package and Data Set for the Personal Protective Equipment Matching Problem During Covid-19](https://doi.org/10.1287/ijoc.2022.1203) by Michele Samorani, Ram Bala, Rohit Jacob, and Shuhan He, has associated [software/data](https://github.com/INFORMSJoC/2021.0171).
+
+**Articles in Advance (SCHEDULED FOR 34/6)**
+
+ 
+
 
 **Articles in Advance (NOT YET SCHEDULED)**
   * [Solving Stochastic Optimization with Expectation Constraints Eﬀiciently by a Stochastic Augmented Lagrangian-Type Algorithm](https://doi.org/10.1287/ijoc.2022.1228) by Liwei Zhang, Yule Zhang, Jia Wu, and Xiantao Xiao, has associated [software/data](https://github.com/INFORMSJoC/2021.0248).
