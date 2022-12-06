@@ -7,7 +7,11 @@ Below are the detailed steps for creating a Github repo associated with an IJOC 
 - Go to https://github.com/INFORMSJoC 
 - Sign in with userid and password (this probably won't need to be done every time)
 - Click on NEW. This will take you to a page for setting up the repo.
-- In the `Repository name`, type the new repository's name. It should be in the form `XXXX.YYYY` (four numbers followed by four more numbers). These are derived from the manuscript ID. The first four are the year of submission and the second four are the numbers that come after the last dash (padded with an extra zero). The latter is just a sequence number that is incremented throughout the year across all papers. so if the manuscript ID is `JOC-2022-11-OA-354`, then the repo name is `2022.0354`
+- In the `Repository name`, type the new repository's name. 
+  - The name should be in the form `XXXX.YYYY` (four numbers followed by four more numbers). 
+  - These are derived from the manuscript ID. 
+  - The first four are the year of submission and the second four are the numbers that come after the last dash (padded with an extra zero). 
+  - The latter is just a sequence number that is incremented throughout the year across all papers. so if the manuscript ID is `JOC-2022-11-OA-354`, then the repo name is `2022.0354`.
 - Keep the repository `Private`
 - Check the box for `Add a README file`
 - Click on CREATE REPOSITORY
@@ -36,7 +40,7 @@ After the author(s) submit the Pull Request, you will be notified and you can go
 - If you want to request changes, just comment on the Pull Request.
 - After everything looks good, click on the merge button and confirm the merge.
 
-## Getting the DOI
+## Getting the DOI (Editor)
 
 Now it is time to make the release and get the DOI. 
 
@@ -49,7 +53,7 @@ Now it is time to make the release and get the DOI.
 - The release title and notes section can contain whatever you like. 
 - Finally, publish the release.
 
-## Finalize the README
+## Finalize the README (Editor)
 
 - Go back to Zenodo.org to get the markdown for the DOI badge (the DOI should be automatically generated when you make the release). 
 - As before go to your list of Github repos and this time, the repo you are working with should have a blue DOI badge below the repo name 
