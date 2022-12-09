@@ -66,5 +66,5 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
 Simulation-Optimization Algorithms](https://doi.org/10.1287/ijoc.2022.1261) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2021.0251).
 * [Convergence Analysis of Stochastic Kriging-Assisted
 Simulation with Random Covariates](https://doi.org/10.1287/ijoc.2022.1263) by Cheng Li, Siyang Gao, and Jianzhong Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0329).
-* [Aircraft conflict resolution: A benchmark
+* [Aircraft Conflict Resolution: A Benchmark
 generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
