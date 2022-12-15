@@ -4,7 +4,7 @@ This is the Website for the Github repository for hosting software and data asso
 
 ### Available Software and Data 
 
-#### ACCEPTED PAPERS, NOT PUBLISHED
+#### ACCEPTED, BUT NOT YET PUBLISHED
 * [Revisiting semidefinite programming approaches to options pricing: complexity and computational perspectives](https://doi.org/10.1287/ijoc.2022.1220) by Didier Henrion, Felix Kirschner, Etienne de Klerk, Milan Korda, Jean-Bernard Lasserre, and Victor Magron, has associated software/data: [Options/Pricing](https://github.com/INFORMSJoC/2021.0321).
 * [Reference Vector Assisted Candidate Search with Aggregated Surrogate for Computationally Expensive Many Objective Optimization Problems](https://doi.org/10.1287/ijoc.2022.1260) by Wenyu Wang and Christine A. Shoemaker, has associated [software/data](https://github.com/INFORMSJoC/2021.0343).
 * [Diagnostic Tools for Evaluating and Comparing
@@ -16,16 +16,16 @@ generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Mar
 * [Now You See it, Now You Don’t: Obfuscation of
 Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 
-#### PAPERS, PUBLISHED
+#### PUBLISHED IN ARTICLES IN ADVANCE
 
-**Published in Articles in Advance (NOT SCHEDULED)**
+**Published in AIA (NOT SCHEDULED)**
   * [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
   * [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
   * [Robust Sourcing Under Multi-level Supply Risks:
 Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) by Ming Zhao, Nickolas Freeman, and Kai Pan, has associated [software/data](https://github.com/INFORMSJoC/2021-0046).
 * [A Multiobjective Approach for Sector Duration Optimization in Stereotactic Radiosurgery Treatment Planning](https://doi.org/10.1287/ijoc.2022.1252) by Oylum Seker, Mucahit Cevik, Merve Bodur, Young Le, and Mark Ruschin, has associated [software/data](https://github.com/INFORMSJoC/2021.0103).
 
-**Published in Articles in Advance (SCHEDULED FOR Volume 34, Issue 6)**
+**Published in AIA (SCHEDULED FOR Volume 34, Issue 6)**
   * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
   * [Solving Stochastic Optimization with Expectation Constraints Eﬀiciently by a Stochastic Augmented Lagrangian-Type Algorithm](https://doi.org/10.1287/ijoc.2022.1228) by Liwei Zhang, Yule Zhang, Jia Wu, and Xiantao Xiao, has associated [software/data](https://github.com/INFORMSJoC/2021.0248).
   * [Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances](https://doi.org/10.1287/ijoc.2022.1217) by Nicolau Andres-Thio, Mario Andres Munoz, Kate Smith-Miles, has associated [software/data](https://github.com/INFORMSJoC/2021.0299).
@@ -34,6 +34,8 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
   * [Disjunctive Rule Lists](https://doi.org/10.1287/ijoc.2022.1242) by Ronilo Ragodos and Tong Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0009).
   * [A Polyhedral Study on Fuel-Constrained Unit Commitment](https://doi.org/10.1287/ijoc.2022.1235) by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu, has associated [software/data](https://github.com/INFORMSJoC/2021.0219). 
   * [Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach](https://doi.org/10.1287/ijoc.2022.1237) by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2021.0058).
+
+#### PUBLISHED
 
 **Volume 34, Issue 5**
   * [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://doi.org/10.1287/ijoc.2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe, has associated [software/data](https://github.com/INFORMSJoC/2020.0211).
