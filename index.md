@@ -27,7 +27,14 @@ with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valev
 Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) by Ming Zhao, Nickolas Freeman, and Kai Pan, has associated [software/data](https://github.com/INFORMSJoC/2021-0046).
 * [A Multiobjective Approach for Sector Duration Optimization in Stereotactic Radiosurgery Treatment Planning](https://doi.org/10.1287/ijoc.2022.1252) by Oylum Seker, Mucahit Cevik, Merve Bodur, Young Le, and Mark Ruschin, has associated [software/data](https://github.com/INFORMSJoC/2021.0103).
 
-**Published in AIA, SCHEDULED FOR Volume 34, Issue 6 (LIGHT GREEN)**
+**Published in AIA, SCHEDULED FOR Volume 35, Issue 1 (LIGHT GREEN)**
+*
+*
+*
+
+#### PUBLISHED (DARK GREEN)
+
+**Volume 34, Issue 6**
   * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
   * [Solving Stochastic Optimization with Expectation Constraints Eﬀiciently by a Stochastic Augmented Lagrangian-Type Algorithm](https://doi.org/10.1287/ijoc.2022.1228) by Liwei Zhang, Yule Zhang, Jia Wu, and Xiantao Xiao, has associated [software/data](https://github.com/INFORMSJoC/2021.0248).
   * [Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances](https://doi.org/10.1287/ijoc.2022.1217) by Nicolau Andres-Thio, Mario Andres Munoz, Kate Smith-Miles, has associated [software/data](https://github.com/INFORMSJoC/2021.0299).
@@ -36,8 +43,6 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
   * [Disjunctive Rule Lists](https://doi.org/10.1287/ijoc.2022.1242) by Ronilo Ragodos and Tong Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0009).
   * [A Polyhedral Study on Fuel-Constrained Unit Commitment](https://doi.org/10.1287/ijoc.2022.1235) by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu, has associated [software/data](https://github.com/INFORMSJoC/2021.0219). 
   * [Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach](https://doi.org/10.1287/ijoc.2022.1237) by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2021.0058).
-
-#### PUBLISHED (DARK GREEN)
 
 **Volume 34, Issue 5**
   * [Disjoint Bilinear Optimization: A Two-stage Robust Optimization Perspective](https://doi.org/10.1287/ijoc.2022.1163) by Jianzhe Zhen, Ahmadreza Marandi, Danique de Moor, Dick den Hertog, and Lieven Vandenberghe, has associated [software/data](https://github.com/INFORMSJoC/2020.0211).
