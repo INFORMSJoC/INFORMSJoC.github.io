@@ -12,7 +12,7 @@ inviolable rules. For examples, see https://INFORMSJoC.github.io.
 In general, the repository contents should be as follows.
 
  * `README.md` should describe the contribution, how to use it, how to cite
-   it, and how to replicate the experim,ents in the paper, following roughly
+   it, and how to replicate the experiments in the paper, following roughly
    the format of the example. Note that the `.md` extension means "markdown,"
    a simple text formatting language you can learn about
    [here](https://guides.github.com/features/mastering-markdown/).
@@ -21,7 +21,7 @@ In general, the repository contents should be as follows.
    you intend to distribute the software and/or data. You must provide a
    license in order for the material to be used by others. An open source
    license is preferred (see the list of approved license at [Open Source
-   Initiative](https://opensource.org/licenses), the license should allow free
+   Initiative](https://opensource.org/licenses), and the license should allow free
    academic use at a minimum. Recommended licenses include the [MIT
    License](https://opensource.org/licenses/MIT) for software or any of the
    various [Creative Commons licenses](https://creativecommons.org/licenses/)
@@ -29,7 +29,7 @@ In general, the repository contents should be as follows.
 
  * `AUTHORS` is an optional file, standard in the open source world, that
    lists the authors of the contribution (usually just a list of names and
-   e-mails.
+   e-mails).
 
  * Depending on how you want to organize things, you may also have a
    `Makefile` or other files needed to build the software and/or run the
@@ -62,14 +62,14 @@ Once your paper enters the review process, the Area Editor will create a
 private repository from this template and give you read access to it. To
 populate the repository with your own materials, fork it to make a copy that
 will live in your own Github account. Once you populate and customize the
-repository to your liking, open a Pull Request to begin a review by the Area
+repository to your liking, open a Pull Request to begin the review by the Area
 Editor. Once changes are accepted, the review process will begin.
 
 
 ## Review process 
 
 As part of the review process, additional changes may be requested. These can
-also be submitted by Pull Request.
+also be submitted by a Pull Request.
 
 ## Legal stuff
 
@@ -99,9 +99,9 @@ number), let the Area Editor know.
  * What if I have an existing repository where the software is already being
    developed? Can I continue to develop there?
 
-   * We expect this to sometimes be the case. In general, we would still like
-     to archive the version of the software and/or data associated with the
-     paper itself in a static repository withink the IJOC Github organization.
+   * We expect this to sometimes be the case. But we still need to archive
+     the version of the software and/or data associated with the
+     paper itself in a static and permanent repository within the IJOC Github organization.
      If you wish us to fork or move an existing repository into the IJOC
      organization as part of the submission process, that can be discussed.
 
@@ -112,7 +112,7 @@ number), let the Area Editor know.
      a personally managed site on Github or one of the other similar sites.
      You should put a link to the site where you will manage the software in
      the long-term in the README.md in the IJOC reporitory to ensure people
-     can find your development site.
+     can find your development site.  You cannot continue development on the IJOC Github site.
 
  * What if I later find a bug in the software and I want to fix it?
 
@@ -122,5 +122,5 @@ number), let the Area Editor know.
  * If I come out with a new version of the software later on, can I add it to
    the existing repository within the IJOC organization?
 
-   * The answer to this may evolve over time. Please contact us if/when this
+   * At the current time this is not done.  The answer to this may evolve over time. Please contact us if/when this
      happens and we will make a determination.
