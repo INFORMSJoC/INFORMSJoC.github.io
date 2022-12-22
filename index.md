@@ -28,9 +28,7 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
 * [A Multiobjective Approach for Sector Duration Optimization in Stereotactic Radiosurgery Treatment Planning](https://doi.org/10.1287/ijoc.2022.1252) by Oylum Seker, Mucahit Cevik, Merve Bodur, Young Le, and Mark Ruschin, has associated [software/data](https://github.com/INFORMSJoC/2021.0103).
 
 **Published in AIA, SCHEDULED FOR Volume 35, Issue 1 (LIGHT GREEN)**
-*
-*
-*
+* Forthcoming...
 
 #### PUBLISHED (DARK GREEN)
 
