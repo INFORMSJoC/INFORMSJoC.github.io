@@ -2,4 +2,4 @@
 
 This site houses data and code uploaded by authors for papers published in the journal.
 
-[Details](index.md)
+[Click Here for Details](index.md)
