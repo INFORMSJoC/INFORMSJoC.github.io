@@ -6,15 +6,10 @@ This is the Website for the Github repository for hosting software and data asso
 
 #### ACCEPTED, BUT NOT YET PUBLISHED (RED)
 * [Revisiting semidefinite programming approaches to options pricing: complexity and computational perspectives](https://doi.org/10.1287/ijoc.2022.1220) by Didier Henrion, Felix Kirschner, Etienne de Klerk, Milan Korda, Jean-Bernard Lasserre, and Victor Magron, has associated software/data: [Options/Pricing](https://github.com/INFORMSJoC/2021.0321).
-* [Reference Vector Assisted Candidate Search with Aggregated Surrogate for Computationally Expensive Many Objective Optimization Problems](https://doi.org/10.1287/ijoc.2022.1260) by Wenyu Wang and Christine A. Shoemaker, has associated [software/data](https://github.com/INFORMSJoC/2021.0343).
 * [Diagnostic Tools for Evaluating and Comparing
 Simulation-Optimization Algorithms](https://doi.org/10.1287/ijoc.2022.1261) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2021.0251).
 * [Convergence Analysis of Stochastic Kriging-Assisted
 Simulation with Random Covariates](https://doi.org/10.1287/ijoc.2022.1263) by Cheng Li, Siyang Gao, and Jianzhong Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0329).
-* [Aircraft Conflict Resolution: A Benchmark
-generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
-* [Now You See it, Now You Don’t: Obfuscation of
-Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 * [Acuity-Based Allocation of ICU-Downstream Beds
 with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valeva, Guodong Pang, Andrew J. Schaefer, and Gilles Clermont, has associated [software/data](https://github.com/INFORMSJoC/2021.0133).
 
@@ -26,6 +21,11 @@ with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valev
   * [Robust Sourcing Under Multi-level Supply Risks:
 Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) by Ming Zhao, Nickolas Freeman, and Kai Pan, has associated [software/data](https://github.com/INFORMSJoC/2021-0046).
 * [A Multiobjective Approach for Sector Duration Optimization in Stereotactic Radiosurgery Treatment Planning](https://doi.org/10.1287/ijoc.2022.1252) by Oylum Seker, Mucahit Cevik, Merve Bodur, Young Le, and Mark Ruschin, has associated [software/data](https://github.com/INFORMSJoC/2021.0103).
+* [Reference Vector Assisted Candidate Search with Aggregated Surrogate for Computationally Expensive Many Objective Optimization Problems](https://doi.org/10.1287/ijoc.2022.1260) by Wenyu Wang and Christine A. Shoemaker, has associated [software/data](https://github.com/INFORMSJoC/2021.0343).
+* [Aircraft Conflict Resolution: A Benchmark
+generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
+* [Now You See it, Now You Don’t: Obfuscation of
+Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 
 **Published in AIA, SCHEDULED FOR Volume 35, Issue 1 (LIGHT GREEN)**
 * Forthcoming...
