@@ -13,11 +13,6 @@ COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam
 #### PUBLISHED IN ARTICLES IN ADVANCE
 
 **Published in AIA, BUT NOT SCHEDULED (YELLOW)**
-  * [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
-  * [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
-  * [Robust Sourcing Under Multi-level Supply Risks:
-Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) by Ming Zhao, Nickolas Freeman, and Kai Pan, has associated [software/data](https://github.com/INFORMSJoC/2021-0046).
-* [A Multiobjective Approach for Sector Duration Optimization in Stereotactic Radiosurgery Treatment Planning](https://doi.org/10.1287/ijoc.2022.1252) by Oylum Seker, Mucahit Cevik, Merve Bodur, Young Le, and Mark Ruschin, has associated [software/data](https://github.com/INFORMSJoC/2021.0103).
 * [Reference Vector Assisted Candidate Search with Aggregated Surrogate for Computationally Expensive Many Objective Optimization Problems](https://doi.org/10.1287/ijoc.2022.1260) by Wenyu Wang and Christine A. Shoemaker, has associated [software/data](https://github.com/INFORMSJoC/2021.0343).
 * [Diagnostic Tools for Evaluating and Comparing
 Simulation-Optimization Algorithms](https://doi.org/10.1287/ijoc.2022.1261) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2021.0251).
@@ -28,7 +23,11 @@ generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Mar
 Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 
 **Published in AIA, SCHEDULED FOR Volume 35, Issue 1 (LIGHT GREEN)**
-* Forthcoming...
+* [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
+* [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
+* [Robust Sourcing Under Multi-level Supply Risks:
+Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) by Ming Zhao, Nickolas Freeman, and Kai Pan, has associated [software/data](https://github.com/INFORMSJoC/2021-0046).
+* [A Multiobjective Approach for Sector Duration Optimization in Stereotactic Radiosurgery Treatment Planning](https://doi.org/10.1287/ijoc.2022.1252) by Oylum Seker, Mucahit Cevik, Merve Bodur, Young Le, and Mark Ruschin, has associated [software/data](https://github.com/INFORMSJoC/2021.0103).
 
 #### PUBLISHED (DARK GREEN)
 
