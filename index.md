@@ -6,7 +6,6 @@ This is the Website for the Github repository for hosting software and data asso
 
 #### ACCEPTED, BUT NOT YET PUBLISHED (RED)
 * [Convergence Analysis of Stochastic Kriging-Assisted Simulation with Random Covariates](https://doi.org/10.1287/ijoc.2022.1263) by Cheng Li, Siyang Gao, and Jianzhong Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0329).
-* [Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valeva, Guodong Pang, Andrew J. Schaefer, and Gilles Clermont, has associated [software/data](https://github.com/INFORMSJoC/2021.0133).
 * [An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting
 COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
 
@@ -21,6 +20,7 @@ Simulation-Optimization Algorithms](https://doi.org/10.1287/ijoc.2022.1261) by D
 generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
 * [Now You See it, Now You Don’t: Obfuscation of
 Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
+* [Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valeva, Guodong Pang, Andrew J. Schaefer, and Gilles Clermont, has associated [software/data](https://github.com/INFORMSJoC/2021.0133).
 
 **Published in AIA, SCHEDULED FOR Volume 35, Issue 1 (LIGHT GREEN)**
 * [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
