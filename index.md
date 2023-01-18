@@ -8,6 +8,7 @@ This is the Website for the Github repository for hosting software and data asso
 * [Convergence Analysis of Stochastic Kriging-Assisted Simulation with Random Covariates](https://doi.org/10.1287/ijoc.2022.1263) by Cheng Li, Siyang Gao, and Jianzhong Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0329).
 * [An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting
 COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
+* [Scalable Parallel Nonlinear Optimization with PyNumero and Parapint](https://doi.org/10.1287/ijoc.2023.1272) by Jose S. Rodriguez, Robert B. Parker, Carl D. Laird, Bethany L. Nicholson, John D. Siirola, and Michael L. Bynum, has associated [software/data](https://github.com/INFORMSJoC/2021.0285).
 
 #### PUBLISHED IN ARTICLES IN ADVANCE
 
