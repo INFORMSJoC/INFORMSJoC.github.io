@@ -9,7 +9,7 @@ This is the Website for the Github repository for hosting software and data asso
 COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
 * [Scalable Parallel Nonlinear Optimization with PyNumero and Parapint](https://doi.org/10.1287/ijoc.2023.1272) by Jose S. Rodriguez, Robert B. Parker, Carl D. Laird, Bethany L. Nicholson, John D. Siirola, and Michael L. Bynum, has associated [software/data](https://github.com/INFORMSJoC/2021.0285).
 * [SimOpt: A Testbed for Simulation-Optimization Experiments](https://doi.org/10.1287/ijoc.2023.1273) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2022.0011).
-* [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https:  github.com/INFORMSJ0C/2021.0104).
+* [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJ0C/2021.0104).
 
 #### PUBLISHED IN ARTICLES IN ADVANCE
 
