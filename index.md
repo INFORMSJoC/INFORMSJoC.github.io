@@ -76,6 +76,8 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
 
 **Volume 33, Issue 1**
  * [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich, has associated software/data: [SDDP.jl](https://github.com/INFORMSJoC/2020.0987).
+ 
+<hr>
 
 **Volume 32, Issue 4**
  * [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter, has associated software/data: [PyMOSO](https://github.com/INFORMSJoc/2019.0902).
