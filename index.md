@@ -34,7 +34,7 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
 
 #### PUBLISHED (DARK GREEN)
 **Forthcoming, Volume 35, Issue 1**
-<hr>
+
 **Volume 34, Issue 6**
   * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
   * [Solving Stochastic Optimization with Expectation Constraints Eﬀiciently by a Stochastic Augmented Lagrangian-Type Algorithm](https://doi.org/10.1287/ijoc.2022.1228) by Liwei Zhang, Yule Zhang, Jia Wu, and Xiantao Xiao, has associated [software/data](https://github.com/INFORMSJoC/2021.0248).
@@ -71,12 +71,12 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
 **Volume 34, Issue 1**
  * [alfonso: Matlab package for nonsymmetric conic optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız, has associated software/data: [alfonso](https://github.com/INFORMSJoC/2021.1058).
  * [Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2020.1022) by J. Custodio and M. Lejeune, has associated software/data: [VBOHCA](https://github.com/INFORMSJoC/2020.1022).
-<hr>
+
 **Volume 33, Issue 4**
  * [frvcpy: An Open-Source Solver for the Fixed Route Vehicle Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Froger, JE Mendoza, and J. Goodson, has associated software/data: [frvcpy](https://github.com/INFORMSJoc/2020.1035).
 
 **Volume 33, Issue 1**
  * [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich, has associated software/data: [SDDP.jl](https://github.com/INFORMSJoC/2020.0987).
-<hr>
+
 **Volume 32, Issue 4**
  * [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter, has associated software/data: [PyMOSO](https://github.com/INFORMSJoc/2019.0902).
