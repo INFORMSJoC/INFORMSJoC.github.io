@@ -28,8 +28,8 @@ Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) 
 * [Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valeva, Guodong Pang, Andrew J. Schaefer, and Gilles Clermont, has associated [software/data](https://github.com/INFORMSJoC/2021.0133).
 * [Convergence Analysis of Stochastic Kriging-Assisted Simulation with Random Covariates](https://doi.org/10.1287/ijoc.2022.1263) by Cheng Li, Siyang Gao, and Jianzhong Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0329).
 
-**Published in AIA, SCHEDULED FOR Volume 35, Issue 2 **
-Forthcoming
+**Published in AIA, SCHEDULED FOR Volume 35, Issue 2 (Forthcoming) **
+
 
 #### PUBLISHED 
 
