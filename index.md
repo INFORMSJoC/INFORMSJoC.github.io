@@ -30,6 +30,7 @@ Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) 
 
 **Published in AIA, SCHEDULED FOR Volume 35, Issue 2 **
 Forthcoming
+*
 
 #### PUBLISHED 
 
