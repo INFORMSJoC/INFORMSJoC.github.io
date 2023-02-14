@@ -39,7 +39,7 @@ COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam
 
 #### PUBLISHED 
 
-**Volume 35, Issue 1 **
+**Volume 35, Issue 1**
 * [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
 * [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/10.1287/ijoc.2022.1245) by Michael D. Moskal II, Erdi Dasdemir, and Rajan Batta, has associated [software/data](https://github.com/INFORMSJoC/2022.0032).
 * [Robust Sourcing Under Multi-level Supply Risks:
