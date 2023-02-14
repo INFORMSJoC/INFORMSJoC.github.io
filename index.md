@@ -14,6 +14,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
 * [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
 * [TGVx: Dynamic Personalized POI Deep Recommendation Model](https://doi.org/10.1287/ijoc.2023.1286) by Xiao-Jun Wang, Tao Liu, and Weiguo Fan, has associated [software/data](https://github.com/INFORMSJoC/2021.0010).
+* [Mixed-Integer Programming Versus Constraint Programming for Shop Scheduling Problems: New Results and Outlook](https://doi.org/10.1287/ijoc.2023.1287) by Bahman Naderi, Ruben Ruiz, and Vahid Roshanaei, has associated [software/data](https://github.com/INFORMSJoC/2021.0326).
 
 
 #### PUBLISHED IN ARTICLES IN ADVANCE (AIA)
