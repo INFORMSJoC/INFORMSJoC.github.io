@@ -5,8 +5,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 ### Available Software and Data 
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
-* [An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting
-COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
 * [Scalable Parallel Nonlinear Optimization with PyNumero and Parapint](https://doi.org/10.1287/ijoc.2023.1272) by Jose S. Rodriguez, Robert B. Parker, Carl D. Laird, Bethany L. Nicholson, John D. Siirola, and Michael L. Bynum, has associated [software/data](https://github.com/INFORMSJoC/2021.0285).
 * [SimOpt: A Testbed for Simulation-Optimization Experiments](https://doi.org/10.1287/ijoc.2023.1273) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2022.0011).
 * [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0104).
@@ -15,6 +13,7 @@ COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam
 * [Convex and Nonconvex Risk-based Linear Regression at Scale](https://doi.org/10.1287/ijoc.2023.1282) by Can Wu, Ying Cui, Donghui Li, and Defeng Sun, has associated [software/data](https://github.com/INFORMSJoC/2022.0012).
 * [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
 * [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
+* [TGVx: Dynamic Personalized POI Deep Recommendation Model](https://doi.org/10.1287/ijoc.2023.1286) by Xiao-Jun Wang, Tao Liu, and Weiguo Fan, has associated [software/data](https://github.com/INFORMSJoC/2021.0010).
 
 
 #### PUBLISHED IN ARTICLES IN ADVANCE (AIA)
@@ -30,6 +29,8 @@ generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Mar
 Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 * [Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valeva, Guodong Pang, Andrew J. Schaefer, and Gilles Clermont, has associated [software/data](https://github.com/INFORMSJoC/2021.0133).
 * [Convergence Analysis of Stochastic Kriging-Assisted Simulation with Random Covariates](https://doi.org/10.1287/ijoc.2022.1263) by Cheng Li, Siyang Gao, and Jianzhong Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0329).
+* [An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting
+COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
 
 **Published in AIA, SCHEDULED FOR Volume 35, Issue 2 (Forthcoming) **
 
