@@ -40,42 +40,16 @@ After the author(s) submit the Pull Request, you will be notified and you can go
 - If you want to request changes, just comment on the Pull Request.
 - After everything looks good, click on the merge button and confirm the merge.
 
-## Getting the DOI (Editor)
+## Archiving a snapshot (Editor)
 
-Now it is time to make the release and get the DOI. 
+Now it is time to make the release in order to create a snapshot of the repo, which is what the DOI will point to.  
 
 - Make the repo public in the settings by going to the "danger zone" at the bottom and changing visibility to public.
-- Head over to Zenodo.org and log in with your Github account to activate the repo by going to your profile, clicking on GitHub and flip the setting for the repo from Off to On.
-- Go back to Github and make a release tag named `vXXXX.YYYY`, where `XXXX.YYYY` is the manuscript number, i.e., the name of the repo. Example: if `2021.0070` is the repo name, then `v2021.0070` is the version number. 
+- Make a release tag named `vXXXX.YYYY`, where `XXXX.YYYY` is the manuscript number, i.e., the name of the repo. Example: if `2021.0070` is the repo name, then `v2021.0070` is the version number. 
 - To make the release, click on the link on the right side to "create a new release".
 - Click the "choose a tag" dropdown and type the new release tag name in the dialogue. 
 - Click on "Create new tag on publish"
 - The release title and notes section can contain whatever you like. 
 - Finally, publish the release.
-
-## Finalize the README (Editor)
-
-- Go back to Zenodo.org to get the markdown for the DOI badge (the DOI should be automatically generated when you make the release). 
-- As before, go to your list of Github repos and this time, the repo you are working with should have a blue DOI badge below the repo name 
-- Click on the badge and a window will pop-up. Copy the the text in the Markdown box. 
-- Then go back to Github and click the pencil icon at the top right of the README. That will allow you to edit it. 
-- Put the text you copied in the appropriate place to display the badge and fill in the rest of the text as in the template. It will look something like this:
-  ```
-  ## Cite
-
-  [![DOI](https://zenodo.org/badge/364773022.svg)](https://zenodo.org/badge/latestdoi/364773022)
-
-  Below is the BibTex for citing this data.
-
-  @article{PutABibTexKeyHere,
-    author =        {Fill in Authors Names},
-    publisher =     {INFORMS Journal on Computing},
-    title =         {Fill in Title},
-    year =          {File in year},
-    doi =           {Fill in DOI},
-    url =           {https://github.com/INFORMSJoC/},
-  }  
-  ```
-- Click on Commit Changes
 
 YOU ARE ALL DONE!
