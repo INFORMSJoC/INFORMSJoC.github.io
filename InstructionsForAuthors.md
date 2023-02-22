@@ -99,7 +99,7 @@ https://doi.org/10.1287/ijoc.XXXX.YYYY.cd
 ## Citing the repo in your paper
 
 The repo should be cited in your paper, as follows (if using BibTex). 
-
+```
 @misc{CacheTest,
   author =        {T. Ralphs},
   publisher =     {INFORMS Journal on Computing},
@@ -108,6 +108,7 @@ The repo should be cited in your paper, as follows (if using BibTex).
   doi =           {10.1287/ijoc.2019.0000.cd},
   url =           {https://github.com/INFORMSJoC/2019.0000},
 }  
+```
 
 ## FAQs
 
