@@ -3,10 +3,17 @@
 IJOC now hosts accompanying software and data within the [IJOC Github
 organization](https://github.com/INFORMSJoC).
 
+## Repository Name
+
+The name of the repository associated with your paper will be `XXXX.YYYY`
+and is derived from the manuscript number in manuscript central. Typically,
+`XXXX` will be the year in which the paper is submitted, whereas `YYYY`
+is a four digit sequence number that is part of the manuscript number.
+
 ## Repository layout
 
 Your repository layout should resemble that of the template 
-[here](https://github.com/INFORMSJoC/JoCTemplate)
+[here](https://github.com/INFORMSJoC/2019.0000)
 to the extent possible, although some variations may occur and there are no 
 inviolable rules. For examples, see https://INFORMSJoC.github.io.
 In general, the repository contents should be as follows.
@@ -65,7 +72,6 @@ will live in your own Github account. Once you populate and customize the
 repository to your liking, open a Pull Request to begin the review by the Area
 Editor. Once changes are accepted, the review process will begin.
 
-
 ## Review process 
 
 As part of the review process, additional changes may be requested. These can
@@ -78,13 +84,30 @@ and that the copyright holders have been notified of the submission. The
 copyright holder may or may not be you, depending on your employment contract
 and who funded the work.
 
-## Version number and DOI
+## Archive and DOI
 
-The version of the software and/or data associated with the paper will be
-tagged in Github as a release and given both a version number and a DOI. The
-default version number would be 1.0, but if the software is already under
-development and has a versioning scheme (or you just want a different version
-number), let the Area Editor know.
+Once accepted by the editor, a snapshot of the contents of the repo will be archived 
+by creating a tag (known as a release on Github) with the name `vXXXX.YYYY`, where
+the repo's name is `XXXX.YYYY`. This paper and the snapshot of the repo will be given 
+their own separate DOIS, also derived from the manuscript number. If the repo is name
+`XXXX.YYYY`, then the DOIs will be
+
+https://doi.org/10.1287/ijoc.XXXX.YYYY
+
+https://doi.org/10.1287/ijoc.XXXX.YYYY.cd
+
+## Citing the repo in your paper
+
+The repo should be cited in your paper, as follows (if using BibTex). 
+
+@misc{CacheTest,
+  author =        {T. Ralphs},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{CacheTest}},
+  year =          {2020},
+  doi =           {10.1287/ijoc.2019.0000.cd},
+  url =           {https://github.com/INFORMSJoC/2019.0000},
+}  
 
 ## FAQs
 
