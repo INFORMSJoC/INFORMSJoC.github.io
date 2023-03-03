@@ -19,6 +19,8 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [A prediction-based approach for online dynamic appointment scheduling: a case study in radiotherapy treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
 * [Perturbation-based thresholding search for packing equal circles and spheres](https://doi.org/10.1287/ijoc.2023.1290) by Xiangjing Lai, Jin-Kao Hao, Renbin Xiao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0004).
 * [RSOME in Python: An Open-Source Package for Robust Stochastic Optimization Made Easy](https://doi.org/10.1287/ijoc.2023.1291) by Zhi Chen and Peng Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0146).
+* [Modeling Contingent Decision Behavior: A Bayesian Nonparametric Preference Learning Approach](https://doi.org/10.1287/ijoc.2023.1291) by Jiapeng Liu, Milosz Kadzinski, and Xiuwu Liao, has associated [software/data](https://github.com/INFORMSJoC/2021.0328).
+
 
 
 #### PUBLISHED IN ARTICLES IN ADVANCE (AIA)
