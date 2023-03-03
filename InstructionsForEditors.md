@@ -44,7 +44,6 @@ After the author(s) submit the Pull Request, you will be notified and you can go
 
 Now it is time to make the release in order to create a snapshot of the repo, which is what the DOI will point to.  
 
-- Make the repo public in the settings by going to the "danger zone" at the bottom and changing visibility to public.
 - Make a release tag named `vXXXX.YYYY`, where `XXXX.YYYY` is the manuscript number, i.e., the name of the repo. Example: if `2021.0070` is the repo name, then `v2021.0070` is the version number. 
 - To make the release, click on the link on the right side to "create a new release".
 - Click the "choose a tag" dropdown and type the new release tag name in the dialogue. 
