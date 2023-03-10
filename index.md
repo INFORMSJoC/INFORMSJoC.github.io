@@ -5,8 +5,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 ### Available Software and Data 
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
-* [Scalable Parallel Nonlinear Optimization with PyNumero and Parapint](https://doi.org/10.1287/ijoc.2023.1272) by Jose S. Rodriguez, Robert B. Parker, Carl D. Laird, Bethany L. Nicholson, John D. Siirola, and Michael L. Bynum, has associated [software/data](https://github.com/INFORMSJoC/2021.0285).
-* [SimOpt: A Testbed for Simulation-Optimization Experiments](https://doi.org/10.1287/ijoc.2023.1273) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2022.0011).
 * [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0104).
 * [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://doi.org/10.1287/ijoc.2023.1279) by Jingxu Xu and Zeyu Zheng, has associated [software/data](https://github.com/INFORMSJoC/2021.0289).
 * [Learning Equilibria in Asymmetric Auction Games](https://doi.org/10.1287/ijoc.2023.1281) by Martin Bichler, Nils Kohring, and Stefan Heidekrueger, has associated [software/data](https://github.com/INFORMSJoC/2021.0151).
@@ -26,21 +24,19 @@ This is the Website for the GitHub repository for hosting software and data asso
 #### PUBLISHED IN ARTICLES IN ADVANCE (AIA)
 
 **Published in AIA, BUT NOT SCHEDULED **
+
+
+**Published in AIA and/or SCHEDULED FOR Volume 35, Issue 2**
+* [Aircraft Conflict Resolution: A Benchmark Generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
+* [Now You See it, Now You Don’t: Obfuscation of Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 * [Reference Vector Assisted Candidate Search with Aggregated Surrogate for Computationally Expensive Many Objective Optimization Problems](https://doi.org/10.1287/ijoc.2022.1260) by Wenyu Wang and Christine A. Shoemaker, has associated [software/data](https://github.com/INFORMSJoC/2021.0343).
-* [Diagnostic Tools for Evaluating and Comparing
-Simulation-Optimization Algorithms](https://doi.org/10.1287/ijoc.2022.1261) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2021.0251).
 * [Revisiting Semidefinite Programming Approaches to Options Pricing: Complexity and Computational Perspectives](https://doi.org/10.1287/ijoc.2022.1220) by Didier Henrion, Felix Kirschner, Etienne de Klerk, Milan Korda, Jean-Bernard Lasserre, and Victor Magron, has associated software/data: [Options/Pricing](https://github.com/INFORMSJoC/2021.0321).
-* [Aircraft Conflict Resolution: A Benchmark
-generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
-* [Now You See it, Now You Don’t: Obfuscation of
-Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
-* [Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valeva, Guodong Pang, Andrew J. Schaefer, and Gilles Clermont, has associated [software/data](https://github.com/INFORMSJoC/2021.0133).
+* [Diagnostic Tools for Evaluating and Comparing Simulation-Optimization Algorithms](https://doi.org/10.1287/ijoc.2022.1261) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2021.0251).
 * [Convergence Analysis of Stochastic Kriging-Assisted Simulation with Random Covariates](https://doi.org/10.1287/ijoc.2022.1263) by Cheng Li, Siyang Gao, and Jianzhong Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0329).
-* [An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting
-COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
-
-**Published in AIA, SCHEDULED FOR Volume 35, Issue 2 (Forthcoming) **
-
+* [Acuity-Based Allocation of ICU-Downstream Beds with Flexible Staffing](https://doi.org/10.1287/ijoc.2022.1267) by Silviya Valeva, Guodong Pang, Andrew J. Schaefer, and Gilles Clermont, has associated [software/data](https://github.com/INFORMSJoC/2021.0133).
+* [An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
+* [SimOpt: A Testbed for Simulation-Optimization Experiments](https://doi.org/10.1287/ijoc.2023.1273) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2022.0011).
+* [Scalable Parallel Nonlinear Optimization with PyNumero and Parapint](https://doi.org/10.1287/ijoc.2023.1272) by Jose S. Rodriguez, Robert B. Parker, Carl D. Laird, Bethany L. Nicholson, John D. Siirola, and Michael L. Bynum, has associated [software/data](https://github.com/INFORMSJoC/2021.0285).
 
 #### PUBLISHED 
 
