@@ -23,8 +23,8 @@ This is the Website for the GitHub repository for hosting software and data asso
 
 #### PUBLISHED IN ARTICLES IN ADVANCE (AIA)
 
-**Published in AIA, BUT NOT SCHEDULED **
-
+**Published in AIA, BUT NOT SCHEDULED**
+*
 
 **Published in AIA and/or SCHEDULED FOR Volume 35, Issue 2**
 * [Aircraft Conflict Resolution: A Benchmark Generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
