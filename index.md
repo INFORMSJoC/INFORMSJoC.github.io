@@ -9,7 +9,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://doi.org/10.1287/ijoc.2023.1279) by Jingxu Xu and Zeyu Zheng, has associated [software/data](https://github.com/INFORMSJoC/2021.0289).
 * [Convex and Nonconvex Risk-based Linear Regression at Scale](https://doi.org/10.1287/ijoc.2023.1282) by Can Wu, Ying Cui, Donghui Li, and Defeng Sun, has associated [software/data](https://github.com/INFORMSJoC/2022.0012).
 * [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
-* [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
 * [TGVx: Dynamic Personalized POI Deep Recommendation Model](https://doi.org/10.1287/ijoc.2023.1286) by Xiao-Jun Wang, Tao Liu, and Weiguo Fan, has associated [software/data](https://github.com/INFORMSJoC/2021.0010).
 * [Mixed-Integer Programming Versus Constraint Programming for Shop Scheduling Problems: New Results and Outlook](https://doi.org/10.1287/ijoc.2023.1287) by Bahman Naderi, Ruben Ruiz, and Vahid Roshanaei, has associated [software/data](https://github.com/INFORMSJoC/2021.0326).
 * [Decomposition strategies for vehicle routing heuristics](https://doi.org/10.187/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
@@ -24,9 +23,10 @@ This is the Website for the GitHub repository for hosting software and data asso
 
 **Published in AIA, BUT NOT SCHEDULED**
 * [Learning Equilibria in Asymmetric Auction Games](https://doi.org/10.1287/ijoc.2023.1281) by Martin Bichler, Nils Kohring, and Stefan Heidekrueger, has associated [software/data](https://github.com/INFORMSJoC/2021.0151).
+* [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
 
 
-**Published in AIA and/or SCHEDULED FOR Volume 35, Issue 2**
+**Published in AIA and SCHEDULED FOR Volume 35, Issue 2**
 * [Aircraft Conflict Resolution: A Benchmark Generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
 * [Now You See it, Now You Don’t: Obfuscation of Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 * [Reference Vector Assisted Candidate Search with Aggregated Surrogate for Computationally Expensive Many Objective Optimization Problems](https://doi.org/10.1287/ijoc.2022.1260) by Wenyu Wang and Christine A. Shoemaker, has associated [software/data](https://github.com/INFORMSJoC/2021.0343).
