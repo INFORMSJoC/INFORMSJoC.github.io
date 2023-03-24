@@ -16,7 +16,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Modeling Contingent Decision Behavior: A Bayesian Nonparametric Preference Learning Approach](https://doi.org/10.1287/ijoc.2023.1291) by Jiapeng Liu, Milosz Kadzinski, and Xiuwu Liao, has associated [software/data](https://github.com/INFORMSJoC/2021.0328).
 * [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
 * [Adjustable Distributionally Robust Optimization with Infinitely Constrained Ambiguity Sets](https://doi.org/10.1287/ijoc.2021.0181) by Haolin Ruan, Zhi Chen, and Chin Pang Ho, has associated [software/data](https://github.com/INFORMSJoC/2021.0181).
-* [An Interior-Point-Inspired algorithm for Linear Programs arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
+* [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
 
 
 #### PUBLISHED IN ARTICLES IN ADVANCE (AIA)
