@@ -7,9 +7,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 #### ACCEPTED, BUT NOT YET PUBLISHED
 * [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0104).
 * [Convex and Nonconvex Risk-based Linear Regression at Scale](https://doi.org/10.1287/ijoc.2023.1282) by Can Wu, Ying Cui, Donghui Li, and Defeng Sun, has associated [software/data](https://github.com/INFORMSJoC/2022.0012).
-* [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
 * [TGVx: Dynamic Personalized POI Deep Recommendation Model](https://doi.org/10.1287/ijoc.2023.1286) by Xiao-Jun Wang, Tao Liu, and Weiguo Fan, has associated [software/data](https://github.com/INFORMSJoC/2021.0010).
-* [Decomposition strategies for vehicle routing heuristics](https://doi.org/10.187/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
 * [A prediction-based approach for online dynamic appointment scheduling: a case study in radiotherapy treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
 * [Perturbation-based thresholding search for packing equal circles and spheres](https://doi.org/10.1287/ijoc.2023.1290) by Xiangjing Lai, Jin-Kao Hao, Renbin Xiao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0004).
 * [RSOME in Python: An Open-Source Package for Robust Stochastic Optimization Made Easy](https://doi.org/10.1287/ijoc.2023.1291) by Zhi Chen and Peng Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0146).
@@ -26,6 +24,8 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
 * [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://doi.org/10.1287/ijoc.2023.1279) by Jingxu Xu and Zeyu Zheng, has associated [software/data](https://github.com/INFORMSJoC/2021.0289).
 * [Mixed-Integer Programming Versus Constraint Programming for Shop Scheduling Problems: New Results and Outlook](https://doi.org/10.1287/ijoc.2023.1287) by Bahman Naderi, Ruben Ruiz, and Vahid Roshanaei, has associated [software/data](https://github.com/INFORMSJoC/2021.0326).
+* [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
+* [Decomposition strategies for vehicle routing heuristics](https://doi.org/10.187/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
 
 
 **Published in AIA and scheduled for Volume 35, Issue 2**
