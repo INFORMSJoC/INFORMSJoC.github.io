@@ -25,7 +25,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://doi.org/10.1287/ijoc.2023.1279) by Jingxu Xu and Zeyu Zheng, has associated [software/data](https://github.com/INFORMSJoC/2021.0289).
 * [Mixed-Integer Programming Versus Constraint Programming for Shop Scheduling Problems: New Results and Outlook](https://doi.org/10.1287/ijoc.2023.1287) by Bahman Naderi, Ruben Ruiz, and Vahid Roshanaei, has associated [software/data](https://github.com/INFORMSJoC/2021.0326).
 * [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
-* [Decomposition strategies for vehicle routing heuristics](https://doi.org/10.187/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
+* [Decomposition Strategies for Vehicle Routing Heuristics](https://doi.org/10.1287/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
 
 
 **Published in AIA and scheduled for Volume 35, Issue 2**
