@@ -7,10 +7,10 @@ This is the Website for the GitHub repository for hosting software and data asso
 #### ACCEPTED, BUT NOT YET PUBLISHED
 * [Convex and Nonconvex Risk-based Linear Regression at Scale](https://doi.org/10.1287/ijoc.2023.1282) by Can Wu, Ying Cui, Donghui Li, and Defeng Sun, has associated [software/data](https://github.com/INFORMSJoC/2022.0012).
 * [A prediction-based approach for online dynamic appointment scheduling: a case study in radiotherapy treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
-* [Modeling Contingent Decision Behavior: A Bayesian Nonparametric Preference Learning Approach](https://doi.org/10.1287/ijoc.2023.1291) by Jiapeng Liu, Milosz Kadzinski, and Xiuwu Liao, has associated [software/data](https://github.com/INFORMSJoC/2021.0328).
 * [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
 * [Adjustable Distributionally Robust Optimization with Infinitely Constrained Ambiguity Sets](https://doi.org/10.1287/ijoc.2021.0181) by Haolin Ruan, Zhi Chen, and Chin Pang Ho, has associated [software/data](https://github.com/INFORMSJoC/2021.0181).
 * [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
+* [A Cost-Effective Sequential Route Recommender System for Taxi Drivers](https://doi.org/10.1287/ijoc.2021.0112) by Junming Liu, Mingfei Teng, Weiwei Chen, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0112).
 
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
@@ -26,6 +26,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [RSOME in Python: An Open-Source Package for Robust Stochastic Optimization Made Easy](https://doi.org/10.1287/ijoc.2023.1291) by Zhi Chen and Peng Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0146).
 * [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0104).
 * [TGVx: Dynamic Personalized POI Deep Recommendation Model](https://doi.org/10.1287/ijoc.2023.1286) by Xiao-Jun Wang, Tao Liu, and Weiguo Fan, has associated [software/data](https://github.com/INFORMSJoC/2021.0010).
+* [Modeling Contingent Decision Behavior: A Bayesian Nonparametric Preference Learning Approach](https://doi.org/10.1287/ijoc.2023.1292) by Jiapeng Liu, Milosz Kadzinski, and Xiuwu Liao, has associated [software/data](https://github.com/INFORMSJoC/2021.0328).
 
 
 **Published in AIA and scheduled for Volume 35, Issue 2**
