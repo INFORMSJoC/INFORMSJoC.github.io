@@ -6,7 +6,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
 * [A prediction-based approach for online dynamic appointment scheduling: a case study in radiotherapy treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
-* [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
 * [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
 * [A Cost-Effective Sequential Route Recommender System for Taxi Drivers](https://doi.org/10.1287/ijoc.2021.0112) by Junming Liu, Mingfei Teng, Weiwei Chen, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0112).
 
@@ -27,9 +26,15 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Modeling Contingent Decision Behavior: A Bayesian Nonparametric Preference Learning Approach](https://doi.org/10.1287/ijoc.2023.1292) by Jiapeng Liu, Milosz Kadzinski, and Xiuwu Liao, has associated [software/data](https://github.com/INFORMSJoC/2021.0328).
 * [Convex and Nonconvex Risk-based Linear Regression at Scale](https://doi.org/10.1287/ijoc.2023.1282) by Can Wu, Ying Cui, Donghui Li, and Defeng Sun, has associated [software/data](https://github.com/INFORMSJoC/2022.0012).
 * [Adjustable Distributionally Robust Optimization with Infinitely Constrained Ambiguity Sets](https://doi.org/10.1287/ijoc.2021.0181) by Haolin Ruan, Zhi Chen, and Chin Pang Ho, has associated [software/data](https://github.com/INFORMSJoC/2021.0181).
+* [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
 
 
-**Published in AIA and scheduled for Volume 35, Issue 2**
+**Published in AIA and scheduled for Volume 35, Issue 3**
+Forthcoming
+
+#### PUBLISHED 
+
+**Volume 35, Issue 2**
 * [Aircraft Conflict Resolution: A Benchmark Generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
 * [Now You See it, Now You Don’t: Obfuscation of Online Third-Party Information Sharing](https://doi.org/10.1287/ijoc.2022.1266) by Ashkan Eshghi, Ram D. Gopal, Hooman Hidaji, and Raymond A. Patterson, has associated [software/data](https://github.com/INFORMSJoC/2021.0070).
 * [Reference Vector Assisted Candidate Search with Aggregated Surrogate for Computationally Expensive Many Objective Optimization Problems](https://doi.org/10.1287/ijoc.2022.1260) by Wenyu Wang and Christine A. Shoemaker, has associated [software/data](https://github.com/INFORMSJoC/2021.0343).
@@ -41,7 +46,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [SimOpt: A Testbed for Simulation-Optimization Experiments](https://doi.org/10.1287/ijoc.2023.1273) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2022.0011).
 * [Scalable Parallel Nonlinear Optimization with PyNumero and Parapint](https://doi.org/10.1287/ijoc.2023.1272) by Jose S. Rodriguez, Robert B. Parker, Carl D. Laird, Bethany L. Nicholson, John D. Siirola, and Michael L. Bynum, has associated [software/data](https://github.com/INFORMSJoC/2021.0285).
 
-#### PUBLISHED 
 
 **Volume 35, Issue 1**
 * [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
