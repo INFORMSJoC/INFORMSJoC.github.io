@@ -30,7 +30,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 
 
 **Published in AIA and scheduled for Volume 35, Issue 3**
-Forthcoming
+* Forthcoming
 
 #### PUBLISHED 
 
