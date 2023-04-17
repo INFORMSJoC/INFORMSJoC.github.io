@@ -29,7 +29,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
 
 
-**Published in [AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 3**
+**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 3**
 * Forthcoming
 
 #### PUBLISHED 
