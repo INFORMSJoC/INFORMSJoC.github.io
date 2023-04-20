@@ -7,6 +7,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 #### ACCEPTED, BUT NOT YET PUBLISHED
 * [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
 * [A Cost-Effective Sequential Route Recommender System for Taxi Drivers](https://doi.org/10.1287/ijoc.2021.0112) by Junming Liu, Mingfei Teng, Weiwei Chen, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0112).
+* [Globalized Distributionally Robust Counterpart](https://doi.org/10.1287/ijoc.2022.0274) by Feng Liu, Zhi Chen, and Shuming Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0274).
 
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
