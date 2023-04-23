@@ -103,10 +103,10 @@ The repo should be cited in your paper, as follows (if using BibTex).
 @misc{CacheTest,
   author =        {T. Ralphs},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
+  title =         {Cache Test},
   year =          {2020},
   doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
+  note =          {Available for download at https://github.com/INFORMSJoC/2019.0000},
 }  
 ```
 
