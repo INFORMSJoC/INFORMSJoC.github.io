@@ -15,12 +15,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
-* [Learning Equilibria in Asymmetric Auction Games](https://doi.org/10.1287/ijoc.2023.1281) by Martin Bichler, Nils Kohring, and Stefan Heidekrueger, has associated [software/data](https://github.com/INFORMSJoC/2021.0151).
-* [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
-* [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://doi.org/10.1287/ijoc.2023.1279) by Jingxu Xu and Zeyu Zheng, has associated [software/data](https://github.com/INFORMSJoC/2021.0289).
 * [Mixed-Integer Programming Versus Constraint Programming for Shop Scheduling Problems: New Results and Outlook](https://doi.org/10.1287/ijoc.2023.1287) by Bahman Naderi, Ruben Ruiz, and Vahid Roshanaei, has associated [software/data](https://github.com/INFORMSJoC/2021.0326).
-* [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
-* [Decomposition Strategies for Vehicle Routing Heuristics](https://doi.org/10.1287/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
 * [Perturbation-based thresholding search for packing equal circles and spheres](https://doi.org/10.1287/ijoc.2023.1290) by Xiangjing Lai, Jin-Kao Hao, Renbin Xiao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0004).
 * [RSOME in Python: An Open-Source Package for Robust Stochastic Optimization Made Easy](https://doi.org/10.1287/ijoc.2023.1291) by Zhi Chen and Peng Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0146).
 * [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0104).
@@ -33,7 +28,11 @@ This is the Website for the GitHub repository for hosting software and data asso
 
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 3**
-* Forthcoming
+* [Learning Equilibria in Asymmetric Auction Games](https://doi.org/10.1287/ijoc.2023.1281) by Martin Bichler, Nils Kohring, and Stefan Heidekrueger, has associated [software/data](https://github.com/INFORMSJoC/2021.0151).
+* [Decomposition Strategies for Vehicle Routing Heuristics](https://doi.org/10.1287/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
+* [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
+* [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://doi.org/10.1287/ijoc.2023.1279) by Jingxu Xu and Zeyu Zheng, has associated [software/data](https://github.com/INFORMSJoC/2021.0289).
+* [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
 
 #### PUBLISHED 
 
