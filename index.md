@@ -11,6 +11,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [ℓ0 Trend Filtering](https://doi.org/10.1287/ijoc.2021.0313) by Canhong Wen, Xueqin Wang, and Aijun Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0313).
 * [Decision Rule Approaches for Pessimistic Bilevel Linear Programs under Moment Ambiguity with Facility Location Applications](https://doi.org/10.1287/ijoc.2022.0168) by Akshit Goyal, Yiling Zhang, and Chuan He, has associated [software/data](https://github.com/INFORMSJoC/2022.0168).
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
+* [PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support](https://doi.org/10.1287/ijoc.2022.0171) by Ambros Gleixner, Leona Gottwald, and Alexander Hoen, has associated [software/data](https://github.com/INFORMSJoC/2022.0171).
 
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
