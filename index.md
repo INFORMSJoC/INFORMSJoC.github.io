@@ -5,7 +5,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 ### Available Software and Data 
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
-* [Globalized Distributionally Robust Counterpart](https://doi.org/10.1287/ijoc.2022.0274) by Feng Liu, Zhi Chen, and Shuming Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0274).
 * [A Nonconvex Regularization Scheme for the Stochastic Dual Dynamic Programming Algorithm](https://doi.org/10.1287/ijoc.2021.0255) by Arnab Bhattacharya, Jeffrey P. Kharoufeh, and Bo Zeng, has associated [software/data](https://github.com/INFORMSJoC/2021.0255).
 * [An Approximation Algorithm for k-Depot Split Delivery Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2021.0193) by Xiaofan Lai, Liang Xu, Zhou Xu, and Yang Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0193).
 * [ℓ0 Trend Filtering](https://doi.org/10.1287/ijoc.2021.0313) by Canhong Wen, Xueqin Wang, and Aijun Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0313).
@@ -29,6 +28,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [A prediction-based approach for online dynamic appointment scheduling: a case study in radiotherapy treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
 * [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
 * [A Cost-Effective Sequential Route Recommender System for Taxi Drivers](https://doi.org/10.1287/ijoc.2021.0112) by Junming Liu, Mingfei Teng, Weiwei Chen, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0112).
+* [Globalized Distributionally Robust Counterpart](https://doi.org/10.1287/ijoc.2022.0274) by Feng Liu, Zhi Chen, and Shuming Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0274).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 3**
 * [Learning Equilibria in Asymmetric Auction Games](https://doi.org/10.1287/ijoc.2023.1281) by Martin Bichler, Nils Kohring, and Stefan Heidekrueger, has associated [software/data](https://github.com/INFORMSJoC/2021.0151).
