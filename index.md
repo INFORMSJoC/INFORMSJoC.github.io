@@ -10,7 +10,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
 * [PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support](https://doi.org/10.1287/ijoc.2022.0171) by Ambros Gleixner, Leona Gottwald, and Alexander Hoen, has associated [software/data](https://github.com/INFORMSJoC/2022.0171).
 * [Control of Dual-Sourcing Inventory Systems using Recurrent Neural Networks](https://doi.org/10.1287/ijoc.2022.0136) by Lucas Bottcher, Thomas Asikis, and Ioannis Fragkos, has associated [software/data](https://github.com/INFORMSJoC/2022.0136).
-
+* [Platoon Optimization Based on Truck Pairs](https://doi.org/10.1287/ijoc.2020.0302) by Anirudh Kishore Bhoopalam, Niels Agatz, and Rob Zuidwijk, has associated [software/data](https://github.com/INFORMSJoC/2020.0302).
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
