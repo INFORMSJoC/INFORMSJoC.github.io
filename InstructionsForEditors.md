@@ -5,8 +5,9 @@ Below are the detailed steps for creating a Github repo associated with an IJOC 
 ## Initial Setup (Editor)
 
 - Go to https://github.com/INFORMSJoC 
-- Sign in with userid and password (this probably won't need to be done every time)
+- Sign in with userid and password (this probably won't need to be done every time).
 - Click on NEW. This will take you to a page for setting up the repo.
+- For "Repository Template," you can use the template from the [example repository](https://github.com/INFORMSJoC/2019.0000) if you choose. The template just pre-populates the repo with an example setup to give the authors something to work with, but in my experience, it causes more confusion than it clears up. Your mileage may vary.
 - In the `Repository name`, type the new repository's name. 
   - The name should be in the form `XXXX.YYYY` (four numbers followed by four more numbers). 
   - These are derived from the manuscript ID. 
@@ -14,6 +15,7 @@ Below are the detailed steps for creating a Github repo associated with an IJOC 
   - The latter is just a sequence number that is incremented throughout the year across all papers. so if the manuscript ID is `JOC-2022-11-OA-354`, then the repo name is `2022.0354`.
 - Keep the repository `Private`
 - Check the box for `Add a README file`
+- YOu don't need to choose a license or add a .gitignore.
 - Click on CREATE REPOSITORY
 - The repo has been created and you should now be on a new page with a button for `Add Collaborators and Teams`. Click on it.
 - You may be asked to autheticate with your 2FA (this can vary, depending on your setup). Do this.
