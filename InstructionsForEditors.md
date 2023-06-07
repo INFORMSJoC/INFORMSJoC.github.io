@@ -15,7 +15,7 @@ Below are the detailed steps for creating a Github repo associated with an IJOC 
   - The latter is just a sequence number that is incremented throughout the year across all papers. so if the manuscript ID is `JOC-2022-11-OA-354`, then the repo name is `2022.0354`.
 - Keep the repository `Private`
 - Check the box for `Add a README file`
-- YOu don't need to choose a license or add a .gitignore.
+- You don't need to choose a license or add a .gitignore.
 - Click on CREATE REPOSITORY
 - The repo has been created and you should now be on a new page with a button for `Add Collaborators and Teams`. Click on it.
 - You may be asked to autheticate with your 2FA (this can vary, depending on your setup). Do this.
