@@ -27,7 +27,7 @@ Below are the detailed steps for creating a Github repo associated with an IJOC 
 ## Populating the Fork (Author)
 
 Now it is the the authors' turn.
-- Inform the author(s) via email that they should follow the instructions [here](InstructionsForAuthors).
+- Inform the author(s) via email that they should follow the instructions [here](https://informsjoc.github.io/InstructionsForAuthors.html).
 - The authors then take over by forking the empty repo  (the author(s) should have received an e-mail notification when the repo was created, but you may want to provide them with the URL) and populating that fork with their content. 
 - This means copying it over from where they currently maintain it. Even if they already maintain the software/data on Github or in some other public forum, they need to populate this repo, which will become a fixed snapshot available in perpetuity and associated with the published paper.
 - Then they will submit a so-called Pull Request, which is for your review. 
