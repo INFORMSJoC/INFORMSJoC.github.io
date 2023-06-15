@@ -31,14 +31,17 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [A Nonconvex Regularization Scheme for the Stochastic Dual Dynamic Programming Algorithm](https://doi.org/10.1287/ijoc.2021.0255) by Arnab Bhattacharya, Jeffrey P. Kharoufeh, and Bo Zeng, has associated [software/data](https://github.com/INFORMSJoC/2021.0255).
 * [An Approximation Algorithm for k-Depot Split Delivery Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2021.0193) by Xiaofan Lai, Liang Xu, Zhou Xu, and Yang Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0193).
 
-**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 3**
+**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 4**
+* Forthcoming
+
+#### PUBLISHED 
+
+**Volume 35, Issue 3**
 * [Learning Equilibria in Asymmetric Auction Games](https://doi.org/10.1287/ijoc.2023.1281) by Martin Bichler, Nils Kohring, and Stefan Heidekrueger, has associated [software/data](https://github.com/INFORMSJoC/2021.0151).
 * [Decomposition Strategies for Vehicle Routing Heuristics](https://doi.org/10.1287/ijoc.2023.1288) by Alberto Santini, Michael Schneider, Thibaut Vidal, and Daniele Vigo, has associated [software/data](https://github.com/INFORMSJoC/2022.0048).
 * [Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method](https://doi.org/10.1287/ijoc.2023.1284) by Yaxuan Ran, Jiani Liu, and Yishi Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0172).
 * [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://doi.org/10.1287/ijoc.2023.1279) by Jingxu Xu and Zeyu Zheng, has associated [software/data](https://github.com/INFORMSJoC/2021.0289).
 * [A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by Guanshen Wang, Yichen Cheng, Yusen Xia, Qiang Ling, and Xinlei Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0234).
-
-#### PUBLISHED 
 
 **Volume 35, Issue 2**
 * [Aircraft Conflict Resolution: A Benchmark Generator](https://doi.org/10.1287/ijoc.2022.1265) by Mercedes Pelegrın and Martina Cerulli, has associated [software/data](https://github.com/INFORMSJoC/2021.0283).
