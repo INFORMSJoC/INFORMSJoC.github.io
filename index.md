@@ -12,7 +12,8 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113) by Yue Zhao, Zhi Chen, and Zhenzhen Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0113).
 * [Software for data-based stochastic programming using bootstrap estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
 * [The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches](https://doi.org/10.1287/ijoc.2022.0192) by Yuchen Luo, Bruce Golden, and Rui Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0192).
-
+* [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
+  
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
