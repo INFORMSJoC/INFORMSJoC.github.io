@@ -37,7 +37,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [TGVx: Dynamic Personalized POI Deep Recommendation Model](https://doi.org/10.1287/ijoc.2023.1286) by Xiao-Jun Wang, Tao Liu, and Weiguo Fan, has associated [software/data](https://github.com/INFORMSJoC/2021.0010).
 * [Convex and Nonconvex Risk-based Linear Regression at Scale](https://doi.org/10.1287/ijoc.2023.1282) by Can Wu, Ying Cui, Donghui Li, and Defeng Sun, has associated [software/data](https://github.com/INFORMSJoC/2022.0012).
 * [Mixed-Integer Programming Versus Constraint Programming for Shop Scheduling Problems: New Results and Outlook](https://doi.org/10.1287/ijoc.2023.1287) by Bahman Naderi, Ruben Ruiz, and Vahid Roshanaei, has associated [software/data](https://github.com/INFORMSJoC/2021.0326).
-* [A prediction-based approach for online dynamic appointment scheduling: a case study in radiotherapy treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
+* [A Prediction-Based Approach for Online Dynamic Appointment Scheduling: A Case Study in Radiotherapy Treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
 
 #### PUBLISHED 
 
