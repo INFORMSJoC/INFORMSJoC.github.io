@@ -15,6 +15,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Control of Dual-Sourcing Inventory Systems Using Recurrent Neural Networks](https://doi.org/10.1287/ijoc.2022.0136) by Lucas Böttcher, Thomas Asikis, and Ioannis Fragkos, has associated [software/data](https://github.com/INFORMSJoC/2022.0136).
 * [Asymptotically Optimal Sampling Policy for Selecting Top-m Alternatives](https://doi.org/10.1287/ijoc.2021.0333) by Gongbo Zhang, Yijie Peng, Jianghua Zhang, and Enlu Zhou, has associated [software/data](https://github.com/INFORMSJoC/2021.0333).
 * [DiversiTree: A New Method to Efficiently Compute Diverse Sets of Near-Optimal Solutions to Mixed-Integer Optimization Problems](https://doi.org/10.1287/ijoc.2022.0164) by Izuwa Ahanor, Hugh Medal, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2022.0164).
+* [A Study on Optimal Release Schedule for Multi-Version Software](https://doi.org/10.1287/ijoc.2021.0141) by Yeu-Shiang Huang, Chih-Chiang Fang, Chun-Hsuan Chou, and Tzu-Liang (Bill) Tseng, has associated [software/data](https://github.com/INFORMSJoC/2021.0141).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
