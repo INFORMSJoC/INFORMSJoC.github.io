@@ -27,7 +27,7 @@ In general, the repository contents should be as follows.
  * `LICENSE` should be a file containing the text of the license under which
    you intend to distribute the software and/or data. You must provide a
    license in order for the material to be used by others. An open source
-   license is preferred (see the list of approved license at [Open Source
+   license is preferred (see the list of approved licenses at [Open Source
    Initiative](https://opensource.org/licenses), and the license should allow free
    academic use at a minimum. Recommended licenses include the [MIT
    License](https://opensource.org/licenses/MIT) for software or any of the
@@ -89,7 +89,7 @@ and who funded the work.
 Once accepted by the editor, a snapshot of the contents of the repo will be archived 
 by creating a tag (known as a release on Github) with the name `vXXXX.YYYY`, where
 the repo's name is `XXXX.YYYY`. This paper and the snapshot of the repo will be given 
-their own separate DOIS, also derived from the manuscript number. If the repo is name
+their own separate DOIs, also derived from the manuscript number. If the repo is named
 `XXXX.YYYY`, then the DOIs will be
 
 https://doi.org/10.1287/ijoc.XXXX.YYYY
@@ -98,7 +98,7 @@ https://doi.org/10.1287/ijoc.XXXX.YYYY.cd
 
 ## Citing the repo in your paper
 
-The repo should be cited in your paper, as follows (if using BibTex). 
+The repo should be cited in your paper, as a regular reference, and appear in the list of references as follows (if using BibTex). 
 ```
 @misc{CacheTest,
   author =        {T. Ralphs},
@@ -135,7 +135,7 @@ The repo should be cited in your paper, as follows (if using BibTex).
    * This is highly encouraged, but further development should take place a on
      a personally managed site on Github or one of the other similar sites.
      You should put a link to the site where you will manage the software in
-     the long-term in the README.md in the IJOC reporitory to ensure people
+     the long-term in the README.md in the IJOC repository to ensure people
      can find your development site.  You cannot continue development on the IJOC Github site.
 
  * What if I later find a bug in the software and I want to fix it?
