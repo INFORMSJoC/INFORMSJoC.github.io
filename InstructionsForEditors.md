@@ -7,7 +7,7 @@ Below are the detailed steps for creating a Github repo associated with an IJOC 
 - Go to https://github.com/INFORMSJoC 
 - Sign in with userid and password (this probably won't need to be done every time).
 - Click on NEW. This will take you to a page for setting up the repo.
-- For "Repository Template," you can use the template from the [example repository](https://github.com/INFORMSJoC/2019.0000) if you choose. The template just pre-populates the repo with an example setup to give the authors something to work with, but in my experience, it causes more confusion than it clears up. Your mileage may vary.
+- For "Repository Template," you can use the template from the [example repository](https://github.com/INFORMSJoC/2019.0000) if you choose. The template just pre-populates the repo with an example setup to give the authors something to work with, but it can cause more confusion than it clears up. You can decide which way you want to go - prepopulate with an example or not.
 - In the `Repository name`, type the new repository's name. 
   - The name should be in the form `XXXX.YYYY` (four numbers followed by four more numbers). 
   - These are derived from the manuscript ID. 
@@ -18,7 +18,7 @@ Below are the detailed steps for creating a Github repo associated with an IJOC 
 - You don't need to choose a license or add a .gitignore.
 - Click on CREATE REPOSITORY
 - The repo has been created and you should now be on a new page with a button for `Add Collaborators and Teams`. Click on it.
-- You may be asked to autheticate with your 2FA (this can vary, depending on your setup). Do this.
+- You may be asked to authenticate with your 2FA (this can vary, depending on your setup). Do this.
 - On the next page, click the button for `Add People`
 - Enter the Github ID(s) of the author(s) who will be adding to the repo in the search box (you will need to ask them about this separately and request them to create a Github account if they don't already have one).
 - Click on the person to add in the dropdown list. 
@@ -37,7 +37,7 @@ Now it is the the authors' turn.
 After the author(s) submit the Pull Request, you will be notified and you can go to the repo and see the Pull Request.
 
 - To view the PR, it's easiest is to click on the link in the e-mail.
-- Be sure to carefully review the contents to ensure that it is well-organized, that the README follows the format of the [template](https://github.com/INFORMSJoC/JoCTemplate), that everything is under a proper open source license and that there are appropriate copyright statements in files.
+- Be sure to carefully review the contents to ensure that it is well-organized, that the README follows the format of the [template](https://github.com/INFORMSJoC/JoCTemplate), that everything is under a proper open source license, and that there are appropriate copyright statements in files.
 - You may want to also review the [instructions](InstructionsForAuthors).
 - If you want to request changes, just comment on the Pull Request.
 - After everything looks good, click on the merge button and confirm the merge.
