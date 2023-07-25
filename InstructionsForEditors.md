@@ -51,6 +51,7 @@ Now it is time to make the release in order to create a snapshot of the repo, wh
 - Click the "choose a tag" dropdown and type the new release tag name in the dialogue. 
 - Click on "Create new tag on publish"
 - The release title and notes section can contain whatever you like. 
-- Finally, publish the release.
+- Publish the release.
+- THe final step, once everything is finalized, is to make the repository public!
 
 YOU ARE ALL DONE!
