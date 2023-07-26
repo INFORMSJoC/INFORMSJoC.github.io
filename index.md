@@ -30,7 +30,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Decision Rule Approaches for Pessimistic Bilevel Linear Programs under Moment Ambiguity with Facility Location Applications](https://doi.org/10.1287/ijoc.2022.0168) by Akshit Goyal, Yiling Zhang, and Chuan He, has associated [software/data](https://github.com/INFORMSJoC/2022.0168).
 * [Learning Symbolic Expressions: Mixed-Integer Formulations, Cuts, and Heuristics](https://doi.org/10.1287/ijoc.2022.0050) by Jongeun Kim, Sven Leyffer, Prasanna Balaprakash, has associated [software/data](https://github.com/INFORMSJoC/2022.0050).
 * [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113) by Yue Zhao, Zhi Chen, and Zhenzhen Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0113).
-* [Software for data-based stochastic programming using bootstrap estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
+* [Software for Data-Based Stochastic Programming Using Bootstrap Estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 4**
 * [RSOME in Python: An Open-Source Package for Robust Stochastic Optimization Made Easy](https://doi.org/10.1287/ijoc.2023.1291) by Zhi Chen and Peng Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0146).
