@@ -6,7 +6,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
-* [Control of Dual-Sourcing Inventory Systems using Recurrent Neural Networks](https://doi.org/10.1287/ijoc.2022.0136) by Lucas Bottcher, Thomas Asikis, and Ioannis Fragkos, has associated [software/data](https://github.com/INFORMSJoC/2022.0136).
 * [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
 * [Control of Dual-Sourcing Inventory Systems Using Recurrent Neural Networks](https://doi.org/10.1287/ijoc.2022.0136) by Lucas Böttcher, Thomas Asikis, and Ioannis Fragkos, has associated [software/data](https://github.com/INFORMSJoC/2022.0136).
 * [Asymptotically Optimal Sampling Policy for Selecting Top-m Alternatives](https://doi.org/10.1287/ijoc.2021.0333) by Gongbo Zhang, Yijie Peng, Jianghua Zhang, and Enlu Zhou, has associated [software/data](https://github.com/INFORMSJoC/2021.0333).
@@ -29,6 +28,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support](https://doi.org/10.1287/ijoc.2022.0171) by Ambros Gleixner, Leona Gottwald, and Alexander Hoen, has associated [software/data](https://github.com/INFORMSJoC/2022.0171).
 * [ℓ0 Trend Filtering](https://doi.org/10.1287/ijoc.2021.0313) by Canhong Wen, Xueqin Wang, and Aijun Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0313).
 * [Platoon Optimization Based on Truck Pairs](https://doi.org/10.1287/ijoc.2020.0302) by Anirudh Kishore Bhoopalam, Niels Agatz, and Rob Zuidwijk, has associated [software/data](https://github.com/INFORMSJoC/2020.0302).
+* [Control of Dual-Sourcing Inventory Systems using Recurrent Neural Networks](https://doi.org/10.1287/ijoc.2022.0136) by Lucas Bottcher, Thomas Asikis, and Ioannis Fragkos, has associated [software/data](https://github.com/INFORMSJoC/2022.0136).
 * [Decision Rule Approaches for Pessimistic Bilevel Linear Programs under Moment Ambiguity with Facility Location Applications](https://doi.org/10.1287/ijoc.2022.0168) by Akshit Goyal, Yiling Zhang, and Chuan He, has associated [software/data](https://github.com/INFORMSJoC/2022.0168).
 * [Learning Symbolic Expressions: Mixed-Integer Formulations, Cuts, and Heuristics](https://doi.org/10.1287/ijoc.2022.0050) by Jongeun Kim, Sven Leyffer, Prasanna Balaprakash, has associated [software/data](https://github.com/INFORMSJoC/2022.0050).
 * [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113) by Yue Zhao, Zhi Chen, and Zhenzhen Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0113).
