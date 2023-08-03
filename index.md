@@ -35,7 +35,12 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113) by Yue Zhao, Zhi Chen, and Zhenzhen Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0113).
 * [Software for Data-Based Stochastic Programming Using Bootstrap Estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
 
-**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 4**
+**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 5**
+* Forthcoming.
+*
+#### PUBLISHED 
+
+**Volume 35, Issue 4**
 * [RSOME in Python: An Open-Source Package for Robust Stochastic Optimization Made Easy](https://doi.org/10.1287/ijoc.2023.1291) by Zhi Chen and Peng Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0146).
 * [Perturbation-based thresholding search for packing equal circles and spheres](https://doi.org/10.1287/ijoc.2023.1290) by Xiangjing Lai, Jin-Kao Hao, Renbin Xiao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0004).
 * [An Ensemble Learning Approach with Gradient Resampling for Class-imbalance Problems](https://doi.org/10.1287/ijoc.2023.1274) by Hongke Zhao, Chuang Zhao, Xi Zhang, Nanlin Liu, Hengshu Zhu, Qi Liu, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0104).
@@ -44,8 +49,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Convex and Nonconvex Risk-based Linear Regression at Scale](https://doi.org/10.1287/ijoc.2023.1282) by Can Wu, Ying Cui, Donghui Li, and Defeng Sun, has associated [software/data](https://github.com/INFORMSJoC/2022.0012).
 * [Mixed-Integer Programming Versus Constraint Programming for Shop Scheduling Problems: New Results and Outlook](https://doi.org/10.1287/ijoc.2023.1287) by Bahman Naderi, Ruben Ruiz, and Vahid Roshanaei, has associated [software/data](https://github.com/INFORMSJoC/2021.0326).
 * [A Prediction-Based Approach for Online Dynamic Appointment Scheduling: A Case Study in Radiotherapy Treatment](https://doi.org/10.1287/ijoc.2023.1289) by Tu-San Pham, Antoine Legrain, Patrick De Causmaecker, and Louis-Martin Rousseau, has associated [software/data](https://github.com/INFORMSJoC/2021.0342).
-
-#### PUBLISHED 
 
 **Volume 35, Issue 3**
 * [Learning Equilibria in Asymmetric Auction Games](https://doi.org/10.1287/ijoc.2023.1281) by Martin Bichler, Nils Kohring, and Stefan Heidekrueger, has associated [software/data](https://github.com/INFORMSJoC/2021.0151).
@@ -65,7 +68,6 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting COVID-19 Hospital Admissions](https://doi.org/10.1287/ijoc.2023.1269) by Arindam Ray, Wolfgang Jank, Kaushik Dutta, and Matthew Mullarkey, has associated [software/data](https://github.com/INFORMSJoC/2021.0027).
 * [SimOpt: A Testbed for Simulation-Optimization Experiments](https://doi.org/10.1287/ijoc.2023.1273) by David J. Eckman, Shane G. Henderson, and Sara Shashaani, has associated [software/data](https://github.com/INFORMSJoC/2022.0011).
 * [Scalable Parallel Nonlinear Optimization with PyNumero and Parapint](https://doi.org/10.1287/ijoc.2023.1272) by Jose S. Rodriguez, Robert B. Parker, Carl D. Laird, Bethany L. Nicholson, John D. Siirola, and Michael L. Bynum, has associated [software/data](https://github.com/INFORMSJoC/2021.0285).
-
 
 **Volume 35, Issue 1**
 * [py-irt: A Scalable Item Response Theory Library for Python](https://doi.org/10.1287/ijoc.2022.1250) by John Lalor and Pedro Rodriguez, has associated [software/data](https://github.com/INFORMSJoC/2022.0061).
