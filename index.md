@@ -13,6 +13,7 @@ This is the Website for the GitHub repository for hosting software and data asso
 * [Detecting Critical Nodes in Sparse Graphs via “Reduce-Solve-Combine” Memetic Search](https://doi.org/10.1287/ijoc.2022.0130) by Yangming Zhou, Jiaqi Li, Jin-Kao Hao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0130).
 * [Automation of Strategic Data Prioritization in System Model Calibration: Sensor Placement](https://doi.org/10.1287/ijoc.2022.0128) by Tianyi Li and Munther Dahleh, has associated [software/data](https://github.com/INFORMSJoC/2022.0128).
 * [A Set Covering Approach to Customized Coverage Instrumentation](https://doi.org/10.1287/ijoc.2021.0349) by Carla Michini, Peter Ohmann, Ben Liblit, and Jeffrey Linderoth, has associated [software/data](https://github.com/INFORMSJoC/2021.0349).
+* [Exact Matrix Factorization Updates for Nonlinear Programming](https://doi.org/10.1287/ijoc.2021.0331) by Adolfo R. Escobedo, has associated [software/data](https://github.com/INFORMSJoC/2021.0331).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
