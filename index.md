@@ -1,4 +1,4 @@
-## Welcome to the IJOC Software and Data Repository
+## Welcome to the IJOC Software and Data Repositories
 
 This is the website for the GitHub repositories for hosting software and data associated with papers appearing in the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc).
 
