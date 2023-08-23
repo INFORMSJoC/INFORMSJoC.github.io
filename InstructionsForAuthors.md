@@ -101,12 +101,12 @@ https://doi.org/10.1287/ijoc.XXXX.YYYY.cd
 The repo must be cited in your paper, as a regular reference, and appear in the list of references as follows (if using BibTex). Notice that you must use both the DOI and the Note lines to make this reference appear correctly.
 ```
 @misc{CacheTest,
-  author =        {T. Ralphs},
+  author =        {Put the authors' names here},
   publisher =     {INFORMS Journal on Computing},
-  title =         {Cache Test},
-  year =          {2020},
-  doi =           {10.1287/ijoc.2019.0000.cd},
-  note =          {Available for download at https://github.com/INFORMSJoC/2019.0000},
+  title =         {Put the title of your paper here},
+  year =          {put the year here - formal like 2023},
+  doi =           {Put your DOI here - see above - example: 10.1287/ijoc.2019.0000.cd},
+  note =          {Again, use your DOI here at the end of the linke.  example: Available for download at https://github.com/INFORMSJoC/2019.0000},
 }  
 ```
 
