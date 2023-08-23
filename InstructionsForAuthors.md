@@ -1,6 +1,6 @@
 # Procedures for submission of accompanying software and data
 
-IJOC now hosts accompanying software and data within the [IJOC Github
+IJOC now hosts accompanying software and data as online repositories within the [IJOC Github
 organization](https://github.com/INFORMSJoC).
 
 ## Repository Name
@@ -26,7 +26,7 @@ In general, the repository contents should be as follows.
    
  * `LICENSE` should be a file containing the text of the license under which
    you intend to distribute the software and/or data. You must provide a
-   license in order for the material to be used by others. An open source
+   license in order for the material to be used legally by others. An open source
    license is preferred (see the list of approved licenses at [Open Source
    Initiative](https://opensource.org/licenses), and the license should allow free
    academic use at a minimum. Recommended licenses include the [MIT
@@ -46,14 +46,14 @@ In general, the repository contents should be as follows.
 
    * `src` should contain the source code for any software.
 
-   * `data` should contain data files needed for expeirments or used in the
+   * `data` should contain data files needed for experiments or used in the
      paper.
      
    * `scripts` should contain any scripts used to replicate the experiments in
      the paper or run other automated tests or experiments.
 
    * `docs` contains any additional documentation. Note that it is possible for
-      the contents of `docs` to be a Web site that will be hosted under the
+      the contents of `docs` to be a web site that will be hosted under the
       URL https://INFORMSJoC.github.io/NameofRepo. Please let us know if you
       are interested in activating that option.
 
@@ -65,12 +65,12 @@ provide additional information.
 
 ## Preparing your repository
 
-Once your paper enters the review process, the Area Editor will create a
+Once your paper is nearing the acceptance stage, the Area Editor will create a
 private repository from this template and give you read access to it. To
-populate the repository with your own materials, fork it to make a copy that
+populate the repository with your own materials, Fork it to make a copy that
 will live in your own Github account. Once you populate and customize the
 repository to your liking, open a Pull Request to begin the review by the Area
-Editor. Once changes are accepted, the review process will begin.
+Editor and, subsequently, the Editor in Chief. 
 
 ## Review process 
 
@@ -98,7 +98,7 @@ https://doi.org/10.1287/ijoc.XXXX.YYYY.cd
 
 ## Citing the repo in your paper
 
-The repo should be cited in your paper, as a regular reference, and appear in the list of references as follows (if using BibTex). 
+The repo must be cited in your paper, as a regular reference, and appear in the list of references as follows (if using BibTex). Notice that you must use both the DOI and the Note lines to make this reference appear correctly.
 ```
 @misc{CacheTest,
   author =        {T. Ralphs},
@@ -126,7 +126,7 @@ The repo should be cited in your paper, as a regular reference, and appear in th
    * We expect this to sometimes be the case. But we still need to archive
      the version of the software and/or data associated with the
      paper itself in a static and permanent repository within the IJOC Github organization.
-     If you wish us to fork or move an existing repository into the IJOC
+     If you wish us to Fork or move an existing repository into the IJOC
      organization as part of the submission process, that can be discussed.
 
  * What if I don't already have an existing repository, but I want to continue
