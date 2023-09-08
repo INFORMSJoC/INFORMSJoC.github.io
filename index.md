@@ -8,6 +8,8 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
 * [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
 * [A Set Covering Approach to Customized Coverage Instrumentation](https://doi.org/10.1287/ijoc.2021.0349) by Carla Michini, Peter Ohmann, Ben Liblit, and Jeffrey Linderoth, has associated [software/data](https://github.com/INFORMSJoC/2021.0349).
+* [Ensemble Variance Reduction Methods for Stochastic Mixed-Integer Programming and their Application to the Stochastic Facility Location Problem](https://doi.org/10.1287/ijoc.2021.0324) by Jiajun Xu and Suvrajeet Sen, has associated [software/data](https://github.com/INFORMSJoC/2021.0324).
+* [Flexible Differentiable Optimization via Model Transformations](https://doi.org/10.1287/ijoc.2022.0283) by Mathieu Besançon, Joaquim Dias Garcia, Benoît Legat, and Akshay Sharma, has associated [software/data](https://github.com/INFORMSJoC/2022.0283).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
