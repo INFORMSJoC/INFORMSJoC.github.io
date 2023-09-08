@@ -11,7 +11,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Ensemble Variance Reduction Methods for Stochastic Mixed-Integer Programming and their Application to the Stochastic Facility Location Problem](https://doi.org/10.1287/ijoc.2021.0324) by Jiajun Xu and Suvrajeet Sen, has associated [software/data](https://github.com/INFORMSJoC/2021.0324).
 * [Flexible Differentiable Optimization via Model Transformations](https://doi.org/10.1287/ijoc.2022.0283) by Mathieu Besançon, Joaquim Dias Garcia, Benoît Legat, and Akshay Sharma, has associated [software/data](https://github.com/INFORMSJoC/2022.0283).
 * [A Differentiable Path-Following Method with a Compact Formulation to Compute Proper Equilibria](https://doi.org/10.1287/ijoc.2022.0148) by Yiyin Cao, Yin Chen, and Chuangyin Dang, has associated [software/data](https://github.com/INFORMSJoC/2022.0148).
-* [Bayesian Network Models for PTSD Screening in Veterans](https://doi.org.10.1287/ijoc.2021.0174) by Yi Tan, Prakash P. Shenoy, Ben Sherwood, Catherine Shenoy, Melinda Gaddy, and Mary E. Oehlert, has associated [software/data](https://github.com/INFORMSJoC/2021.0174).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
