@@ -14,13 +14,6 @@ This is the website for the GitHub repositories for hosting software and data as
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
-* [Adjustable Distributionally Robust Optimization with Infinitely Constrained Ambiguity Sets](https://doi.org/10.1287/ijoc.2021.0181) by Haolin Ruan, Zhi Chen, and Chin Pang Ho, has associated [software/data](https://github.com/INFORMSJoC/2021.0181).
-* [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
-* [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
-* [A Cost-Effective Sequential Route Recommender System for Taxi Drivers](https://doi.org/10.1287/ijoc.2021.0112) by Junming Liu, Mingfei Teng, Weiwei Chen, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0112).
-* [Globalized Distributionally Robust Counterpart](https://doi.org/10.1287/ijoc.2022.0274) by Feng Liu, Zhi Chen, and Shuming Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0274).
-* [A Nonconvex Regularization Scheme for the Stochastic Dual Dynamic Programming Algorithm](https://doi.org/10.1287/ijoc.2021.0255) by Arnab Bhattacharya, Jeffrey P. Kharoufeh, and Bo Zeng, has associated [software/data](https://github.com/INFORMSJoC/2021.0255).
-* [An Approximation Algorithm for k-Depot Split Delivery Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2021.0193) by Xiaofan Lai, Liang Xu, Zhou Xu, and Yang Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0193).
 * [PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support](https://doi.org/10.1287/ijoc.2022.0171) by Ambros Gleixner, Leona Gottwald, and Alexander Hoen, has associated [software/data](https://github.com/INFORMSJoC/2022.0171).
 * [ℓ0 Trend Filtering](https://doi.org/10.1287/ijoc.2021.0313) by Canhong Wen, Xueqin Wang, and Aijun Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0313).
 * [Platoon Optimization Based on Truck Pairs](https://doi.org/10.1287/ijoc.2020.0302) by Anirudh Kishore Bhoopalam, Niels Agatz, and Rob Zuidwijk, has associated [software/data](https://github.com/INFORMSJoC/2020.0302).
@@ -38,8 +31,17 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Exact Matrix Factorization Updates for Nonlinear Programming](https://doi.org/10.1287/ijoc.2021.0331) by Adolfo R. Escobedo, has associated [software/data](https://github.com/INFORMSJoC/2021.0331).
 * [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
 
+**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 6**
+* Forthcoming
+
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 5**
-* Forthcoming.
+* [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
+* [Adjustable Distributionally Robust Optimization with Infinitely Constrained Ambiguity Sets](https://doi.org/10.1287/ijoc.2021.0181) by Haolin Ruan, Zhi Chen, and Chin Pang Ho, has associated [software/data](https://github.com/INFORMSJoC/2021.0181).
+* [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
+* [A Cost-Effective Sequential Route Recommender System for Taxi Drivers](https://doi.org/10.1287/ijoc.2021.0112) by Junming Liu, Mingfei Teng, Weiwei Chen, and Hui Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0112).
+* [Globalized Distributionally Robust Counterpart](https://doi.org/10.1287/ijoc.2022.0274) by Feng Liu, Zhi Chen, and Shuming Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0274).
+* [A Nonconvex Regularization Scheme for the Stochastic Dual Dynamic Programming Algorithm](https://doi.org/10.1287/ijoc.2021.0255) by Arnab Bhattacharya, Jeffrey P. Kharoufeh, and Bo Zeng, has associated [software/data](https://github.com/INFORMSJoC/2021.0255).
+* [An Approximation Algorithm for k-Depot Split Delivery Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2021.0193) by Xiaofan Lai, Liang Xu, Zhou Xu, and Yang Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0193).
 
 #### PUBLISHED 
 
