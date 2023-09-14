@@ -106,7 +106,7 @@ The repo must be cited in your paper, as a regular reference, and appear in the 
   title =         {Put the title of your paper here},
   year =          {put the year here - formal like 2023},
   doi =           {Put your DOI here - see above - example: 10.1287/ijoc.2019.0000.cd},
-  note =          {Again, use your DOI here at the end of the linke.  example: Available for download at https://github.com/INFORMSJoC/2019.0000},
+  note =          {Again, use your DOI here at the end of the link.  example: Available for download at https://github.com/INFORMSJoC/2019.0000},
 }  
 ```
 
