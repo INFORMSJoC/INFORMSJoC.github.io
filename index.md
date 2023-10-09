@@ -5,6 +5,7 @@ This is the website for the GitHub repositories for hosting software and data as
 ### Available Software and Data 
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
+
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
 * [A Set Covering Approach to Customized Coverage Instrumentation](https://doi.org/10.1287/ijoc.2021.0349) by Carla Michini, Peter Ohmann, Ben Liblit, and Jeffrey Linderoth, has associated [software/data](https://github.com/INFORMSJoC/2021.0349).
 * [Ensemble Variance Reduction Methods for Stochastic Mixed-Integer Programming and their Application to the Stochastic Facility Location Problem](https://doi.org/10.1287/ijoc.2021.0324) by Jiajun Xu and Suvrajeet Sen, has associated [software/data](https://github.com/INFORMSJoC/2021.0324).
@@ -35,7 +36,9 @@ This is the website for the GitHub repositories for hosting software and data as
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 6**
 * Forthcoming
 
-**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 5**
+#### PUBLISHED
+
+**Volume 35, Issue 5**
 * [Black-box Attack-Based Security Evaluation Framework for Credit Card Fraud Detection Models](https://doi.org/10.1287/ijoc.2023.1297) by Jin Xiao, Yuhang Tian, Yanlin Jia, Xiaoyi Jiang, Lean Yu, and Shouyang Wang, has associated [software/data](https://github.com/INFORMSJoC/2021.0076).
 * [Adjustable Distributionally Robust Optimization with Infinitely Constrained Ambiguity Sets](https://doi.org/10.1287/ijoc.2021.0181) by Haolin Ruan, Zhi Chen, and Chin Pang Ho, has associated [software/data](https://github.com/INFORMSJoC/2021.0181).
 * [An Interior-Point-Inspired Algorithm for Linear Programs Arising in Discrete Optimal Transport](https://doi.org/10.1287/ijoc.2022.0184) by Filippo Zanetti and Jacek Gondzio, has associated [software/data](https://github.com/INFORMSJoC/2022.0184).
@@ -43,8 +46,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Globalized Distributionally Robust Counterpart](https://doi.org/10.1287/ijoc.2022.0274) by Feng Liu, Zhi Chen, and Shuming Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0274).
 * [A Nonconvex Regularization Scheme for the Stochastic Dual Dynamic Programming Algorithm](https://doi.org/10.1287/ijoc.2021.0255) by Arnab Bhattacharya, Jeffrey P. Kharoufeh, and Bo Zeng, has associated [software/data](https://github.com/INFORMSJoC/2021.0255).
 * [An Approximation Algorithm for k-Depot Split Delivery Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2021.0193) by Xiaofan Lai, Liang Xu, Zhou Xu, and Yang Du, has associated [software/data](https://github.com/INFORMSJoC/2021.0193).
-
-#### PUBLISHED 
 
 **Volume 35, Issue 4**
 * [RSOME in Python: An Open-Source Package for Robust Stochastic Optimization Made Easy](https://doi.org/10.1287/ijoc.2023.1291) by Zhi Chen and Peng Xiong, has associated [software/data](https://github.com/INFORMSJoC/2021.0146).
