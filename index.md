@@ -11,7 +11,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Flexible Differentiable Optimization via Model Transformations](https://doi.org/10.1287/ijoc.2022.0283) by Mathieu Besançon, Joaquim Dias Garcia, Benoît Legat, and Akshay Sharma, has associated [software/data](https://github.com/INFORMSJoC/2022.0283).
 * [A Differentiable Path-Following Method with a Compact Formulation to Compute Proper Equilibria](https://doi.org/10.1287/ijoc.2022.0148) by Yiyin Cao, Yin Chen, and Chuangyin Dang, has associated [software/data](https://github.com/INFORMSJoC/2022.0148).
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
-  
+
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
