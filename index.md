@@ -11,6 +11,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Flexible Differentiable Optimization via Model Transformations](https://doi.org/10.1287/ijoc.2022.0283) by Mathieu Besançon, Joaquim Dias Garcia, Benoît Legat, and Akshay Sharma, has associated [software/data](https://github.com/INFORMSJoC/2022.0283).
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
 * [Bayesian Network Models for PTSD Screening in Veterans](https://doi.org/10.1287/ijoc.2021.0174) by Yi Tan, Prakash P. Shenoy, Ben Sherwood, Catherine Shenoy, Melinda Gaddy, and Mary E. Oehlert, has associated [software/data](https://github.com/INFORMSJoC/2021.0174).
+* [Combination Chemotherapy Optimization with Discrete Dosing](https://doi.org/10.1287/ijoc.2022.0207) by Temitayo Ajayi, Seyedmohammadhossein Hosseinian, Andrew J. Schaefer, and Clifton D. Fuller, has associated [software/data](https://github.com/INFORMSJoC/2022.0207).
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
