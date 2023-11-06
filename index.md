@@ -16,16 +16,6 @@ This is the website for the GitHub repositories for hosting software and data as
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
-* [PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support](https://doi.org/10.1287/ijoc.2022.0171) by Ambros Gleixner, Leona Gottwald, and Alexander Hoen, has associated [software/data](https://github.com/INFORMSJoC/2022.0171).
-* [ℓ0 Trend Filtering](https://doi.org/10.1287/ijoc.2021.0313) by Canhong Wen, Xueqin Wang, and Aijun Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0313).
-* [Platoon Optimization Based on Truck Pairs](https://doi.org/10.1287/ijoc.2020.0302) by Anirudh Kishore Bhoopalam, Niels Agatz, and Rob Zuidwijk, has associated [software/data](https://github.com/INFORMSJoC/2020.0302).
-* [Control of Dual-Sourcing Inventory Systems using Recurrent Neural Networks](https://doi.org/10.1287/ijoc.2022.0136) by Lucas Bottcher, Thomas Asikis, and Ioannis Fragkos, has associated [software/data](https://github.com/INFORMSJoC/2022.0136).
-* [Decision Rule Approaches for Pessimistic Bilevel Linear Programs under Moment Ambiguity with Facility Location Applications](https://doi.org/10.1287/ijoc.2022.0168) by Akshit Goyal, Yiling Zhang, and Chuan He, has associated [software/data](https://github.com/INFORMSJoC/2022.0168).
-* [Learning Symbolic Expressions: Mixed-Integer Formulations, Cuts, and Heuristics](https://doi.org/10.1287/ijoc.2022.0050) by Jongeun Kim, Sven Leyffer, Prasanna Balaprakash, has associated [software/data](https://github.com/INFORMSJoC/2022.0050).
-* [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113) by Yue Zhao, Zhi Chen, and Zhenzhen Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0113).
-* [Software for Data-Based Stochastic Programming Using Bootstrap Estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
-* [The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches](https://doi.org/10.1287/ijoc.2022.0192) by Yuchen Luo, Bruce Golden, and Rui Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0192).
-* [Asymptotically Optimal Sampling Policy for Selecting Top-m Alternatives](https://doi.org/10.1287/ijoc.2021.0333) by Gongbo Zhang, Yijie Peng, Jianghua Zhang, and Enlu Zhou, has associated [software/data](https://github.com/INFORMSJoC/2021.0333).
 * [DiversiTree: A New Method to Efficiently Compute Diverse Sets of Near-Optimal Solutions to Mixed-Integer Optimization Problems](https://doi.org/10.1287/ijoc.2022.0164) by Izuwa Ahanor, Hugh Medal, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2022.0164).
 * [Detecting Critical Nodes in Sparse Graphs via “Reduce-Solve-Combine” Memetic Search](https://doi.org/10.1287/ijoc.2022.0130) by Yangming Zhou, Jiaqi Li, Jin-Kao Hao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0130).
 * [A Study on Optimal Release Schedule for Multi-Version Software](https://doi.org/10.1287/ijoc.2021.0141) by Yeu-Shiang Huang, Chih-Chiang Fang, Chun-Hsuan Chou, and Tzu-Liang (Bill) Tseng, has associated [software/data](https://github.com/INFORMSJoC/2021.0141).
@@ -36,7 +26,16 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Differentiable Path-Following Method with a Compact Formulation to Compute Proper Equilibria](https://doi.org/10.1287/ijoc.2022.0148) by Yiyin Cao, Yin Chen, and Chuangyin Dang, has associated [software/data](https://github.com/INFORMSJoC/2022.0148).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 6**
-* Forthcoming
+* [Software for Data-Based Stochastic Programming Using Bootstrap Estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
+* [Platoon Optimization Based on Truck Pairs](https://doi.org/10.1287/ijoc.2020.0302) by Anirudh Kishore Bhoopalam, Niels Agatz, and Rob Zuidwijk, has associated [software/data](https://github.com/INFORMSJoC/2020.0302).
+* [Asymptotically Optimal Sampling Policy for Selecting Top-m Alternatives](https://doi.org/10.1287/ijoc.2021.0333) by Gongbo Zhang, Yijie Peng, Jianghua Zhang, and Enlu Zhou, has associated [software/data](https://github.com/INFORMSJoC/2021.0333).
+* [The Hot Spot Coverage Patrol Problem: Formulations and Solution Approaches](https://doi.org/10.1287/ijoc.2022.0192) by Yuchen Luo, Bruce Golden, and Rui Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0192).
+* [Control of Dual-Sourcing Inventory Systems using Recurrent Neural Networks](https://doi.org/10.1287/ijoc.2022.0136) by Lucas Bottcher, Thomas Asikis, and Ioannis Fragkos, has associated [software/data](https://github.com/INFORMSJoC/2022.0136).
+* [PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support](https://doi.org/10.1287/ijoc.2022.0171) by Ambros Gleixner, Leona Gottwald, and Alexander Hoen, has associated [software/data](https://github.com/INFORMSJoC/2022.0171).
+* [Decision Rule Approaches for Pessimistic Bilevel Linear Programs under Moment Ambiguity with Facility Location Applications](https://doi.org/10.1287/ijoc.2022.0168) by Akshit Goyal, Yiling Zhang, and Chuan He, has associated [software/data](https://github.com/INFORMSJoC/2022.0168).
+* [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113) by Yue Zhao, Zhi Chen, and Zhenzhen Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0113).
+* [Learning Symbolic Expressions: Mixed-Integer Formulations, Cuts, and Heuristics](https://doi.org/10.1287/ijoc.2022.0050) by Jongeun Kim, Sven Leyffer, Prasanna Balaprakash, has associated [software/data](https://github.com/INFORMSJoC/2022.0050).
+* [ℓ0 Trend Filtering](https://doi.org/10.1287/ijoc.2021.0313) by Canhong Wen, Xueqin Wang, and Aijun Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0313).
 
 #### PUBLISHED
 
