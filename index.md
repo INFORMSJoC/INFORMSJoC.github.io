@@ -13,6 +13,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Bayesian Network Models for PTSD Screening in Veterans](https://doi.org/10.1287/ijoc.2021.0174) by Yi Tan, Prakash P. Shenoy, Ben Sherwood, Catherine Shenoy, Melinda Gaddy, and Mary E. Oehlert, has associated [software/data](https://github.com/INFORMSJoC/2021.0174).
 * [Combination Chemotherapy Optimization with Discrete Dosing](https://doi.org/10.1287/ijoc.2022.0207) by Temitayo Ajayi, Seyedmohammadhossein Hosseinian, Andrew J. Schaefer, and Clifton D. Fuller, has associated [software/data](https://github.com/INFORMSJoC/2022.0207).
 * [Correlation Clustering Problem under Mediation](https://doi.org/10.1287/ijoc.2022.0129) by Zacharie Ales, Celine Engelbeen, and Rosa Figueiredo, has associated [software/data](https://github.com/INFORMSJoC/2022.0129).
+* [BilevelJuMP.jl: modeling and solving bilevel optimization problems in Julia](https://doi.org/10.1287/ijoc.2022.0135) by Joaquim Dias Garcia, Guilherme Bodin, and Alexandre Street, has associated [software/data](https://github.com/INFORMSJoC/2022.0135).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
