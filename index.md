@@ -14,6 +14,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Combination Chemotherapy Optimization with Discrete Dosing](https://doi.org/10.1287/ijoc.2022.0207) by Temitayo Ajayi, Seyedmohammadhossein Hosseinian, Andrew J. Schaefer, and Clifton D. Fuller, has associated [software/data](https://github.com/INFORMSJoC/2022.0207).
 * [Correlation Clustering Problem under Mediation](https://doi.org/10.1287/ijoc.2022.0129) by Zacharie Ales, Celine Engelbeen, and Rosa Figueiredo, has associated [software/data](https://github.com/INFORMSJoC/2022.0129).
 * [BilevelJuMP.jl: modeling and solving bilevel optimization problems in Julia](https://doi.org/10.1287/ijoc.2022.0135) by Joaquim Dias Garcia, Guilherme Bodin, and Alexandre Street, has associated [software/data](https://github.com/INFORMSJoC/2022.0135).
+* [InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia](https://doi.org/10.1287/ijoc.2022.0118) by Russell Bent, Byron Tasseff, and Carleton Coffrin, has associated [software/data](https://github.com/INFORMSJoC/2022.0118).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
