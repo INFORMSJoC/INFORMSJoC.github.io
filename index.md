@@ -17,6 +17,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia](https://doi.org/10.1287/ijoc.2022.0118) by Russell Bent, Byron Tasseff, and Carleton Coffrin, has associated [software/data](https://github.com/INFORMSJoC/2022.0118).
 * [A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations](https://doi.org/10.1287/ijoc.2022.0260) by Alireza Aghasi, Arun Rai, and Yusen Xia, has associated [software/data](https://github.com/INFORMSJoC/2022.0260).
 * [Heuristic Search for Rank Aggregation with Application to Label Ranking](https://doi.org/10.1287/ijoc.2022.0019) by Yangming Zhou, Jin-Kao Hao, Zhen Li, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0019).
+* [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
