@@ -18,6 +18,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations](https://doi.org/10.1287/ijoc.2022.0260) by Alireza Aghasi, Arun Rai, and Yusen Xia, has associated [software/data](https://github.com/INFORMSJoC/2022.0260).
 * [Heuristic Search for Rank Aggregation with Application to Label Ranking](https://doi.org/10.1287/ijoc.2022.0019) by Yangming Zhou, Jin-Kao Hao, Zhen Li, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0019).
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
+* [A Decision Rule Approach for Two-Stage Data-Driven Distributionally Robust Optimization Problems with Random Recourse](https://doi.org/10.1287/ijoc.2021.0306) by Xiangyi Fan and Grani A. Hanasusanto, has associated [software/data](https://github.com/INFORMSJoC/2021.0306).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
