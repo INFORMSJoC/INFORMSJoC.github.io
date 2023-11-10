@@ -19,6 +19,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
 * [A Decision Rule Approach for Two-Stage Data-Driven Distributionally Robust Optimization Problems with Random Recourse](https://doi.org/10.1287/ijoc.2021.0306) by Xiangyi Fan and Grani A. Hanasusanto, has associated [software/data](https://github.com/INFORMSJoC/2021.0306).
 * [Deterring the Gray Market: Product Diversion Detection via Learning Disentangled Representations of Multivariate Time Series](https://doi.org/10.1287/ijoc.2022.0155) by Hao Lin, Guannan Liu, Junjie Wu, and J. Leon Zhao, has associated [software/data](https://github.com/INFORMSJoC/2022.0155).
+* [The descent-ascent algorithm for DC programming](https://doi.org/10.1287/ijoc.2023.0142) by Pietro D’Alessandro, Manlio Gaudioso, Giovanni Giallombardo, and Giovanna Miglionico, has associated [software/data](https://github.com/INFORMSJoC/2023.0142).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
