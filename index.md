@@ -21,7 +21,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [The descent-ascent algorithm for DC programming](https://doi.org/10.1287/ijoc.2023.0142) by Pietro D’Alessandro, Manlio Gaudioso, Giovanni Giallombardo, and Giovanna Miglionico, has associated [software/data](https://github.com/INFORMSJoC/2023.0142).
 * [Sparsity-Exploiting Distributed Projections onto a Simplex](https://doi.org/10.1287/ijoc.2022.0328) by Yongzheng Dai and Chen Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0328).
 * [Supervised ML for Solving the GI/GI/1 Queue](https://doi.org/10.1287/ijoc.2022.0263) by Opher Baron, Dmitry Krass, Arik Senderovich, and Eliran Sherzer, has associated [software/data](https://github.com/INFORMSJoC/2022.0263).
-[An Efficient Global Optimal Method for Cardinality Constrained Portfolio Optimization](https://doi.org/10.1287/ijoc.2022.0344) by Wei Xu, Jie Tang, Ka Fai Cedric Yiu, and Jian Wen Peng, has associated software/data](https://github.com/INFORMSJoC/2022.0344).
+[An Efficient Global Optimal Method for Cardinality Constrained Portfolio Optimization](https://doi.org/10.1287/ijoc.2022.0344) by Wei Xu, Jie Tang, Ka Fai Cedric Yiu, and Jian Wen Peng, has associated [software/data](https://github.com/INFORMSJoC/2022.0344).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
