@@ -37,6 +37,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Flexible Differentiable Optimization via Model Transformations](https://doi.org/10.1287/ijoc.2022.0283) by Mathieu Besançon, Joaquim Dias Garcia, Benoît Legat, and Akshay Sharma, has associated [software/data](https://github.com/INFORMSJoC/2022.0283).
 * [Bayesian Network Models for PTSD Screening in Veterans](https://doi.org/10.1287/ijoc.2021.0174) by Yi Tan, Prakash P. Shenoy, Ben Sherwood, Catherine Shenoy, Melinda Gaddy, and Mary E. Oehlert, has associated [software/data](https://github.com/INFORMSJoC/2021.0174).
 * [A Decision Rule Approach for Two-Stage Data-Driven Distributionally Robust Optimization Problems with Random Recourse](https://doi.org/10.1287/ijoc.2021.0306) by Xiangyi Fan and Grani A. Hanasusanto, has associated [software/data](https://github.com/INFORMSJoC/2021.0306).
+* [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 35, Issue 6**
 * [Software for Data-Based Stochastic Programming Using Bootstrap Estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
@@ -49,7 +50,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113) by Yue Zhao, Zhi Chen, and Zhenzhen Zhang, has associated [software/data](https://github.com/INFORMSJoC/2022.0113).
 * [Learning Symbolic Expressions: Mixed-Integer Formulations, Cuts, and Heuristics](https://doi.org/10.1287/ijoc.2022.0050) by Jongeun Kim, Sven Leyffer, Prasanna Balaprakash, has associated [software/data](https://github.com/INFORMSJoC/2022.0050).
 * [ℓ0 Trend Filtering](https://doi.org/10.1287/ijoc.2021.0313) by Canhong Wen, Xueqin Wang, and Aijun Zhang, has associated [software/data](https://github.com/INFORMSJoC/2021.0313).
-* [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
 
 #### PUBLISHED
 
