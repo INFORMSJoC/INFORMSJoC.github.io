@@ -14,7 +14,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations](https://doi.org/10.1287/ijoc.2022.0260) by Alireza Aghasi, Arun Rai, and Yusen Xia, has associated [software/data](https://github.com/INFORMSJoC/2022.0260).
 * [Heuristic Search for Rank Aggregation with Application to Label Ranking](https://doi.org/10.1287/ijoc.2022.0019) by Yangming Zhou, Jin-Kao Hao, Zhen Li, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0019).
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
-* [Deterring the Gray Market: Product Diversion Detection via Learning Disentangled Representations of Multivariate Time Series](https://doi.org/10.1287/ijoc.2022.0155) by Hao Lin, Guannan Liu, Junjie Wu, and J. Leon Zhao, has associated [software/data](https://github.com/INFORMSJoC/2022.0155).
 * [The descent-ascent algorithm for DC programming](https://doi.org/10.1287/ijoc.2023.0142) by Pietro D’Alessandro, Manlio Gaudioso, Giovanni Giallombardo, and Giovanna Miglionico, has associated [software/data](https://github.com/INFORMSJoC/2023.0142).
 * [Sparsity-Exploiting Distributed Projections onto a Simplex](https://doi.org/10.1287/ijoc.2022.0328) by Yongzheng Dai and Chen Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0328).
 * [Supervised ML for Solving the GI/GI/1 Queue](https://doi.org/10.1287/ijoc.2022.0263) by Opher Baron, Dmitry Krass, Arik Senderovich, and Eliran Sherzer, has associated [software/data](https://github.com/INFORMSJoC/2022.0263).
@@ -39,6 +38,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Bayesian Network Models for PTSD Screening in Veterans](https://doi.org/10.1287/ijoc.2021.0174) by Yi Tan, Prakash P. Shenoy, Ben Sherwood, Catherine Shenoy, Melinda Gaddy, and Mary E. Oehlert, has associated [software/data](https://github.com/INFORMSJoC/2021.0174).
 * [A Decision Rule Approach for Two-Stage Data-Driven Distributionally Robust Optimization Problems with Random Recourse](https://doi.org/10.1287/ijoc.2021.0306) by Xiangyi Fan and Grani A. Hanasusanto, has associated [software/data](https://github.com/INFORMSJoC/2021.0306).
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
+* [Deterring the Gray Market: Product Diversion Detection via Learning Disentangled Representations of Multivariate Time Series](https://doi.org/10.1287/ijoc.2022.0155) by Hao Lin, Guannan Liu, Junjie Wu, and J. Leon Zhao, has associated [software/data](https://github.com/INFORMSJoC/2022.0155).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
 * Forthcoming.
