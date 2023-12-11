@@ -9,7 +9,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
 * [Correlation Clustering Problem under Mediation](https://doi.org/10.1287/ijoc.2022.0129) by Zacharie Ales, Celine Engelbeen, and Rosa Figueiredo, has associated [software/data](https://github.com/INFORMSJoC/2022.0129).
 * [BilevelJuMP.jl: modeling and solving bilevel optimization problems in Julia](https://doi.org/10.1287/ijoc.2022.0135) by Joaquim Dias Garcia, Guilherme Bodin, and Alexandre Street, has associated [software/data](https://github.com/INFORMSJoC/2022.0135).
-* [InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia](https://doi.org/10.1287/ijoc.2022.0118) by Russell Bent, Byron Tasseff, and Carleton Coffrin, has associated [software/data](https://github.com/INFORMSJoC/2022.0118).
 * [A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations](https://doi.org/10.1287/ijoc.2022.0260) by Alireza Aghasi, Arun Rai, and Yusen Xia, has associated [software/data](https://github.com/INFORMSJoC/2022.0260).
 * [Heuristic Search for Rank Aggregation with Application to Label Ranking](https://doi.org/10.1287/ijoc.2022.0019) by Yangming Zhou, Jin-Kao Hao, Zhen Li, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0019).
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
@@ -39,6 +38,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
 * [Deterring the Gray Market: Product Diversion Detection via Learning Disentangled Representations of Multivariate Time Series](https://doi.org/10.1287/ijoc.2022.0155) by Hao Lin, Guannan Liu, Junjie Wu, and J. Leon Zhao, has associated [software/data](https://github.com/INFORMSJoC/2022.0155).
 * [Ensemble Variance Reduction Methods for Stochastic Mixed-Integer Programming and their Application to the Stochastic Facility Location Problem](https://doi.org/10.1287/ijoc.2021.0324) by Jiajun Xu and Suvrajeet Sen, has associated [software/data](https://github.com/INFORMSJoC/2021.0324).
+* [InfrastructureModels: Composable Multi-Infrastructure Optimization in Julia](https://doi.org/10.1287/ijoc.2022.0118) by Russell Bent, Byron Tasseff, and Carleton Coffrin, has associated [software/data](https://github.com/INFORMSJoC/2022.0118).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
 * Forthcoming.
