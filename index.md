@@ -17,6 +17,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling](https://doi.org/10.1287/ijoc.2022.0191) by Ankit Bansal, Jean-Philippe Richard, Bjorn P. Berg, and Yu-Li Huang, has associated [software/data](https://github.com/INFORMSJoC/2022.0191).
 * [A Column Generation Scheme for Distributionally Robust Multi-Item Newsvendor Problems](https://doi.org/10.1287/ijoc.2022.0010) by Shanshan Wang and Erick Delage, has associated [software/data](https://github.com/INFORMSJoC/2022.0010).
 * [VRPSolverEasy: A Python Library for the Exact Solution of a Rich Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0103) by Najib Errami, Eduardo Queiroga, Ruslan Sadykov, and Eduardo Uchoa, has associated [software/data](https://github.com/INFORMSJoC/2023.0103).
+* [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333) by Jindong Qin, Pan Zheng, and Xiaojun Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0333).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
