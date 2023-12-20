@@ -7,7 +7,6 @@ This is the website for the GitHub repositories for hosting software and data as
 #### ACCEPTED, BUT NOT YET PUBLISHED
 
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
-* [Correlation Clustering Problem under Mediation](https://doi.org/10.1287/ijoc.2022.0129) by Zacharie Ales, Celine Engelbeen, and Rosa Figueiredo, has associated [software/data](https://github.com/INFORMSJoC/2022.0129).
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
 * [Sparsity-Exploiting Distributed Projections onto a Simplex](https://doi.org/10.1287/ijoc.2022.0328) by Yongzheng Dai and Chen Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0328).
 * [Supervised ML for Solving the GI/GI/1 Queue](https://doi.org/10.1287/ijoc.2022.0263) by Opher Baron, Dmitry Krass, Arik Senderovich, and Eliran Sherzer, has associated [software/data](https://github.com/INFORMSJoC/2022.0263).
@@ -40,6 +39,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [BilevelJuMP.jl: modeling and solving bilevel optimization problems in Julia](https://doi.org/10.1287/ijoc.2022.0135) by Joaquim Dias Garcia, Guilherme Bodin, and Alexandre Street, has associated [software/data](https://github.com/INFORMSJoC/2022.0135).
 * [Heuristic Search for Rank Aggregation with Application to Label Ranking](https://doi.org/10.1287/ijoc.2022.0019) by Yangming Zhou, Jin-Kao Hao, Zhen Li, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0019).
 * [The descent-ascent algorithm for DC programming](https://doi.org/10.1287/ijoc.2023.0142) by Pietro D’Alessandro, Manlio Gaudioso, Giovanni Giallombardo, and Giovanna Miglionico, has associated [software/data](https://github.com/INFORMSJoC/2023.0142).
+* [Correlation Clustering Problem under Mediation](https://doi.org/10.1287/ijoc.2022.0129) by Zacharie Ales, Celine Engelbeen, and Rosa Figueiredo, has associated [software/data](https://github.com/INFORMSJoC/2022.0129).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
 * Forthcoming.
