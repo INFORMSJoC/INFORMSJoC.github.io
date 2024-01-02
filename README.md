@@ -24,7 +24,7 @@ https://doi.org/10.1287/ijoc.2022.0366.cd
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{Lin2023,
+@article{Lin2024,
   author =        {Y.H. Lin, Q. Tian, and Y. Zhao},
   publisher =     {INFORMS Journal on Computing},
   title =         {Unified framework for choice-based facility location problem},
