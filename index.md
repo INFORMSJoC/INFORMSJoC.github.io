@@ -9,7 +9,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
 * [Sparsity-Exploiting Distributed Projections onto a Simplex](https://doi.org/10.1287/ijoc.2022.0328) by Yongzheng Dai and Chen Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0328).
-* [Supervised ML for Solving the GI/GI/1 Queue](https://doi.org/10.1287/ijoc.2022.0263) by Opher Baron, Dmitry Krass, Arik Senderovich, and Eliran Sherzer, has associated [software/data](https://github.com/INFORMSJoC/2022.0263).
 * [A Column Generation Scheme for Distributionally Robust Multi-Item Newsvendor Problems](https://doi.org/10.1287/ijoc.2022.0010) by Shanshan Wang and Erick Delage, has associated [software/data](https://github.com/INFORMSJoC/2022.0010).
 * [VRPSolverEasy: A Python Library for the Exact Solution of a Rich Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0103) by Najib Errami, Eduardo Queiroga, Ruslan Sadykov, and Eduardo Uchoa, has associated [software/data](https://github.com/INFORMSJoC/2023.0103).
 * [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333) by Jindong Qin, Pan Zheng, and Xiaojun Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0333).
@@ -40,6 +39,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Correlation Clustering Problem under Mediation](https://doi.org/10.1287/ijoc.2022.0129) by Zacharie Ales, Celine Engelbeen, and Rosa Figueiredo, has associated [software/data](https://github.com/INFORMSJoC/2022.0129).
 * [An Efficient Global Optimal Method for Cardinality Constrained Portfolio Optimization](https://doi.org/10.1287/ijoc.2022.0344) by Wei Xu, Jie Tang, Ka Fai Cedric Yiu, and Jian Wen Peng, has associated [software/data](https://github.com/INFORMSJoC/2022.0344).
 * [A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling](https://doi.org/10.1287/ijoc.2022.0191) by Ankit Bansal, Jean-Philippe Richard, Bjorn P. Berg, and Yu-Li Huang, has associated [software/data](https://github.com/INFORMSJoC/2022.0191).
+* [Supervised ML for Solving the GI/GI/1 Queue](https://doi.org/10.1287/ijoc.2022.0263) by Opher Baron, Dmitry Krass, Arik Senderovich, and Eliran Sherzer, has associated [software/data](https://github.com/INFORMSJoC/2022.0263).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
 * Forthcoming.
