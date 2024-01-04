@@ -8,7 +8,6 @@ This is the website for the GitHub repositories for hosting software and data as
 
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
-* [A Column Generation Scheme for Distributionally Robust Multi-Item Newsvendor Problems](https://doi.org/10.1287/ijoc.2022.0010) by Shanshan Wang and Erick Delage, has associated [software/data](https://github.com/INFORMSJoC/2022.0010).
 * [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333) by Jindong Qin, Pan Zheng, and Xiaojun Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0333).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
@@ -40,6 +39,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Supervised ML for Solving the GI/GI/1 Queue](https://doi.org/10.1287/ijoc.2022.0263) by Opher Baron, Dmitry Krass, Arik Senderovich, and Eliran Sherzer, has associated [software/data](https://github.com/INFORMSJoC/2022.0263).
 * [Sparsity-Exploiting Distributed Projections onto a Simplex](https://doi.org/10.1287/ijoc.2022.0328) by Yongzheng Dai and Chen Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0328).
 * [VRPSolverEasy: A Python Library for the Exact Solution of a Rich Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0103) by Najib Errami, Eduardo Queiroga, Ruslan Sadykov, and Eduardo Uchoa, has associated [software/data](https://github.com/INFORMSJoC/2023.0103).
+* [A Column Generation Scheme for Distributionally Robust Multi-Item Newsvendor Problems](https://doi.org/10.1287/ijoc.2022.0010) by Shanshan Wang and Erick Delage, has associated [software/data](https://github.com/INFORMSJoC/2022.0010).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
 * Forthcoming.
