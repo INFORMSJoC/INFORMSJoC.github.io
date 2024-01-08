@@ -9,6 +9,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
 * [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
 * [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333) by Jindong Qin, Pan Zheng, and Xiaojun Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0333).
+* [An Approximate Dynamic Programming Approach to Dynamic Stochastic Matching](https://doi.org/10.1287/ijoc.2021.0203) by Fan You and Thomas Vossen, has associated [software/data](https://github.com/INFORMSJoC/2021.0203).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
