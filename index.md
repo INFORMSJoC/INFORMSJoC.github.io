@@ -14,6 +14,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Shrinkage Approach to Improve Direct Bootstrap Resampling under Input Uncertainty](https://doi.org/10.1287/ijoc.2022.0044) by Eunhye Song, Henry Lam, and Russell R. Barton, has associated [software/data](https://github.com/INFORMSJoC/2022.0044).
 * [Appointment Scheduling with Delay-Tolerance Heterogeneity](https://doi.org/10.1287/ijoc.2023.0025) by Shuming Wang, Jun Li, Marcus Ang, and Tsan Sheng Ng, has associated [software/data](https://github.com/INFORMSJoC/2023.0025).
 * [Solving bilevel programs based on lower-level Mond-Weir duality](https://doi.org/10.1287/ijoc.2023.0108) by Yu-Wei Li, Gui-Hua Lin, and Xide Zhu, has associated [software/data](https://github.com/INFORMSJoC/2023.0108).
+* [Cost-Effective Acquisition of First-Party Data for Business Analytics](https://doi.org/10.1287/ijoc.2022.0037) by Xiaoping Liu and Xiao-Bai Li, has associated [software\data](https://github.com/INFORMSJoC/2022.0037).
   
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
