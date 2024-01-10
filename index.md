@@ -19,13 +19,6 @@ This is the website for the GitHub repositories for hosting software and data as
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
-* [DiversiTree: A New Method to Efficiently Compute Diverse Sets of Near-Optimal Solutions to Mixed-Integer Optimization Problems](https://doi.org/10.1287/ijoc.2022.0164) by Izuwa Ahanor, Hugh Medal, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2022.0164).
-* [Detecting Critical Nodes in Sparse Graphs via “Reduce-Solve-Combine” Memetic Search](https://doi.org/10.1287/ijoc.2022.0130) by Yangming Zhou, Jiaqi Li, Jin-Kao Hao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0130).
-* [A Study on Optimal Release Schedule for Multi-Version Software](https://doi.org/10.1287/ijoc.2021.0141) by Yeu-Shiang Huang, Chih-Chiang Fang, Chun-Hsuan Chou, and Tzu-Liang (Bill) Tseng, has associated [software/data](https://github.com/INFORMSJoC/2021.0141).
-* [Automation of Strategic Data Prioritization in System Model Calibration: Sensor Placement](https://doi.org/10.1287/ijoc.2022.0128) by Tianyi Li and Munther Dahleh, has associated [software/data](https://github.com/INFORMSJoC/2022.0128).
-* [Exact Matrix Factorization Updates for Nonlinear Programming](https://doi.org/10.1287/ijoc.2021.0331) by Adolfo R. Escobedo, has associated [software/data](https://github.com/INFORMSJoC/2021.0331).
-* [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
-* [A Set Covering Approach to Customized Coverage Instrumentation](https://doi.org/10.1287/ijoc.2021.0349) by Carla Michini, Peter Ohmann, Ben Liblit, and Jeffrey Linderoth, has associated [software/data](https://github.com/INFORMSJoC/2021.0349).
 * [A Differentiable Path-Following Method with a Compact Formulation to Compute Proper Equilibria](https://doi.org/10.1287/ijoc.2022.0148) by Yiyin Cao, Yin Chen, and Chuangyin Dang, has associated [software/data](https://github.com/INFORMSJoC/2022.0148).
 * [Combination Chemotherapy Optimization with Discrete Dosing](https://doi.org/10.1287/ijoc.2022.0207) by Temitayo Ajayi, Seyedmohammadhossein Hosseinian, Andrew J. Schaefer, and Clifton D. Fuller, has associated [software/data](https://github.com/INFORMSJoC/2022.0207).
 * [Flexible Differentiable Optimization via Model Transformations](https://doi.org/10.1287/ijoc.2022.0283) by Mathieu Besançon, Joaquim Dias Garcia, Benoît Legat, and Akshay Sharma, has associated [software/data](https://github.com/INFORMSJoC/2022.0283).
@@ -48,7 +41,14 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Column Generation Scheme for Distributionally Robust Multi-Item Newsvendor Problems](https://doi.org/10.1287/ijoc.2022.0010) by Shanshan Wang and Erick Delage, has associated [software/data](https://github.com/INFORMSJoC/2022.0010).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
-* Forthcoming.
+* [A Set Covering Approach to Customized Coverage Instrumentation](https://doi.org/10.1287/ijoc.2021.0349) by Carla Michini, Peter Ohmann, Ben Liblit, and Jeffrey Linderoth, has associated [software/data](https://github.com/INFORMSJoC/2021.0349).
+* [Detecting Critical Nodes in Sparse Graphs via “Reduce-Solve-Combine” Memetic Search](https://doi.org/10.1287/ijoc.2022.0130) by Yangming Zhou, Jiaqi Li, Jin-Kao Hao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0130).
+* [DiversiTree: A New Method to Efficiently Compute Diverse Sets of Near-Optimal Solutions to Mixed-Integer Optimization Problems](https://doi.org/10.1287/ijoc.2022.0164) by Izuwa Ahanor, Hugh Medal, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2022.0164).
+* [A Study on Optimal Release Schedule for Multi-Version Software](https://doi.org/10.1287/ijoc.2021.0141) by Yeu-Shiang Huang, Chih-Chiang Fang, Chun-Hsuan Chou, and Tzu-Liang (Bill) Tseng, has associated [software/data](https://github.com/INFORMSJoC/2021.0141).
+* [Automation of Strategic Data Prioritization in System Model Calibration: Sensor Placement](https://doi.org/10.1287/ijoc.2022.0128) by Tianyi Li and Munther Dahleh, has associated [software/data](https://github.com/INFORMSJoC/2022.0128).
+* [Federated Optimization under Intermittent Client Availability](https://doi.org/10.1287/ijoc.2022.0057) by Yikai Yan, Chaoyue Niu, Yucheng Ding, Zhenzhe Zheng, Shaojie Tang, Qinya Li, Fan Wu, Chengfei Lyu, Yanghe Feng, and Guihai Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0057).
+* [Exact Matrix Factorization Updates for Nonlinear Programming](https://doi.org/10.1287/ijoc.2021.0331) by Adolfo R. Escobedo, has associated [software/data](https://github.com/INFORMSJoC/2021.0331).
+* [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
 
 #### PUBLISHED
 
