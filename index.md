@@ -6,7 +6,6 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
 
-* [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
 * [An Approximate Dynamic Programming Approach to Dynamic Stochastic Matching](https://doi.org/10.1287/ijoc.2021.0203) by Fan You and Thomas Vossen, has associated [software/data](https://github.com/INFORMSJoC/2021.0203).
 * [Polyhedral Relaxations for Optimal Pump Scheduling of Potable Water Distribution Networks](https://doi.org/10.1287/ijoc.2022.0233) by Byron Tasseff, Russell Bent, Carleton Coffrin, Clayton Barrows, Devon Sigler, Jonathan Stickel, Ahmed S. Zamzam, Yang Liu, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2022.0233).
 * [A Shrinkage Approach to Improve Direct Bootstrap Resampling under Input Uncertainty](https://doi.org/10.1287/ijoc.2022.0044) by Eunhye Song, Henry Lam, and Russell R. Barton, has associated [software/data](https://github.com/INFORMSJoC/2022.0044).
@@ -43,6 +42,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Column Generation Scheme for Distributionally Robust Multi-Item Newsvendor Problems](https://doi.org/10.1287/ijoc.2022.0010) by Shanshan Wang and Erick Delage, has associated [software/data](https://github.com/INFORMSJoC/2022.0010).
 * [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333) by Jindong Qin, Pan Zheng, and Xiaojun Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0333).
 * [Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities](https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi, has associated [software/data](https://github.com/INFORMSJoC/2022.0239).
+* [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
 * [A Set Covering Approach to Customized Coverage Instrumentation](https://doi.org/10.1287/ijoc.2021.0349) by Carla Michini, Peter Ohmann, Ben Liblit, and Jeffrey Linderoth, has associated [software/data](https://github.com/INFORMSJoC/2021.0349).
