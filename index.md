@@ -160,8 +160,12 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
 **Volume 33, Issue 4**
  * [frvcpy: An Open-Source Solver for the Fixed Route Vehicle Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Froger, JE Mendoza, and J. Goodson, has associated software/data: [frvcpy](https://github.com/INFORMSJoc/2020.1035).
 
+---
+
 **Volume 33, Issue 1**
  * [SDDP.jl: A Julia Package for Stochastic Dual Dynamic Programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich, has associated software/data: [SDDP.jl](https://github.com/INFORMSJoC/2020.0987).
+
+---
 
 **Volume 32, Issue 4**
  * [PyMOSO: Software for Multi-Objective Simulation Optimization with R-PERLE and R-MinRLE](https://doi.org/10.1287/ijoc.2019.0902) by K. Cooper and S.R. Hunter, has associated software/data: [PyMOSO](https://github.com/INFORMSJoc/2019.0902).
