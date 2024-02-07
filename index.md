@@ -18,7 +18,9 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Path-Based Formulations for the Design of On-demand Multimodal Transit Systems with Adoption Awareness](https://doi.org/10.1287/ijoc.2023.0014) by Hongzhao Guan, Beste Basciftci, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2023.0014).
 * [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh, has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 * [Decomposable Formulation of Transmission Constraints for Decentralized Power Systems Optimization](https://doi.org/10.1287/ijoc.2022.0326) by Alinson S. Xavier, Feng Qiu, and Santanu S. Dey, has associated [software/data](https://github.com/INFORMSJoC/2022.0326).
-    
+
+***
+
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
@@ -48,8 +50,12 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Cost-Effective Acquisition of First-Party Data for Business Analytics](https://doi.org/10.1287/ijoc.2022.0037) by Xiaoping Liu and Xiao-Bai Li, has associated [software/data](https://github.com/INFORMSJoC/2022.0037).
 * [A Shrinkage Approach to Improve Direct Bootstrap Resampling under Input Uncertainty](https://doi.org/10.1287/ijoc.2022.0044) by Eunhye Song, Henry Lam, and Russell R. Barton, has associated [software/data](https://github.com/INFORMSJoC/2022.0044).
 
+***
+
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 2**
 * Forthcoming.
+
+***
 
 #### PUBLISHED
 
