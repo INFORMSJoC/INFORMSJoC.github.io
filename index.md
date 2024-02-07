@@ -48,7 +48,12 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Cost-Effective Acquisition of First-Party Data for Business Analytics](https://doi.org/10.1287/ijoc.2022.0037) by Xiaoping Liu and Xiao-Bai Li, has associated [software/data](https://github.com/INFORMSJoC/2022.0037).
 * [A Shrinkage Approach to Improve Direct Bootstrap Resampling under Input Uncertainty](https://doi.org/10.1287/ijoc.2022.0044) by Eunhye Song, Henry Lam, and Russell R. Barton, has associated [software/data](https://github.com/INFORMSJoC/2022.0044).
 
-**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 1**
+**[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 2**
+* Forthcoming.
+
+#### PUBLISHED
+
+**Volume 36, Issue 1**
 * [A Set Covering Approach to Customized Coverage Instrumentation](https://doi.org/10.1287/ijoc.2021.0349) by Carla Michini, Peter Ohmann, Ben Liblit, and Jeffrey Linderoth, has associated [software/data](https://github.com/INFORMSJoC/2021.0349).
 * [Detecting Critical Nodes in Sparse Graphs via “Reduce-Solve-Combine” Memetic Search](https://doi.org/10.1287/ijoc.2022.0130) by Yangming Zhou, Jiaqi Li, Jin-Kao Hao, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0130).
 * [DiversiTree: A New Method to Efficiently Compute Diverse Sets of Near-Optimal Solutions to Mixed-Integer Optimization Problems](https://doi.org/10.1287/ijoc.2022.0164) by Izuwa Ahanor, Hugh Medal, and Andrew C. Trapp, has associated [software/data](https://github.com/INFORMSJoC/2022.0164).
@@ -57,8 +62,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Federated Optimization under Intermittent Client Availability](https://doi.org/10.1287/ijoc.2022.0057) by Yikai Yan, Chaoyue Niu, Yucheng Ding, Zhenzhe Zheng, Shaojie Tang, Qinya Li, Fan Wu, Chengfei Lyu, Yanghe Feng, and Guihai Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0057).
 * [Exact Matrix Factorization Updates for Nonlinear Programming](https://doi.org/10.1287/ijoc.2021.0331) by Adolfo R. Escobedo, has associated [software/data](https://github.com/INFORMSJoC/2021.0331).
 * [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
-
-#### PUBLISHED
 
 **Volume 35, Issue 6**
 * [Software for Data-Based Stochastic Programming Using Bootstrap Estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
