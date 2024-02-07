@@ -63,6 +63,8 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Exact Matrix Factorization Updates for Nonlinear Programming](https://doi.org/10.1287/ijoc.2021.0331) by Adolfo R. Escobedo, has associated [software/data](https://github.com/INFORMSJoC/2021.0331).
 * [Monte Carlo Methods for Economic Capital](https://doi.org/10.1287/ijoc.2021.0261) by Yajuan Li, Zachary T. Kaplan, and Marvin K. Nakayama, has associated [software/data](https://github.com/INFORMSJoC/2021.0261).
 
+***
+
 **Volume 35, Issue 6**
 * [Software for Data-Based Stochastic Programming Using Bootstrap Estimation](https://doi.org/10.1287/ijoc.2022.0253) by Xiaotie Chen and David Woodruff, has associated [software/data](https://github.com/INFORMSJoC/2022.0253).
 * [Platoon Optimization Based on Truck Pairs](https://doi.org/10.1287/ijoc.2020.0302) by Anirudh Kishore Bhoopalam, Niels Agatz, and Rob Zuidwijk, has associated [software/data](https://github.com/INFORMSJoC/2020.0302).
@@ -120,6 +122,8 @@ This is the website for the GitHub repositories for hosting software and data as
 Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) by Ming Zhao, Nickolas Freeman, and Kai Pan, has associated [software/data](https://github.com/INFORMSJoC/2021-0046).
 * [A Multiobjective Approach for Sector Duration Optimization in Stereotactic Radiosurgery Treatment Planning](https://doi.org/10.1287/ijoc.2022.1252) by Oylum Seker, Mucahit Cevik, Merve Bodur, Young Le, and Mark Ruschin, has associated [software/data](https://github.com/INFORMSJoC/2021.0103).
 
+***
+
 **Volume 34, Issue 6**
   * [ROC++: Robust Optimization in C++](https://doi.org/10.1287/ijoc.2022.1209) by Phebe Vayanos, Qing Jin, and George Elissaios, has associated software/data: [ROC++](https://github.com/INFORMSJoC/2020.0140).
   * [Solving Stochastic Optimization with Expectation Constraints Eﬀiciently by a Stochastic Augmented Lagrangian-Type Algorithm](https://doi.org/10.1287/ijoc.2022.1228) by Liwei Zhang, Yule Zhang, Jia Wu, and Xiantao Xiao, has associated [software/data](https://github.com/INFORMSJoC/2021.0248).
@@ -157,10 +161,10 @@ Analysis of Random Yield and Capacity](https://doi.org/10.1287/ijoc.2022.1254) b
  * [alfonso: Matlab Package for Nonsymmetric Conic Optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız, has associated software/data: [alfonso](https://github.com/INFORMSJoC/2021.1058).
  * [Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2020.1022) by J. Custodio and M. Lejeune, has associated software/data: [VBOHCA](https://github.com/INFORMSJoC/2020.1022).
 
+***
+
 **Volume 33, Issue 4**
  * [frvcpy: An Open-Source Solver for the Fixed Route Vehicle Charging Problem](https://doi.org/10.1287/ijoc.2020.1035) by N. Kullman, A. Froger, JE Mendoza, and J. Goodson, has associated software/data: [frvcpy](https://github.com/INFORMSJoc/2020.1035).
-
-***
 
 **Volume 33, Issue 1**
  * [SDDP.jl: A Julia Package for Stochastic Dual Dynamic Programming](https://doi.org/10.1287/ijoc.2020.0987) by O. Dowson and L. Kapelevich, has associated software/data: [SDDP.jl](https://github.com/INFORMSJoC/2020.0987).
