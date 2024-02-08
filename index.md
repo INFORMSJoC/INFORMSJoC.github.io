@@ -17,6 +17,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Path-Based Formulations for the Design of On-demand Multimodal Transit Systems with Adoption Awareness](https://doi.org/10.1287/ijoc.2023.0014) by Hongzhao Guan, Beste Basciftci, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2023.0014).
 * [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh, has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 * [Decomposable Formulation of Transmission Constraints for Decentralized Power Systems Optimization](https://doi.org/10.1287/ijoc.2022.0326) by Alinson S. Xavier, Feng Qiu, and Santanu S. Dey, has associated [software/data](https://github.com/INFORMSJoC/2022.0326).
+* [Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility](https://doi.org/10.1287/ijoc.2022.0055) by Zhu Zhang, Jie Yuan, and Amulya Gupta, has associated [software/data](https://github.com/INFORMSJoC/2022.0055).
 
 ***
 
