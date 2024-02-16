@@ -18,6 +18,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
 * [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut](https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
 * [A FAST Method for Nested Estimation](https://doi.org/10.1287/ijoc.2023.0118) by Guo Liang, Kun Zhang, and Jun Luo, has associated [software/data](https://github.com/INFORMSJoC/2023.0118).
+* [Convergence Rates of Zeroth-order Gradient Descent for Łojasiewicz Functions](https://doi.org/10.1287/ijoc.2023.0247) by Tianyu Wang and Yasong Feng, has associated [software/data](https://github.com/INFORMSJoC/2023.0247).
   
 ***
 
