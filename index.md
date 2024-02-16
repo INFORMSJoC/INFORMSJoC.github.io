@@ -15,7 +15,9 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh, has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 * [Decomposable Formulation of Transmission Constraints for Decentralized Power Systems Optimization](https://doi.org/10.1287/ijoc.2022.0326) by Alinson S. Xavier, Feng Qiu, and Santanu S. Dey, has associated [software/data](https://github.com/INFORMSJoC/2022.0326).
 * [Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility](https://doi.org/10.1287/ijoc.2022.0055) by Zhu Zhang, Jie Yuan, and Amulya Gupta, has associated [software/data](https://github.com/INFORMSJoC/2022.0055).
-
+* [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
+* [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut(https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
+  
 ***
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
