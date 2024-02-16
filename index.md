@@ -6,7 +6,6 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
 
-* [Polyhedral Relaxations for Optimal Pump Scheduling of Potable Water Distribution Networks](https://doi.org/10.1287/ijoc.2022.0233) by Byron Tasseff, Russell Bent, Carleton Coffrin, Clayton Barrows, Devon Sigler, Jonathan Stickel, Ahmed S. Zamzam, Yang Liu, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2022.0233).
 * [Solving Bilevel Programs Based on Lower-level Mond-Weir Duality](https://doi.org/10.1287/ijoc.2023.0108) by Yu-Wei Li, Gui-Hua Lin, and Xide Zhu, has associated [software/data](https://github.com/INFORMSJoC/2023.0108).
 * [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban, has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
 * [Unified Framework for Choice-based Facility Location Problem](https://doi.org/10.1287/ijoc.2022.0366) by Yun Hui Lin, Qingyun Tian, and Yanlu Zhao, has associated [software/data](https://github.com/INFORMSJoC/2022.0366).
@@ -50,6 +49,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [A Shrinkage Approach to Improve Direct Bootstrap Resampling under Input Uncertainty](https://doi.org/10.1287/ijoc.2022.0044) by Eunhye Song, Henry Lam, and Russell R. Barton, has associated [software/data](https://github.com/INFORMSJoC/2022.0044).
 * [An Approximate Dynamic Programming Approach to Dynamic Stochastic Matching](https://doi.org/10.1287/ijoc.2021.0203) by Fan You and Thomas Vossen, has associated [software/data](https://github.com/INFORMSJoC/2021.0203).
 * [Appointment Scheduling with Delay-Tolerance Heterogeneity](https://doi.org/10.1287/ijoc.2023.0025) by Shuming Wang, Jun Li, Marcus Ang, and Tsan Sheng Ng, has associated [software/data](https://github.com/INFORMSJoC/2023.0025).
+* [Polyhedral Relaxations for Optimal Pump Scheduling of Potable Water Distribution Networks](https://doi.org/10.1287/ijoc.2022.0233) by Byron Tasseff, Russell Bent, Carleton Coffrin, Clayton Barrows, Devon Sigler, Jonathan Stickel, Ahmed S. Zamzam, Yang Liu, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2022.0233).
 
 ***
 
