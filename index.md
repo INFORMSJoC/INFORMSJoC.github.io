@@ -12,7 +12,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Decision Diagram-Based Branch-and-Bound with Caching for Dominance and Suboptimality Detection](https://doi.org/10.1287/ijoc.2022.0340) by Vianney Coppe, Xavier Gillard, and Pierre Schaus, has associated [software/data](https://github.com/INFORMSJoC/2022.0340).
 * [Real-time Derivative Pricing and Hedging with Consistent Metamodels](https://doi.org/10.1287/ijoc.2023.0292) by Guangxin Jiang, L. Jeff Hong, and Haihui Shen, has associated [software/data](https://github.com/INFORMSJoC/2023.0292).
 * [Path-Based Formulations for the Design of On-demand Multimodal Transit Systems with Adoption Awareness](https://doi.org/10.1287/ijoc.2023.0014) by Hongzhao Guan, Beste Basciftci, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2023.0014).
-* [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh, has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 * [Decomposable Formulation of Transmission Constraints for Decentralized Power Systems Optimization](https://doi.org/10.1287/ijoc.2022.0326) by Alinson S. Xavier, Feng Qiu, and Santanu S. Dey, has associated [software/data](https://github.com/INFORMSJoC/2022.0326).
 * [Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility](https://doi.org/10.1287/ijoc.2022.0055) by Zhu Zhang, Jie Yuan, and Amulya Gupta, has associated [software/data](https://github.com/INFORMSJoC/2022.0055).
 * [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
@@ -54,6 +53,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Appointment Scheduling with Delay-Tolerance Heterogeneity](https://doi.org/10.1287/ijoc.2023.0025) by Shuming Wang, Jun Li, Marcus Ang, and Tsan Sheng Ng, has associated [software/data](https://github.com/INFORMSJoC/2023.0025).
 * [Polyhedral Relaxations for Optimal Pump Scheduling of Potable Water Distribution Networks](https://doi.org/10.1287/ijoc.2022.0233) by Byron Tasseff, Russell Bent, Carleton Coffrin, Clayton Barrows, Devon Sigler, Jonathan Stickel, Ahmed S. Zamzam, Yang Liu, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2022.0233).
 * [Solving Bilevel Programs Based on Lower-level Mond-Weir Duality](https://doi.org/10.1287/ijoc.2023.0108) by Yu-Wei Li, Gui-Hua Lin, and Xide Zhu, has associated [software/data](https://github.com/INFORMSJoC/2023.0108).
+* [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh, has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 
 ***
 
