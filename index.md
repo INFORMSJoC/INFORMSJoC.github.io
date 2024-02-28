@@ -16,6 +16,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Convergence Rates of Zeroth-order Gradient Descent for Łojasiewicz Functions](https://doi.org/10.1287/ijoc.2023.0247) by Tianyu Wang and Yasong Feng, has associated [software/data](https://github.com/INFORMSJoC/2023.0247).
 * [Constraint Learning to Define Trust Regions in Optimization Over Pre-Trained Predictive Models](https://doi.org/10.1287/ijoc.2022.0312) by Chenbo Shi, Mohsen Emadikhiav, Leonardo Lozano, and David Bergman, has associated [software/data](https://github.com/INFORMSJoC/2022.0312).
 * [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban, has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
+* [The impact of passive social media viewers in influence maximization](https://doi.org/10.1287/ijoc.2023.0047) by Michael Kahr, Markus Leitner, and Ivana Ljubić, has associated [software/data](https://doi.org/10.1287/ijoc.2023.0047).
   
 ***
 
