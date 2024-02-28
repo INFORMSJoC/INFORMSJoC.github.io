@@ -18,6 +18,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban, has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
 * [The impact of passive social media viewers in influence maximization](https://doi.org/10.1287/ijoc.2023.0047) by Michael Kahr, Markus Leitner, and Ivana Ljubić, has associated [software/data](https://github.com/INFORMSJoC/2023.0047).
 * [A flow-based formulation for parallel machine scheduling using decision diagrams](https://doi.org/10.1287/2022.0301) by Daniel Kowalczyk, Roel Leus, Christopher Hojny, and Stefan Røpke, has associated [software/data](https://github.com/INFORMSJoC/2022.0301).
+* [The continuous time-resource tradeoff scheduling problem with time windows](https://doi.org/10.1287/2022.0142) by Christian Artigues, Emmanuel Hebrard, Alain Quilliot, and Helene Toussaint, has associated [software/data](https://github.com/INFORMSJoC/2022.0142).
   
 ***
 
