@@ -8,9 +8,7 @@ This is the website for the GitHub repositories for hosting software and data as
 
 * [Unified Framework for Choice-based Facility Location Problem](https://doi.org/10.1287/ijoc.2022.0366) by Yun Hui Lin, Qingyun Tian, and Yanlu Zhao, has associated [software/data](https://github.com/INFORMSJoC/2022.0366).
 * [Regret Minimization and Separation in Multi-Bidder Multi-Item Auctions](https://doi.org/10.1287/ijoc.2022.0275) by Cagil Kocyigit, Daniel Kuhn, and Napat Rujeerapaiboon, has associated [software/data](https://github.com/INFORMSJoC/2022.0275).
-* [Decision Diagram-Based Branch-and-Bound with Caching for Dominance and Suboptimality Detection](https://doi.org/10.1287/ijoc.2022.0340) by Vianney Coppe, Xavier Gillard, and Pierre Schaus, has associated [software/data](https://github.com/INFORMSJoC/2022.0340).
 * [Path-Based Formulations for the Design of On-demand Multimodal Transit Systems with Adoption Awareness](https://doi.org/10.1287/ijoc.2023.0014) by Hongzhao Guan, Beste Basciftci, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2023.0014).
-* [Decomposable Formulation of Transmission Constraints for Decentralized Power Systems Optimization](https://doi.org/10.1287/ijoc.2022.0326) by Alinson S. Xavier, Feng Qiu, and Santanu S. Dey, has associated [software/data](https://github.com/INFORMSJoC/2022.0326).
 * [Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility](https://doi.org/10.1287/ijoc.2022.0055) by Zhu Zhang, Jie Yuan, and Amulya Gupta, has associated [software/data](https://github.com/INFORMSJoC/2022.0055).
 * [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
 * [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut](https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
@@ -55,6 +53,8 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Solving Bilevel Programs Based on Lower-level Mond-Weir Duality](https://doi.org/10.1287/ijoc.2023.0108) by Yu-Wei Li, Gui-Hua Lin, and Xide Zhu, has associated [software/data](https://github.com/INFORMSJoC/2023.0108).
 * [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh, has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 * [Real-time Derivative Pricing and Hedging with Consistent Metamodels](https://doi.org/10.1287/ijoc.2023.0292) by Guangxin Jiang, L. Jeff Hong, and Haihui Shen, has associated [software/data](https://github.com/INFORMSJoC/2023.0292).
+* [Decomposable Formulation of Transmission Constraints for Decentralized Power Systems Optimization](https://doi.org/10.1287/ijoc.2022.0326) by Alinson S. Xavier, Feng Qiu, and Santanu S. Dey, has associated [software/data](https://github.com/INFORMSJoC/2022.0326).
+* [Decision Diagram-Based Branch-and-Bound with Caching for Dominance and Suboptimality Detection](https://doi.org/10.1287/ijoc.2022.0340) by Vianney Coppe, Xavier Gillard, and Pierre Schaus, has associated [software/data](https://github.com/INFORMSJoC/2022.0340).
 
 ***
 
