@@ -10,7 +10,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Let the Laser Beam Connect the Dots: Forecasting and Narrating Stock Market Volatility](https://doi.org/10.1287/ijoc.2022.0055) by Zhu Zhang, Jie Yuan, and Amulya Gupta, has associated [software/data](https://github.com/INFORMSJoC/2022.0055).
 * [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
 * [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut](https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
-* [A FAST Method for Nested Estimation](https://doi.org/10.1287/ijoc.2023.0118) by Guo Liang, Kun Zhang, and Jun Luo, has associated [software/data](https://github.com/INFORMSJoC/2023.0118).
 * [Convergence Rates of Zeroth-order Gradient Descent for Łojasiewicz Functions](https://doi.org/10.1287/ijoc.2023.0247) by Tianyu Wang and Yasong Feng, has associated [software/data](https://github.com/INFORMSJoC/2023.0247).
 * [Constraint Learning to Define Trust Regions in Optimization Over Pre-Trained Predictive Models](https://doi.org/10.1287/ijoc.2022.0312) by Chenbo Shi, Mohsen Emadikhiav, Leonardo Lozano, and David Bergman, has associated [software/data](https://github.com/INFORMSJoC/2022.0312).
 * [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban, has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
@@ -58,6 +57,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Decision Diagram-Based Branch-and-Bound with Caching for Dominance and Suboptimality Detection](https://doi.org/10.1287/ijoc.2022.0340) by Vianney Coppe, Xavier Gillard, and Pierre Schaus, has associated [software/data](https://github.com/INFORMSJoC/2022.0340).
 * [Unified Framework for Choice-based Facility Location Problem](https://doi.org/10.1287/ijoc.2022.0366) by Yun Hui Lin, Qingyun Tian, and Yanlu Zhao, has associated [software/data](https://github.com/INFORMSJoC/2022.0366).
 * [Regret Minimization and Separation in Multi-Bidder Multi-Item Auctions](https://doi.org/10.1287/ijoc.2022.0275) by Cagil Kocyigit, Daniel Kuhn, and Napat Rujeerapaiboon, has associated [software/data](https://github.com/INFORMSJoC/2022.0275).
+* [A FAST Method for Nested Estimation](https://doi.org/10.1287/ijoc.2023.0118) by Guo Liang, Kun Zhang, and Jun Luo, has associated [software/data](https://github.com/INFORMSJoC/2023.0118).
 
 ***
 
