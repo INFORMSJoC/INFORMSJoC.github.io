@@ -50,7 +50,7 @@ This is the website for the GitHub repositories for hosting software and data as
 ***
 
 **[Published in AIA](https://pubsonline.informs.org/authorportal/articles-in-advance) and scheduled for Volume 36, Issue 2**
-* [Heuristic Search for Rank Aggregation with Application to Label Ranking](https://doi.org/10.1287/ijoc.2022.0019) by Yangming Zhou, Jin-Kao Hao, Zhen Li, and Fred Glover, has associated [software/data](https://github.com/INFORMSJoC/2022.0019).
+* [Heuristic Search for Rank Aggregation with Application to Label Ranking](https://doi.org/10.1287/ijoc.2022.0019) by Yangming Zhou, Jin-Kao Hao, and Zhen Li, has associated [software/data](https://github.com/INFORMSJoC/2022.0019).
 * [BilevelJuMP.jl: modeling and solving bilevel optimization problems in Julia](https://doi.org/10.1287/ijoc.2022.0135) by Joaquim Dias Garcia, Guilherme Bodin, and Alexandre Street, has associated [software/data](https://github.com/INFORMSJoC/2022.0135).
 * [Seamless Multimodal Transportation Scheduling](https://doi.org/10.1287/ijoc.2019.0163) by Arvind U. Raghunathan, David Bergman, John N. Hooker, Thiago Serra, and Shingo Kobori, has associated [software/data](https://github.com/INFORMSJoC/2019.0163).
 * [A Differentiable Path-Following Method with a Compact Formulation to Compute Proper Equilibria](https://doi.org/10.1287/ijoc.2022.0148) by Yiyin Cao, Yin Chen, and Chuangyin Dang, has associated [software/data](https://github.com/INFORMSJoC/2022.0148).
