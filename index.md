@@ -6,11 +6,6 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### ACCEPTED, BUT NOT YET PUBLISHED
 
-* [Path-Based Formulations for the Design of On-demand Multimodal Transit Systems with Adoption Awareness](https://doi.org/10.1287/ijoc.2023.0014) by Hongzhao Guan, Beste Basciftci, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2023.0014).
-* [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
-* [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut](https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
-* [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban, has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
-* [The impact of passive social media viewers in influence maximization](https://doi.org/10.1287/ijoc.2023.0047) by Michael Kahr, Markus Leitner, and Ivana Ljubić, has associated [software/data](https://github.com/INFORMSJoC/2023.0047).
 * [A flow-based formulation for parallel machine scheduling using decision diagrams](https://doi.org/10.1287/2022.0301) by Daniel Kowalczyk, Roel Leus, Christopher Hojny, and Stefan Røpke, has associated [software/data](https://github.com/INFORMSJoC/2022.0301).
 * [The continuous time-resource tradeoff scheduling problem with time windows](https://doi.org/10.1287/2022.0142) by Christian Artigues, Emmanuel Hebrard, Alain Quilliot, and Helene Toussaint, has associated [software/data](https://github.com/INFORMSJoC/2022.0142).
 * [A Graph-based Approach for Relating Integer Programs](https://doi.org/10.1287/2023.0255) by Zachary Steever, Kyle Hunt, Mark Karwan, Junsong Yuan, and Chase C. Murray, has associated [software/data](https://github.com/INFORMSJoC/2023.0255).
@@ -22,6 +17,11 @@ This is the website for the GitHub repositories for hosting software and data as
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
+* [Path-Based Formulations for the Design of On-demand Multimodal Transit Systems with Adoption Awareness](https://doi.org/10.1287/ijoc.2023.0014) by Hongzhao Guan, Beste Basciftci, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2023.0014).
+* [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
+* [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut](https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
+* [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban, has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
+* [The impact of passive social media viewers in influence maximization](https://doi.org/10.1287/ijoc.2023.0047) by Michael Kahr, Markus Leitner, and Ivana Ljubić, has associated [software/data](https://github.com/INFORMSJoC/2023.0047).
 * [A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling](https://doi.org/10.1287/ijoc.2022.0191) by Ankit Bansal, Jean-Philippe Richard, Bjorn P. Berg, and Yu-Li Huang, has associated [software/data](https://github.com/INFORMSJoC/2022.0191).
 * [Supervised ML for Solving the GI/GI/1 Queue](https://doi.org/10.1287/ijoc.2022.0263) by Opher Baron, Dmitry Krass, Arik Senderovich, and Eliran Sherzer, has associated [software/data](https://github.com/INFORMSJoC/2022.0263).
 * [Sparsity-Exploiting Distributed Projections onto a Simplex](https://doi.org/10.1287/ijoc.2022.0328) by Yongzheng Dai and Chen Chen, has associated [software/data](https://github.com/INFORMSJoC/2022.0328).
