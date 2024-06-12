@@ -4,19 +4,22 @@ This is the website for the GitHub repositories for hosting software and data as
 
 ### Available Software and Data 
 
-#### ACCEPTED, BUT NOT YET PUBLISHED
-
-* [A flow-based formulation for parallel machine scheduling using decision diagrams](https://doi.org/10.1287/2022.0301) by Daniel Kowalczyk, Roel Leus, Christopher Hojny, and Stefan Røpke, has associated [software/data](https://github.com/INFORMSJoC/2022.0301).
-* [The continuous time-resource tradeoff scheduling problem with time windows](https://doi.org/10.1287/2022.0142) by Christian Artigues, Emmanuel Hebrard, Alain Quilliot, and Helene Toussaint, has associated [software/data](https://github.com/INFORMSJoC/2022.0142).
-* [A Graph-based Approach for Relating Integer Programs](https://doi.org/10.1287/2023.0255) by Zachary Steever, Kyle Hunt, Mark Karwan, Junsong Yuan, and Chase C. Murray, has associated [software/data](https://github.com/INFORMSJoC/2023.0255).
-* [Feasibility verification and upper bound computation in global minimization using approximate active index sets](https://doi.org/10.1287/2023.0162) by Christian Fullner, Peter Kirst, Hendrik Otto, and Steffen Rebennack, has associated [software/data](https://github.com/INFORMSJoC/2023.0162).
-
-  
-***
-
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
 **[Published in AIA](https://pubsonline.informs.org/toc/ijoc/0/0), but not yet scheduled in an issue**
+* [The Terminator: An Integration of Inner and Outer Approximations for Solving Wasserstein Distributionally Robust Chance Constrained Programs via Variable Fixing](https://doi.org/10.1287/ijoc.2023.0299) by Weijun Xie and Nan Jiang has associated [software/data](https://github.com/INFORMSJoC/2023.0299).
+* [Ranking decomposition for the discrete ordered median problem](https://doi.org/10.1287/ijoc.2023.0059) by Claudio Contardo, Marilène Cherkesly, and Matthieu Gruson has associated [software/data](https://github.com/INFORMSJoC/2023.0059).
+* [Comparisons of Two-stage Models for Flood Mitigation of Electrical Substations](https://doi.org/10.1287/ijoc.2023.0125) by Brent Austgen, Erhan Kutanoglu, John Hasenbein, and Surya Santoso has associated [software/data](https://github.com/INFORMSJoC/2023.0125).
+* [Solving the Minimum Sum Coloring Problem: Alternative Models, Exact Solvers, and Metaheuristics](https://doi.org/10.1287/ijoc.2022.0334) by Yu Du, Fred Glover, Gary Kochenberger, Rick Hennig, Haibo Wang, and Amit Hulandageri has associated [software/data](https://github.com/INFORMSJoC/2022.0334).
+* [An Enhanced ADMM-based Interior Point Method for Linear and Conic Optimization](https://doi.org/10.1287/ijoc.2023.0017) by Bo Jiang, Qi Deng, Qing Feng, Wenzhi Gao, Dongdong Ge, Yuntian Jiang, Jinsong Liu, Tianhao Liu, Chenyu Xue, Yinyu Ye, and Chuwen Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0017).
+* [An Intelligent End-to-End Neural Architecture Search Framework for Electricity Forecasting Model Development](https://doi.org/10.1287/ijoc.2023.0034) by Ying Chen, Jin Yang, Guangxin Jiang, and Yinan Wang has associated [software/data](https://github.com/INFORMSJoC/2023.0034).
+* [Coordinating charging request allocation between self-interested navigation service platforms](https://doi.org/10.1287/ijoc.2022.0269) by Maximilian Schiffer, and Marianne Guillet has associated [software/data](https://github.com/INFORMSJoC/2022.0269).
+* [Efficient and Flexible Long-Tail Recommendation Using Cosine Patterns](https://doi.org/10.1287/ijoc.2022.0194) by Yaqiong Wang, Junjie Wu, Zhiang Wu, and Gediminas Adomavicius has associated [software/data](https://github.com/INFORMSJoC/2022.0194).
+* [Models for test cost minimization in database migration](https://doi.org/10.1287/ijoc.2023.0021) by K. Subramani, Bugra Caskurlu, Utku Acikalin, Alvaro Velasquez, and Piotr Wojciechowski has associated [software/data](https://github.com/INFORMSJoC/2023.0021).
+* [Feasibility verification and upper bound computation in global minimization using approximate active index sets](https://doi.org/10.1287/2023.0162) by Christian Fullner, Peter Kirst, Hendrik Otto, and Steffen Rebennack, has associated [software/data](https://github.com/INFORMSJoC/2023.0162).
+* [A Graph-based Approach for Relating Integer Programs](https://doi.org/10.1287/2023.0255) by Zachary Steever, Kyle Hunt, Mark Karwan, Junsong Yuan, and Chase C. Murray, has associated [software/data](https://github.com/INFORMSJoC/2023.0255).
+* [The continuous time-resource tradeoff scheduling problem with time windows](https://doi.org/10.1287/2022.0142) by Christian Artigues, Emmanuel Hebrard, Alain Quilliot, and Helene Toussaint, has associated [software/data](https://github.com/INFORMSJoC/2022.0142).
+* [A flow-based formulation for parallel machine scheduling using decision diagrams](https://doi.org/10.1287/2022.0301) by Daniel Kowalczyk, Roel Leus, Christopher Hojny, and Stefan Røpke, has associated [software/data](https://github.com/INFORMSJoC/2022.0301).
 * [Path-Based Formulations for the Design of On-demand Multimodal Transit Systems with Adoption Awareness](https://doi.org/10.1287/ijoc.2023.0014) by Hongzhao Guan, Beste Basciftci, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2023.0014).
 * [Computing optimality certificates for convex mixed-integer nonlinear problems](https://doi.org/10.1287/ijoc.2022.0099) by Katrin Halbig, Lukas Hümbs, Florian Rösel, Lars Schewe, and Dieter Weninger, has associated [software/data](https://github.com/INFORMSJoC/2022.0099)
 * [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut](https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
