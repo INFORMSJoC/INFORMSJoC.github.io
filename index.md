@@ -6,7 +6,11 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
-* [Efficient Nested Simulation Experiment Design via the Likelihood Ratio Method](https://doi.org/10.1287/ijoc.2022.0392) by Mingbin Feng, Eunhye Song has associated [software/data](https://github.com/INFORMSJoC/2022.0392).
+* [Exact and Approximation Algorithms for Sparse PCA](https://doi.org/10.1287/ijoc.2022.0372) by Yongchun Li and Weijun Xie has associated [software/data](https://github.com/INFORMSJoC/2022.0372).
+* [Satisficing Approach to On-Demand Ride Matching](https://doi.org/10.1287/ijoc.2021.0210) by Dongling Rong, Xinyu Sun, Meilin Zhang, and Shuangchi He has associated [software/data](https://github.com/INFORMSJoC/2021.0210).
+* [Efficient Project Scheduling with Automous Learning Opportunities](https://doi.org/10.1287/ijoc.2023.0107) by Alessandro Hill and Thomas Vossen has associated [software/data](https://github.com/INFORMSJoC/2023.0107).
+* [An Efficient Scenario Reduction Method for Problems with Higher Moment Coherent Risk Measures](https://doi.org/10.1287/ijoc.2022.0375) by Xiaolei He and Weiguo Zhang has associated [software/data](https://github.com/INFORMSJoC/2022.0375).
+* [Efficient Nested Simulation Experiment Design via the Likelihood Ratio Method](https://doi.org/10.1287/ijoc.2022.0392) by Mingbin Feng and Eunhye Song has associated [software/data](https://github.com/INFORMSJoC/2022.0392).
 * [The Terminator: An Integration of Inner and Outer Approximations for Solving Wasserstein Distributionally Robust Chance Constrained Programs via Variable Fixing](https://doi.org/10.1287/ijoc.2023.0299) by Weijun Xie and Nan Jiang has associated [software/data](https://github.com/INFORMSJoC/2023.0299).
 * [Ranking decomposition for the discrete ordered median problem](https://doi.org/10.1287/ijoc.2023.0059) by Claudio Contardo, Marilène Cherkesly, and Matthieu Gruson has associated [software/data](https://github.com/INFORMSJoC/2023.0059).
 * [Comparisons of Two-stage Models for Flood Mitigation of Electrical Substations](https://doi.org/10.1287/ijoc.2023.0125) by Brent Austgen, Erhan Kutanoglu, John Hasenbein, and Surya Santoso has associated [software/data](https://github.com/INFORMSJoC/2023.0125).
