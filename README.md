@@ -18,7 +18,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{MinimumWeightConnectedDominatingSet,
-  author =        {Jiao Zhou, Zhao zhang,  Yingli Ran, Pardalos, Panos M, Shaojie Tang,  Dingzhu Du},
+  author =        {Jiao Zhou, Zhao Zhang,  Yingli Ran, Pardalos, Panos M, Shaojie Tang,  Dingzhu Du},
   publisher =     {INFORMS Journal on Computing},
   title =         {A New Approximation Algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set},
   year =          {2024},
