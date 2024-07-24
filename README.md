@@ -16,8 +16,8 @@ https://doi.org/10.1287/ijoc.2023.0306.cd
 
 Below is the BibTex for citing this snapshot of the repository.
 
-```python
-@misc{Antoniadis2024,
+```
+@misc{MinimumWeightConnectedDominatingSet,
   author =        {Jiao Zhou},
   publisher =     {INFORMS Journal on Computing},
   title =         {A New Approximation Algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set},
@@ -31,6 +31,20 @@ Below is the BibTex for citing this snapshot of the repository.
 # Description
 
 The goal of this repository is to demonstrate the efficiency of our algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set.
+
+To demonstrate the effectiveness and efficiency of our algorithm, we conducted three sets of comparative experiments: 
+one against optimal solutions, another against Guha's $(1.35+\varepsilon)\ln n$-approximation algorithm proposed in 1999, 
+and a third against Zhou's $(H(\delta_{\max}+m)+2H(\delta_{\max}-1))$-approximation algorithm proposed in 2018.
+
+The experiments were conducted on a server running a 64-bit Windows 10 operating system, 
+equipped with a Gen Intel(R) Core i5 1360k CPU running at 3.5 GHz and 64 GB of memory. 
+Connected graphs were generated randomly using an incremental approach: 
+Starting with an empty graph, nodes and edges were gradually added such that each newly added node was randomly 
+linked to a previously added node, ensuring connectivity. Additional edges were then randomly added. 
+Weights on the nodes were generated randomly.
+
+To ensure statistical validity, each experiment involved generating at least 100 random graphs, 
+with average results reported.
 
 The algorithm is implemented by three python scripts, ../src/algorithm_GK.py, ../src/algorithm_two_step.py and ../src/algorithm_OPT.py.
 
