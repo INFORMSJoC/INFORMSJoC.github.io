@@ -1,13 +1,12 @@
-INFORMS Journal on Computing Logo
 
-A New Approximation Algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set
+# A New Approximation Algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set
 
 This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper A New Approximation Algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set
 by Jiao Zhou
 
-Cite
+# Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
@@ -17,6 +16,7 @@ https://doi.org/10.1287/ijoc.2023.0306.cd
 
 Below is the BibTex for citing this snapshot of the repository.
 
+```python
 @misc{Antoniadis2024,
   author =        {Jiao Zhou},
   publisher =     {INFORMS Journal on Computing},
@@ -26,8 +26,9 @@ Below is the BibTex for citing this snapshot of the repository.
   url =           {https://github.com/INFORMSJoC/2023.0306},
   note =          {Available for download at https://github.com/INFORMSJoC/2023.0306},
 }  
+```
 
-Description
+# Description
 
 The goal of this repository is to demonstrate the efficiency of our algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set.
 
@@ -51,11 +52,11 @@ The algorithm is implemented by three python scripts, ../src/algorithm_GK.py, ..
    Experimental results are in document results_OPT.txt. The results show that our solutions 
    are close to the optimal solutions.
 
-Running Algoritm
+# Running 
 
-Run with Python 2.6.6 or later.
+Run algorithm with Python 2.6.6 or later.
 
-Results
+# Results
 
 The running results are saved in the ../results.
 
