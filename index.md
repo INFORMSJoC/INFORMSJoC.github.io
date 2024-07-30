@@ -6,6 +6,7 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [AILS-II: An Adaptive Iterated Local Search Heuristic for the Large-scale Capacitated Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0106) by Vinicius Maximo, Jean-François Cordeau, and Mariá Nascimento has associated [software/data](https://github.com/INFORMSJoC/2023.0106).
 * [A Model-Free Approach for Solving Choice-Based Competitive Facility Location Problems Using Simulation and Submodularity](https://doi.org/10.1287/ijoc.2023.0280) by Robin Legault and Emma Frejinger has associated [software/data](https://github.com/INFORMSJoC/2023.0280).
 * [Controlling Homophily in Social Network Regression Analysis by Machine Learning](https://doi.org/10.1287/ijoc.2022.0287) by Xuanqi Liu and Ke-Wei Huang has associated [software/data](https://github.com/INFORMSJoC/2022.0287).
 * [Exact and Approximation Algorithms for Sparse PCA](https://doi.org/10.1287/ijoc.2022.0372) by Yongchun Li and Weijun Xie has associated [software/data](https://github.com/INFORMSJoC/2022.0372).
