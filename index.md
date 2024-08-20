@@ -6,6 +6,7 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [RMA: Ranking based on model averaging](https://doi.org/10.1287/ijoc.2023.0257) by Ziheng Feng, Baihua He, Tianfa Xie, Xinyu Zhang, and Xianpeng Zong has associated [software/data](https://github.com/INFORMSJoC/2023.0257).
 * [Computing Optimal Strategies for a Search Game in Discrete Locations](https://doi.org/10.1287/ijoc.2023.0155) by Jake Clarkson and Kyle Lin has associated [software/data](https://github.com/INFORMSJoC/2023.0155).
 * [Learning Hidden Markov Models with Structured Transition Dynamics](https://doi.org/10.1287/ijoc.2022.0342) by Simin Ma, Amin Dehghanian, Gian-Gabriel Garcia, and Nicoleta Serban has associated [software/data](https://github.com/INFORMSJoC/2022.0342).
 * [AILS-II: An Adaptive Iterated Local Search Heuristic for the Large-scale Capacitated Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0106) by Vinicius Maximo, Jean-François Cordeau, and Mariá Nascimento has associated [software/data](https://github.com/INFORMSJoC/2023.0106).
