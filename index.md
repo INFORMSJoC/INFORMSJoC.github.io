@@ -13,7 +13,6 @@ This is the website for the GitHub repositories for hosting software and data as
 * [RMA: Ranking based on model averaging](https://doi.org/10.1287/ijoc.2023.0257) by Ziheng Feng, Baihua He, Tianfa Xie, Xinyu Zhang, and Xianpeng Zong has associated [software/data](https://github.com/INFORMSJoC/2023.0257).
 * [Computing Optimal Strategies for a Search Game in Discrete Locations](https://doi.org/10.1287/ijoc.2023.0155) by Jake Clarkson and Kyle Lin has associated [software/data](https://github.com/INFORMSJoC/2023.0155).
 * [Learning Hidden Markov Models with Structured Transition Dynamics](https://doi.org/10.1287/ijoc.2022.0342) by Simin Ma, Amin Dehghanian, Gian-Gabriel Garcia, and Nicoleta Serban has associated [software/data](https://github.com/INFORMSJoC/2022.0342).
-* [AILS-II: An Adaptive Iterated Local Search Heuristic for the Large-scale Capacitated Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0106) by Vinicius Maximo, Jean-François Cordeau, and Mariá Nascimento has associated [software/data](https://github.com/INFORMSJoC/2023.0106).
 * [A Model-Free Approach for Solving Choice-Based Competitive Facility Location Problems Using Simulation and Submodularity](https://doi.org/10.1287/ijoc.2023.0280) by Robin Legault and Emma Frejinger has associated [software/data](https://github.com/INFORMSJoC/2023.0280).
 * [Controlling Homophily in Social Network Regression Analysis by Machine Learning](https://doi.org/10.1287/ijoc.2022.0287) by Xuanqi Liu and Ke-Wei Huang has associated [software/data](https://github.com/INFORMSJoC/2022.0287).
 * [Exact and Approximation Algorithms for Sparse PCA](https://doi.org/10.1287/ijoc.2022.0372) by Yongchun Li and Weijun Xie has associated [software/data](https://github.com/INFORMSJoC/2022.0372).
@@ -39,13 +38,9 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut](https://doi.org/10.1287/ijoc.2023.0128) by Jiachen Zhang, Youcef Magnouche, Pierre Bauguion, Sebastien Martin, and J. Christopher Beck, has associated [software/data](https://github.com/INFORMSJoC/2023.0128).
 * [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban, has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
 * [The impact of passive social media viewers in influence maximization](https://doi.org/10.1287/ijoc.2023.0047) by Michael Kahr, Markus Leitner, and Ivana Ljubić, has associated [software/data](https://github.com/INFORMSJoC/2023.0047).
-* [VRPSolverEasy: A Python Library for the Exact Solution of a Rich Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0103) by Najib Errami, Eduardo Queiroga, Ruslan Sadykov, and Eduardo Uchoa, has associated [software/data](https://github.com/INFORMSJoC/2023.0103).
-* [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
 * [Cost-Effective Acquisition of First-Party Data for Business Analytics](https://doi.org/10.1287/ijoc.2022.0037) by Xiaoping Liu and Xiao-Bai Li, has associated [software/data](https://github.com/INFORMSJoC/2022.0037).
 * [A Shrinkage Approach to Improve Direct Bootstrap Resampling under Input Uncertainty](https://doi.org/10.1287/ijoc.2022.0044) by Eunhye Song, Henry Lam, and Russell R. Barton, has associated [software/data](https://github.com/INFORMSJoC/2022.0044).
-* [An Approximate Dynamic Programming Approach to Dynamic Stochastic Matching](https://doi.org/10.1287/ijoc.2021.0203) by Fan You and Thomas Vossen, has associated [software/data](https://github.com/INFORMSJoC/2021.0203).
 * [Appointment Scheduling with Delay-Tolerance Heterogeneity](https://doi.org/10.1287/ijoc.2023.0025) by Shuming Wang, Jun Li, Marcus Ang, and Tsan Sheng Ng, has associated [software/data](https://github.com/INFORMSJoC/2023.0025).
-* [Polyhedral Relaxations for Optimal Pump Scheduling of Potable Water Distribution Networks](https://doi.org/10.1287/ijoc.2022.0233) by Byron Tasseff, Russell Bent, Carleton Coffrin, Clayton Barrows, Devon Sigler, Jonathan Stickel, Ahmed S. Zamzam, Yang Liu, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2022.0233).
 * [Solving Bilevel Programs Based on Lower-level Mond-Weir Duality](https://doi.org/10.1287/ijoc.2023.0108) by Yu-Wei Li, Gui-Hua Lin, and Xide Zhu, has associated [software/data](https://github.com/INFORMSJoC/2023.0108).
 * [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh, has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 * [Real-time Derivative Pricing and Hedging with Consistent Metamodels](https://doi.org/10.1287/ijoc.2023.0292) by Guangxin Jiang, L. Jeff Hong, and Haihui Shen, has associated [software/data](https://github.com/INFORMSJoC/2023.0292).
@@ -61,6 +56,13 @@ This is the website for the GitHub repositories for hosting software and data as
 ***
 
 #### PUBLISHED
+
+**Volume 36, Issue 4**
+* [PyVRP: A High-Performance VRP Solver Package](https://doi.org/10.1287/ijoc.2023.0055) by Niels A. Wouda, Leon Lan, and Wouter Kool, has associated [software/data](https://github.com/INFORMSJoC/2023.0055).
+* [VRPSolverEasy: A Python Library for the Exact Solution of a Rich Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0103) by Najib Errami, Eduardo Queiroga, Ruslan Sadykov, and Eduardo Uchoa, has associated [software/data](https://github.com/INFORMSJoC/2023.0103).
+* [AILS-II: An Adaptive Iterated Local Search Heuristic for the Large-scale Capacitated Vehicle Routing Problem](https://doi.org/10.1287/ijoc.2023.0106) by Vinicius Maximo, Jean-François Cordeau, and Mariá Nascimento has associated [software/data](https://github.com/INFORMSJoC/2023.0106).
+* [An Approximate Dynamic Programming Approach to Dynamic Stochastic Matching](https://doi.org/10.1287/ijoc.2021.0203) by Fan You and Thomas Vossen, has associated [software/data](https://github.com/INFORMSJoC/2021.0203).
+* [Polyhedral Relaxations for Optimal Pump Scheduling of Potable Water Distribution Networks](https://doi.org/10.1287/ijoc.2022.0233) by Byron Tasseff, Russell Bent, Carleton Coffrin, Clayton Barrows, Devon Sigler, Jonathan Stickel, Ahmed S. Zamzam, Yang Liu, and Pascal Van Hentenryck, has associated [software/data](https://github.com/INFORMSJoC/2022.0233).
 
 **Volume 36, Issue 3**
 * [Product Redesign and Innovation Based on Online Reviews: A Multistage Combined Search Method](https://doi.org/10.1287/ijoc.2022.0333) by Jindong Qin, Pan Zheng, and Xiaojun Wang, has associated [software/data](https://github.com/INFORMSJoC/2022.0333).
