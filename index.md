@@ -6,6 +6,9 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [pyJEDAI: A Library with Resolution-related Structures and Procedures for Products](https://doi.org/10.1287/ijoc.2023.0410) by Ekaterini Ioannou, Konstantinos Nikoletos, and George Papadakis has associated [software/data](https://github.com/INFORMSJoC/2023.0410).
+* [Deep Stacking Kernel Machines for the Data-driven Multi-item One-warehouse Multi-retailer Problems with Backlog and Lost Sales](https://doi.org/10.1287/ijoc.2022.0365) by Minghe Sun and Zhen-Yu Chen has associated [software/data](https://github.com/INFORMSJoC/2022.0365).
+* [Clustering then Estimation of Spatio-Temporal Self-Exciting Processes](https://doi.org/10.1287/ijoc.2022.0351) by Haoting Zhang, Donglin Zhan, James Anderson, Rhonda Righter, and Zeyu Zheng has associated [software/data](https://github.com/INFORMSJoC/2022.0351).
 * [Decision Making under Cumulative Prospect Theory: An Alternating Direction Method of Multipliers](https://doi.org/10.1287/ijoc.2023.0243) by Xiangyu Cui, Rujun Jiang, Yun Shi, Rufeng Xiao, and Yifan Yan has associated [software/data](https://github.com/INFORMSJoC/2023.0243).
 * [The Electric Vehicle Routing and Overnight Charging Scheduling Problem on a Multigraph](https://doi.org/10.1287/ijoc.2023.0404) by Daniel Yamin, Guy Desaulniers, and Jorge Mendoza has associated [software/data](https://github.com/INFORMSJoC/2023.0404).
 * [Machine Learning for K-adaptability in two-stage robust optimization](https://doi.org/10.1287/ijoc.2022.0314) by Esther Julien, Krzysztof Postek, and Ilker Birbil has associated [software/data](https://github.com/INFORMSJoC/2022.0314).
