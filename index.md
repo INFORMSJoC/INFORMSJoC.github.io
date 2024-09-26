@@ -6,6 +6,10 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Pairwise Stability in Weighted Network Formation Games: Selection and Computation](https://doi.org/10.1287/ijoc.2024.0546) by Caihua Chen, Junhao Tao, and Yang Zhan has associated [software/data](https://github.com/INFORMSJoC/2024.0546).
+* [An Efficient Node Selection Policy for Monte Carlo Tree Search with Neural Networks](https://doi.org/10.1287/ijoc.2023.0307) by Xiaotian Liu, Yijie Peng, Gongbo Zhang, and Ruihan Zhou has associated [software/data](https://github.com/INFORMSJoC/2023.0307).
+* [First-order algorithms for robust optimization problems via convex-concave saddle-point Lagrangian reformulation](https://doi.org/10.1287/ijoc.2022.0200) by Krzysztof Postek and Shimrit Shtern has associated [software/data](https://github.com/INFORMSJoC/2022.0200).
+* [Multi-Objective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Networks](https://doi.org/10.1287/ijoc.2023.0281) by Ambrogio Maria Bernardelli, Stefano Gualandi, Simone Milanesi, Hoong Chuin Lau, and Neil Yorke-Smith has associated [software/data](https://github.com/INFORMSJoC/2023.0281).
 * [pyJEDAI: A Library with Resolution-related Structures and Procedures for Products](https://doi.org/10.1287/ijoc.2023.0410) by Ekaterini Ioannou, Konstantinos Nikoletos, and George Papadakis has associated [software/data](https://github.com/INFORMSJoC/2023.0410).
 * [Deep Stacking Kernel Machines for the Data-driven Multi-item One-warehouse Multi-retailer Problems with Backlog and Lost Sales](https://doi.org/10.1287/ijoc.2022.0365) by Minghe Sun and Zhen-Yu Chen has associated [software/data](https://github.com/INFORMSJoC/2022.0365).
 * [Clustering then Estimation of Spatio-Temporal Self-Exciting Processes](https://doi.org/10.1287/ijoc.2022.0351) by Haoting Zhang, Donglin Zhan, James Anderson, Rhonda Righter, and Zeyu Zheng has associated [software/data](https://github.com/INFORMSJoC/2022.0351).
