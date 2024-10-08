@@ -6,6 +6,9 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [An Efficient Optimization Model and Tabu Search-Based Global Optimization Approach for the Continuous p-Dispersion Problem](https://doi.org/10.1287/ijoc.2023.0089) by Xiangjing Lai, Zhenheng Lin, Jin-Kao Hao, and Qinghua Wu has associated [software/data](https://github.com/INFORMSJoC/2023.0089).
+* [Domain-Independent Dynamic Programming and Constraint Programming Approaches for Assembly Line Balancing Problems with Setups](https://doi.org/10.1287/ijoc.2024.0603) by Jiachen Zhang and Chris Beck has associated [software/data](https://github.com/INFORMSJoC/2024.0603).
+* [A Peaceman-Rachford Splitting Method for the Protein Side-Chain Positioning Problem](https://doi.org/10.1287/ijoc.2023.0094) by Forbes Burkowski, Haesol Im, and Henry Wolkowicz has associated [software/data](https://github.com/INFORMSJoC/2023.0094).
 * [Fraud Detection by Integrating Multisource Heterogeneous Presence-Only Data](https://doi.org/10.1287/ijoc.2023.0366) by Yongqin Qiu, Yuanxing Chen, Kan Fang, Lean Yu, Kuangnan Fang has associated [software/data](https://github.com/INFORMSJoC/2023.0366).
 * [Pairwise Stability in Weighted Network Formation Games: Selection and Computation](https://doi.org/10.1287/ijoc.2024.0546) by Caihua Chen, Junhao Tao, and Yang Zhan has associated [software/data](https://github.com/INFORMSJoC/2024.0546).
 * [An Efficient Node Selection Policy for Monte Carlo Tree Search with Neural Networks](https://doi.org/10.1287/ijoc.2023.0307) by Xiaotian Liu, Yijie Peng, Gongbo Zhang, and Ruihan Zhou has associated [software/data](https://github.com/INFORMSJoC/2023.0307).
