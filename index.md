@@ -6,6 +6,8 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Simulating Confidence Intervals for Conditional Value-at-Risk via Least-Squares Metamodels](https://doi.org/10.1287/ijoc.2023.0394) by Qidong Lai, Guangwu Liu, Bingfeng Zhang, and Kun Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0394).
+* [An Algorithm for Clustering with Confidence-Based Must-Link and Cannot-Link Constraints](https://doi.org/10.1287/ijoc.2023.0419) by Philipp Baumann and Dorit Hochbaum has associated [software/data](https://github.com/INFORMSJoC/2023.0419).
 * [An Efficient Optimization Model and Tabu Search-Based Global Optimization Approach for the Continuous p-Dispersion Problem](https://doi.org/10.1287/ijoc.2023.0089) by Xiangjing Lai, Zhenheng Lin, Jin-Kao Hao, and Qinghua Wu has associated [software/data](https://github.com/INFORMSJoC/2023.0089).
 * [Domain-Independent Dynamic Programming and Constraint Programming Approaches for Assembly Line Balancing Problems with Setups](https://doi.org/10.1287/ijoc.2024.0603) by Jiachen Zhang and Chris Beck has associated [software/data](https://github.com/INFORMSJoC/2024.0603).
 * [A Peaceman-Rachford Splitting Method for the Protein Side-Chain Positioning Problem](https://doi.org/10.1287/ijoc.2023.0094) by Forbes Burkowski, Haesol Im, and Henry Wolkowicz has associated [software/data](https://github.com/INFORMSJoC/2023.0094).
