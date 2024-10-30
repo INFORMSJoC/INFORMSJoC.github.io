@@ -6,6 +6,10 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem](https://doi.org/10.1287/ijoc.2023.0177) by Rui Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0177).
+* [On the Value of Risk-Averse Multistage Stochastic Programming in Capacity Planning](https://doi.org/10.1287/ijoc.2023.0396) by Xian Yu and Siqian Shen has associated [software/data](https://github.com/INFORMSJoC/2023.0396).
+* [Exact Simulation of Quadratic Intensity Models](https://doi.org/10.1287/ijoc.2023.0323) by Yan Qu, Angelos Dassios, Anxin Liu, and Hongbiao Zhao has associated [software/data](https://github.com/INFORMSJoC/2023.0323).
+* [On Discrete Subproblems in Integer Optimal Control with Total Variation Regularization in Two Dimensions](https://doi.org/10.1287/ijoc.2024.0680) by Paul Manns and Marvin Severitt has associated [software/data](https://github.com/INFORMSJoC/2024.0680).
 * [Simulating Confidence Intervals for Conditional Value-at-Risk via Least-Squares Metamodels](https://doi.org/10.1287/ijoc.2023.0394) by Qidong Lai, Guangwu Liu, Bingfeng Zhang, and Kun Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0394).
 * [An Algorithm for Clustering with Confidence-Based Must-Link and Cannot-Link Constraints](https://doi.org/10.1287/ijoc.2023.0419) by Philipp Baumann and Dorit Hochbaum has associated [software/data](https://github.com/INFORMSJoC/2023.0419).
 * [An Efficient Optimization Model and Tabu Search-Based Global Optimization Approach for the Continuous p-Dispersion Problem](https://doi.org/10.1287/ijoc.2023.0089) by Xiangjing Lai, Zhenheng Lin, Jin-Kao Hao, and Qinghua Wu has associated [software/data](https://github.com/INFORMSJoC/2023.0089).
