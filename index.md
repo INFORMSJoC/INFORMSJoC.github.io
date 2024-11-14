@@ -6,6 +6,15 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Binary Quantum Control Optimization with Uncertain Hamiltonians](https://doi.org/10.1287/ijoc.2024.0560) by Xinyu Fei, Lucas Brady, Jeffrey Larson, Sven Leyffer, and Siqian Shen has associated [software/data](https://github.com/INFORMSJoC/2024.0560).
+* [Efficiently Constructing Convex Approximation Sets in Multiobjective Optimization Problems](https://doi.org/10.1287/ijoc.2023.0220) by Stephan Helfrich, Stefan Ruzika, and Clemens Thielen has associated [software/data](https://github.com/INFORMSJoC/2023.0220).
+* [Average Case Subquadratic Exact and Heuristic Procedures for the Traveling Salesman 2-OPT Neighborhood](https://doi.org/10.1287/ijoc.2023.0169) by Giuseppe Lancia and Paolo Vidoni has associated [software/data](https://github.com/INFORMSJoC/2023.0169).
+* [Reproducible Feature Selection for High-Dimensional Measurement Error Models](https://doi.org/10.1287/ijoc.2023.0282) by Xin Zhou, Zemin Zheng, Jie Wu, and Jiarui Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0282).
+* [A New Approximation Algorithm for Minimum-Weight $(1,m)$--Connected Dominating Set](https://doi.org/10.1287/ijoc.2023.0306) by Jiao Zhou, Yingli Ran, Panos Pardalos, Zhao Zhang, Shaojie Tang, and Ding-Zhu Du has associated [software/data](https://github.com/INFORMSJoC/2023.0306).
+* [A Novel Noise-Aware Classical Optimizer for Variational Quantum Algorithms](https://doi.org/10.1287/ijoc.2024.0578) by Jeffrey Larson, Matt Menickelly, and Jiahao Shi has associated [software/data](https://github.com/INFORMSJoC/2024.0578).
+* [On Interdicting Dense Clusters in a Network](https://doi.org/10.1287/ijoc.2023.0027) by Haonan Zhong, Foad Mahdavi Pajouh, Sergiy Butenko, and Oleg Prokopyev has associated [software/data](https://github.com/INFORMSJoC/2023.0027).
+* [Optimized Noise Suppression for Quantum Circuits](https://doi.org/10.1287/ijoc.2024.0551) by Friedrich Wagner, Daniel Egger, and Frauke Liers has associated [software/data](https://github.com/INFORMSJoC/2024.0551).
+* [Efficient Implementation of Interior-Point Methods for Quantum Relative Entropy](https://doi.org/10.1287/ijoc.2024.0570) by Mehdi Karimi and Levent Tuncel has associated [software/data](https://github.com/INFORMSJoC/2024.0570).
 * [Branch-and-Price for the Capacitated Autonomous Vehicle Assisted Delivery Problem](https://doi.org/10.1287/ijoc.2023.0177) by Rui Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0177).
 * [On the Value of Risk-Averse Multistage Stochastic Programming in Capacity Planning](https://doi.org/10.1287/ijoc.2023.0396) by Xian Yu and Siqian Shen has associated [software/data](https://github.com/INFORMSJoC/2023.0396).
 * [Exact Simulation of Quadratic Intensity Models](https://doi.org/10.1287/ijoc.2023.0323) by Yan Qu, Angelos Dassios, Anxin Liu, and Hongbiao Zhao has associated [software/data](https://github.com/INFORMSJoC/2023.0323).
