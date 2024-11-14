@@ -81,7 +81,7 @@ This is the website for the GitHub repositories for hosting software and data as
 * [Quadratic Optimization Models for Balancing Preferential Access and Fairness: Formulations and Optimality Conditions](https://doi.org/10.1287/ijoc.2022.0308) by Christian Schmitt and Bismark Singh has associated [software/data](https://github.com/INFORMSJoC/2022.0308).
 * [Real-time Derivative Pricing and Hedging with Consistent Metamodels](https://doi.org/10.1287/ijoc.2023.0292) by Guangxin Jiang, L. Jeff Hong, and Haihui Shen has associated [software/data](https://github.com/INFORMSJoC/2023.0292).
 * [Appointment Scheduling with Delay-Tolerance Heterogeneity](https://doi.org/10.1287/ijoc.2023.0025) by Shuming Wang, Jun Li, Marcus Ang, and Tsan Sheng Ng has associated [software/data](https://github.com/INFORMSJoC/2023.0025).
-* [Solving Bilevel Programs Based on Lower-level Mond-Weir Duality](https://doi.org/10.1287/ijoc.2023.0108) by Yu-Wei Li, Gui-Hua Lin, and Xide Zhu, has associated [software/data](https://github.com/INFORMSJoC/2023.0108).
+* [Solving Bilevel Programs Based on Lower-level Mond-Weir Duality](https://doi.org/10.1287/ijoc.2023.0108) by Yu-Wei Li, Gui-Hua Lin, and Xide Zhu has associated [software/data](https://github.com/INFORMSJoC/2023.0108).
 * [Cost-Effective Acquisition of First-Party Data for Business Analytics](https://doi.org/10.1287/ijoc.2022.0037) by Xiaoping Liu and Xiao-Bai Li has associated [software/data](https://github.com/INFORMSJoC/2022.0037).
 * [Identifying Socially Optimal Equilibria Using Combinatorial Properties of Nash Equilibria in Bimatrix Games](https://doi.org/10.1287/ijoc.2022.0072) by Amin Dehghanian, Yujia Xie, and Nicoleta Serban has associated [software/data](https://github.com/INFORMSJoC/2022.0072).
   
