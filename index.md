@@ -6,6 +6,8 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [A Data-Driven Optimization Framework for Static Rebalancing Operations in Bike Sharing Systems](https://doi.org/10.1287/ijoc.2022.0182) by Junming Liu, Weiwei Chen, and Leilei Sun has associated [software/data](https://github.com/INFORMSJoC/2022.0182).
+* [A New Multicommodity Network Flow Model and Branch-and-Cut for Optimal Quantum Boolean Circuit](https://doi.org/10.1287/ijoc.2024.0562) by Jihye Jung and In-Chan Choi has associated [software/data](https://github.com/INFORMSJoC/2024.0562).
 * [Binary Quantum Control Optimization with Uncertain Hamiltonians](https://doi.org/10.1287/ijoc.2024.0560) by Xinyu Fei, Lucas Brady, Jeffrey Larson, Sven Leyffer, and Siqian Shen has associated [software/data](https://github.com/INFORMSJoC/2024.0560).
 * [Efficiently Constructing Convex Approximation Sets in Multiobjective Optimization Problems](https://doi.org/10.1287/ijoc.2023.0220) by Stephan Helfrich, Stefan Ruzika, and Clemens Thielen has associated [software/data](https://github.com/INFORMSJoC/2023.0220).
 * [Average Case Subquadratic Exact and Heuristic Procedures for the Traveling Salesman 2-OPT Neighborhood](https://doi.org/10.1287/ijoc.2023.0169) by Giuseppe Lancia and Paolo Vidoni has associated [software/data](https://github.com/INFORMSJoC/2023.0169).
