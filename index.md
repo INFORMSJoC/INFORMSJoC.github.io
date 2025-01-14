@@ -6,6 +6,11 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [An Optimization-Based Scheduling Methodology for Appointment Systems with Heterogeneous Customers and Nonstationary Arrival Processes](https://doi.org/10.1287/ijoc.2023.0039) by Sohom Chatterjee, Youssef Hebaish, Hrayer Aprahamian, and Lewis Ntaimo has associated [software/data](https://github.com/INFORMSJoC/2023.0039).
+* [Recursive McCormick Linearization of Multilinear Programs](https://doi.org/10.1287/ijoc.2023.0390) by Carlos Cardonha, Arvind Raghunathan, David Bergman, and Carlos Nohra has associated [software/data](https://github.com/INFORMSJoC/2023.0390).
+* [An Exact Algorithm for Multicommodity Network Design under Stochastic Interdictions](https://doi.org/10.1287/ijoc.2023.0286) by Shabnam Mahmoudzadeh Vaziri, Onur Kuzgunkaya, and Navneet Vidyarthi has associated [software/data](https://github.com/INFORMSJoC/2023.0286).
+* [Penalty Decomposition Methods for Second-Best Congestion Pricing Problems on Large-Scale Networks](https://doi.org/10.1287/ijoc.2023.0144) by Lei Guo, Wenxin Zhou, Xiaolei Wang, Hai Yang, and Tijun Fan has associated [software/data](https://github.com/INFORMSJoC/2023.0144).
+* [Layout Optimization for a Large-Scale Grid-Connected Solar Power Plant](https://doi.org/10.1287/ijoc.2023.0223) by Chong Wang, Qinghua Wu, Kai Pan, and Max Shen has associated [software/data](https://github.com/INFORMSJoC/2023.0223).
 * [Computational Framework for Target Tracking](https://doi.org/10.1287/ijoc.2023.0016) by Tianyu Yang, Jiongbai Liu, Tasnim Ibn Faiz, Chrysafis Vogiatzis, and Md. Noor-E-Alam has associated [software/data](https://github.com/INFORMSJoC/2023.0016).
 * [Exact and Approximate Schemes for Robust Optimization Problems with Decision Dependent Information Discovery](https://doi.org/10.1287/ijoc.2023.0290) by Rosario Paradiso, Angelos Georghiou, S. Dabia, and Denise Tönissen has associated [software/data](https://github.com/INFORMSJoC/2023.0290).
 * [A Bilevel Optimization Approach for a Class of Combinatorial Problems with Disruptions and Probing](https://doi.org/10.1287/ijoc.2024.0629) by Leonardo Lozano and Juan Borrero has associated [software/data](https://github.com/INFORMSJoC/2024.0629).
