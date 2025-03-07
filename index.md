@@ -6,8 +6,13 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
-* [Model Averaging Under Flexible Loss Functions](https://doi.org/10.1287/ijoc.2023.0291) by Dieqi Gu, Qingfeng Liu, and Xinyu Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0291).
+* [A Branch-and-Price Algorithm for Robust Drone-Vehicle Routing Problem with Time Windows](https://doi.org/10.1287/ijoc.2023.0484) by Jaegwan Joo and Chungmok Lee has associated [software/data](https://github.com/INFORMSJoC/2023.0484).
+* [A Computational Study of the Tool Replacement Problem](https://doi.org/10.1287/ijoc.2023.0474) by Yuzhuo Qiu, Mikhail Cherniavskii, Boris Goldengorin, and Panos Pardalos has associated [software/data](https://github.com/INFORMSJoC/2023.0474).
+* [Iterated Inside Out: A New Exact Algorithm for the Transportation Problem](https://doi.org/10.1287/ijoc.2024.0642) by Roberto Bargetto, Federico Della Croce, and Rosario Scatamacchia has associated [software/data](https://github.com/INFORMSJoC/2024.0642).
+* [Non-Monotonicity of Branching Rules with Respect to Linear Relaxations](https://doi.org/10.1287/ijoc.2024.0709) by Prachi Shah, Santanu Dey, and Marco Molinaro has associated [software/data](https://github.com/INFORMSJoC/2024.0709).
+* [The Balanced Facility Location Problem: Complexity and Heuristics](https://doi.org/10.1287/ijoc.2024.0693) by Malena Schmidt and Bismark Singh has associated [software/data](https://github.com/INFORMSJoC/2024.0693).
 * [From Interaction to Prediction: A Multi-Interactive Attention-Based Approach to Product Rating Prediction](https://doi.org/10.1287/ijoc.2023.0131) by Li Yu, Wei Gong, Dongsong Zhang, Yu Ding, and Zhe Fu has associated [software/data](https://github.com/INFORMSJoC/2023.0131).
+* [Model Averaging Under Flexible Loss Functions](https://doi.org/10.1287/ijoc.2023.0291) by Dieqi Gu, Qingfeng Liu, and Xinyu Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0291).
 * [An Optimization-Based Scheduling Methodology for Appointment Systems with Heterogeneous Customers and Nonstationary Arrival Processes](https://doi.org/10.1287/ijoc.2023.0039) by Sohom Chatterjee, Youssef Hebaish, Hrayer Aprahamian, and Lewis Ntaimo has associated [software/data](https://github.com/INFORMSJoC/2023.0039).
 * [Recursive McCormick Linearization of Multilinear Programs](https://doi.org/10.1287/ijoc.2023.0390) by Carlos Cardonha, Arvind Raghunathan, David Bergman, and Carlos Nohra has associated [software/data](https://github.com/INFORMSJoC/2023.0390).
 * [An Exact Algorithm for Multicommodity Network Design under Stochastic Interdictions](https://doi.org/10.1287/ijoc.2023.0286) by Shabnam Mahmoudzadeh Vaziri, Onur Kuzgunkaya, and Navneet Vidyarthi has associated [software/data](https://github.com/INFORMSJoC/2023.0286).
