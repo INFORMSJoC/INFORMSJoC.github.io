@@ -6,8 +6,13 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
-* [Activated Benders Decomposition for Day-ahead Paratransit Itinerary Planning](https://doi.org/10.1287/ijoc.2023.0311) by Kayla Cummings, Alexandre Jacquillat, and Vikrant Vaze has associated [software/data](https://github.com/INFORMSJoC/2023.0311).
+* [Influence Minimization via Blocking Strategies](https://doi.org/10.1287/ijoc.2024.0591) by Jiadong Xie, Fan Zhang, Kai Wang, Jialu Liu, Xuemin Lin, and Wenjie Zhang has associated [software/data](https://github.com/INFORMSJoC/2024.0591).
+* [From an Interior Point to a Corner Point: Smart Crossover](https://doi.org/10.1287/ijoc.2022.0291) by Dongdong Ge, Chengwenjian Wang, Zikai Xiong, and Yinyu Ye has associated [software/data](https://github.com/INFORMSJoC/2022.0291).
+* [Platelet Inventory Management with Approximate Dynamic Programming](https://doi.org/10.1287/ijoc.2023.0245) by Hossein Abouee Mehrizi, Mahdi Mirjalili, and Vahid Sarhangian has associated [software/data](https://github.com/INFORMSJoC/2023.0245).
+* [Cross-Entropy Method for the Maximal Covering Location Problem](https://doi.org/10.1287/ijoc.2024.0611) by Hongtao Wang and Jian Zhou has associated [software/data](https://github.com/INFORMSJoC/2024.0611).
+* [Approximate Resolution of Stochastic Choice-based Discrete Planning](https://doi.org/10.1287/ijoc.2024.0694) by Jiajie Zhang, Yun Hui Lin, and Gerardo Berbeglia has associated [software/data](https://github.com/INFORMSJoC/2024.0694).
 * [Alkaid-SDVRP: An Efficient Open-Source Solver for the Vehicle Routing Problem with Split Deliveries](https://doi.org/10.1287/ijoc.2024.0606) by Weibo Lin, Zhu He, Shibiao Jiang, Fuda Ma, Zhouxing Su, and Zhipeng Lü has associated [software/data](https://github.com/INFORMSJoC/2024.0606).
+* [Activated Benders Decomposition for Day-ahead Paratransit Itinerary Planning](https://doi.org/10.1287/ijoc.2023.0311) by Kayla Cummings, Alexandre Jacquillat, and Vikrant Vaze has associated [software/data](https://github.com/INFORMSJoC/2023.0311).
 * [A Branch-and-Price Algorithm for Robust Drone-Vehicle Routing Problem with Time Windows](https://doi.org/10.1287/ijoc.2023.0484) by Jaegwan Joo and Chungmok Lee has associated [software/data](https://github.com/INFORMSJoC/2023.0484).
 * [A Computational Study of the Tool Replacement Problem](https://doi.org/10.1287/ijoc.2023.0474) by Yuzhuo Qiu, Mikhail Cherniavskii, Boris Goldengorin, and Panos Pardalos has associated [software/data](https://github.com/INFORMSJoC/2023.0474).
 * [Iterated Inside Out: A New Exact Algorithm for the Transportation Problem](https://doi.org/10.1287/ijoc.2024.0642) by Roberto Bargetto, Federico Della Croce, and Rosario Scatamacchia has associated [software/data](https://github.com/INFORMSJoC/2024.0642).
