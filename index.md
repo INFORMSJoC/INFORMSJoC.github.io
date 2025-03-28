@@ -6,6 +6,10 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Fair and Reliable Reconnections for Temporary Disruptions in Electric Distribution Networks](https://doi.org/10.1287/ijoc.2022.0295) by Swati Gupta, Cyrus Hettle, and Daniel Molzahn has associated [software/data](https://github.com/INFORMSJoC/2022.0295).
+* [Designing a Framework for Solving Multiobjective Simulation Optimization Problems](https://doi.org/10.1287/ijoc.2023.0250) by Tyler Chang and Stefan Wild has associated [software/data](https://github.com/INFORMSJoC/2023.0250).
+* [Online TSP and Online Dial-a-Ride with Predictions](https://doi.org/10.1287/ijoc.2023.0478) by Hsiao-Yu Hu, Hao-Ting Wei, Meng-Hsi Li, Kai-Min Chung, and Chung-Shou Liao has associated [software/data](https://github.com/INFORMSJoC/2023.0478).
+* [Heuristic Methods for G-Robust Mixed-Integer Linear Bilevel Problems](https://doi.org/10.1287/ijoc.2023.0239) by Yasmine Beck, Ivana Ljubic, and Martin Schmidt has associated [software/data](https://github.com/INFORMSJoC/2023.0239).
 * [Influence Minimization via Blocking Strategies](https://doi.org/10.1287/ijoc.2024.0591) by Jiadong Xie, Fan Zhang, Kai Wang, Jialu Liu, Xuemin Lin, and Wenjie Zhang has associated [software/data](https://github.com/INFORMSJoC/2024.0591).
 * [From an Interior Point to a Corner Point: Smart Crossover](https://doi.org/10.1287/ijoc.2022.0291) by Dongdong Ge, Chengwenjian Wang, Zikai Xiong, and Yinyu Ye has associated [software/data](https://github.com/INFORMSJoC/2022.0291).
 * [Platelet Inventory Management with Approximate Dynamic Programming](https://doi.org/10.1287/ijoc.2023.0245) by Hossein Abouee Mehrizi, Mahdi Mirjalili, and Vahid Sarhangian has associated [software/data](https://github.com/INFORMSJoC/2023.0245).
