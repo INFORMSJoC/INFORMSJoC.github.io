@@ -1,57 +1,276 @@
-# Instructions for Setting up a Repo (Area Editors)
+# Instructions for Editors
 
-Below are the detailed steps for creating a Github repo associated with an IJOC paper. To execute these instructions, you must have already created a Github account and contacted Ted Ralphs to be added to the IJOC Area Editors group.
+This document details the procedure for the IJOC GitHub submission.
 
-## Initial Setup (Editor)
+To execute these instructions, you must have already created a Github
+account and contacted Ted Ralphs to be added to the IJOC Area Editors group.
 
-- Go to https://github.com/INFORMSJoC 
-- Sign in with userid and password (this probably won't need to be done every time).
-- Click on NEW. This will take you to a page for setting up the repo.
-- For "Repository Template," you can use the template from the [example repository](https://github.com/INFORMSJoC/2019.0000) if you choose. The template just pre-populates the repo with an example setup to give the authors something to work with, but it can cause more confusion than it clears up. You can decide which way you want to go - prepopulate with an example or not.
-- In the `Repository name`, type the new repository's name. 
-  - The name should be in the form `XXXX.YYYY` (four numbers followed by four more numbers). 
-  - These are derived from the manuscript ID. 
-  - The first four are the year of submission and the second four are the numbers that come after the last dash (padded with an extra zero). 
-  - The latter is just a sequence number that is incremented throughout the year across all papers. so if the manuscript ID is `JOC-2022-11-OA-354`, then the repo name is `2022.0354`.
-- Keep the repository `Private`
-- Check the box for `Add a README file`
-- You don't need to choose a license or add a .gitignore.
-- Click on CREATE REPOSITORY
-- The repo has been created and you should now be on a new page with a button for `Add Collaborators and Teams`. Click on it.
-- You may be asked to authenticate with your 2FA (this can vary, depending on your setup). Do this.
-- On the next page, click the button for `Add People`
-- Enter the Github ID(s) of the author(s) who will be adding to the repo in the search box (you will need to ask them about this separately and request them to create a Github account if they don't already have one).
-- Click on the person to add in the dropdown list. 
-- Choose `Read` for the role (important!)
+If questions, please contact Oscar: [o.dowson@gmail.com](mailto:o.dowson@gmail.com)
 
-## Populating the Fork (Author)
+*The GitHub website sometimes changes the UI around. If the screenshots are out-of-date, please let `@odow` know and he will update them.*
 
-Now it is the the authors' turn.
-- Inform the author(s) via email that they should follow the instructions [here](https://informsjoc.github.io/InstructionsForAuthors.html).
-- The authors then take over by forking the empty repo  (the author(s) should have received an e-mail notification when the repo was created, but you may want to provide them with the URL) and populating that fork with their content. 
-- This means copying it over from where they currently maintain it. Even if they already maintain the software/data on Github or in some other public forum, they need to populate this repo, which will become a fixed snapshot available in perpetuity and associated with the published paper.
-- Then they will submit a so-called Pull Request, which is for your review. 
+## Step 1: get the user name from authors
 
-## Reviewing (Editor)
+Send this email to the authors:
 
-After the author(s) submit the Pull Request, you will be notified and you can go to the repo and see the Pull Request.
+```
+Dear <<name>>:
 
-- To view the PR, it's easiest is to click on the link in the e-mail.
-- Be sure to carefully review the contents to ensure that it is well-organized, that the README follows the format of the [template](https://github.com/INFORMSJoC/JoCTemplate), that everything is under a proper open source license, and that there are appropriate copyright statements in files.
-- You may want to also review the [instructions](InstructionsForAuthors).
-- If you want to request changes, just comment on the Pull Request.
-- After everything looks good, click on the merge button and confirm the merge.
+To get started with the process of uploading your code, you'll need a GitHub
+account.
 
-## Archiving a snapshot (Editor)
+If you don't already have one, you can sign up for free at https://github.com.
 
-Now it is time to make the release in order to create a snapshot of the repo, which is what the DOI will point to.  
+Once you have an account, please let me know the user name (or names, if
+multiple authors want to help) so that I can start the process of creating a
+repository and adding you as an author.
 
-- Make a release tag named `vXXXX.YYYY`, where `XXXX.YYYY` is the manuscript number, i.e., the name of the repo. Example: if `2021.0070` is the repo name, then `v2021.0070` is the version number. 
-- To make the release, click on the link on the right side to "create a new release".
-- Click the "choose a tag" dropdown and type the new release tag name in the dialogue. 
-- Click on "Create new tag on publish"
-- The release title and notes section can contain whatever you like. 
-- Publish the release.
-- THe final step, once everything is finalized, is to make the repository public!
+After I have released the repository, you should then submit a final revision of
+the paper that appropriately cites your code using the DOI I will provide.
 
-YOU ARE ALL DONE!
+Cheers,
+Oscar
+```
+
+## Step 2: create a repository
+
+Go to [https://github.com/INFORMSJoC](https://github.com/INFORMSJoC)
+
+Click the “new” button
+
+![](screenshots/new-repo-button.png)
+
+Enter the ID of the paper, click “Add a README” then “Create repository"
+
+![](screenshots/new-repo-settings.png)
+
+You’ll end up at
+
+![](screenshots/an-empty-repo.png)
+
+Click “Settings” then “Collaborators and teams”
+
+![](screenshots/collaborators-and-teams.png)
+
+You will be prompted to re-authenticate.
+
+Click “Add people”, type in the user name, then click on the person
+
+![](screenshots/add-people.png)
+
+Choose **Read** then click “Add selection"
+
+**Why we chose Read: choosing Read means that the author does not have
+permission to merge their own pull requests, or to make changes to the
+repository after the paper has been accepted without going through a PR and
+review by someone at IJOC. We want the code repository to be a snapshot of the
+code at the time the paper is written. We don’t want on-going changes. The
+downside to “Read” is that authors must fork the repo to add code. More on this
+later.**
+
+![](screenshots/invite-with-read-permission.png)
+
+If all well, you should see
+
+![](screenshots/view-after-inviting-author.png)
+
+## Step 3: tell the authors to make a PR
+
+Send them this email. Replace:
+
+* `<<GitHub ID>>` by the GitHub names you added (one occurrence)
+* `<<paper id>>` by the ID of the paper (four occurrences)
+* `<<your name>>` by your name (one occurrence)
+
+```
+Hi all,
+
+I've created the repository and sent an invite to <<GitHub ID>>
+to join as a collaborator.
+
+The URL is https://github.com/INFORMSJoC/<<paper id>> (currently private, so only
+the accounts that I've added can see it).
+
+Next steps:
+
+Please make a pull request to add your code to the
+https://github.com/INFORMSJoC/<<paper id>>
+repository.
+
+Note that you do not have write access to the INFORMSJoC account. Please create
+a fork in your personal account and then push to that.
+
+You should use the following template repository as a guide (or look at other
+repositories in https://github.com/INFORMSJoC):
+
+https://github.com/INFORMSJoC/2019.0000
+
+There are three files in the root of the template repository that you must
+include:
+
+* README: Use this as a guide, making sure to change:
+  * All instances of `2019.0000` with `<<paper id>>`
+  * The DOI for the code repo will be 10.1287/ijoc.<<paper id>>.cd
+  * All references to `T. Ralphs` with the names of your authors
+  * If your code is public somewhere else, replace references to `JoCTemplate`
+    with your repository, otherwise delete the relevant sentences
+* AUTHORS: Please update the AUTHORS file with appropriate contact information
+* LICENSE: Please add an appropriate LICENSE file. If you aren't sure which,
+  the most common choice is MIT. Copy the file from https://github.com/INFORMSJoC/2019.0000/blob/master/LICENSE
+  replacing the year and `Ted Ralphs` with the current year and the names of
+  your authors.
+
+You can find more instructions here:
+
+[https://github.com/INFORMSJoC/INFORMSJoC.github.io/blob/master/InstructionsForAuthors.md](https://github.com/INFORMSJoC/INFORMSJoC.github.io/blob/master/InstructionsForAuthors.md)
+
+Once you've opened the pull request, I'll review it and we can make any
+necessary changes, so don't worry too much about getting things perfect before
+opening a pull request.
+
+Please note that you must complete the GitHub process before you submit a
+revision of the paper.
+
+Let me know if you need any help with the steps above, or if you have any other
+questions.
+
+Regards,
+<<your name>>
+```
+
+## Step 4: review the PR
+
+This can be a little subjective. We’re not asking for perfect code that is we
+documented and reproducible. We want, at minimum, the authors to make an effort
+to provide some evidence that they have in fact conducted some numerical
+experiments to justify publication in IJOC. (But I have had one paper that did
+not involve any computer code or artifacts…)
+
+My hope is that in time, the gentle nudge from IJOC will encourage people to
+improve their research practices if they know that they will need to make the
+final artifact public.
+
+### Review the README
+
+Check that the README includes the IJOC image header. The first sentence links
+to IJOC and an appropriate license. Check all links\! People get these wrong
+pretty frequently. If they have code somewhere else, it links to that. Here is
+an example:
+
+![](screenshots/readme-file.png)
+
+Check that the first section of the README is the “Cite” section with accurate
+bibtex. Here’s a good example. Double check: the DOI ends in .cd, and both the
+“url” and “note” fields exist. Also double check that the “author” includes all
+authors on the paper. If not, double check with the author whether other people
+contributed to the code, and suggest that they may want to name all authors,
+even if they were the only one that contributed to the code…
+
+![](screenshots/cite.png)
+
+Read the rest of the README. Make subjective comments.
+
+### Review the LICENSE
+
+Double check that the link in the README links to the LICENSE.
+
+Check that the LICENSE file is a valid open-source license (tag `@odow` in a
+comment if unsure).
+
+Check that the year and authors are correct, and that “Ted Ralphs” is not
+mentioned.
+
+It should look something like this:
+
+![](screenshots/license-file.png)
+
+### Review AUTHORS
+
+Check that the format is “Name <email>” with one entry per line
+
+![](screenshots/authors-file.png)
+
+### Review third-party contributions
+
+1. If people have included code/input data/MPS files/etc that was not written by them, double check where the authors obtained these from. If from someone’s website, ask if they have permission form the original author to redistribute. If from a different GitHub site, check if the GitHub site includes a LICENSE that allows redistribution, and get the author to include that LICENSE in the relevant folder. Make sure that they explicitly document in the README etc that the code/data is not theirs and where they got it from.
+2. If redistribution is not allowed, get them to delete the code/data and provide instructions for how future readers can obtain their own copy.
+3. If in doubt, ping @odow in a comment
+
+### Review the rest of the code
+
+This is very subjective. Make a best effort. You don’t need to run it. If it
+looks okay, it’s okay. If there are glaring errors, ask for clarifications. The
+main things to watch out for are things like this (all true stories):
+
+1. The code doesn’t appear to have been written by them, for example, it is
+   copy-pasted from somewhere else and includes HTML tags because they have just
+   done CTRL+A / CTRL+C / CTRL+V to dump a bunch of code from GitHub into a file
+
+2. They mention that code was used to generate input data/examples/tests but no
+   source code is provided
+
+3. They don’t appear to have read or understand their own instructions in the
+   README. For example, The code is in Julia, but the README says install python
+   and do “pip install JuMP”.
+
+It’s okay if some of the code is omitted if it relies on closed-source code. But
+make sure that they appropriately document this in the README. For example:
+
+![](screenshots/review-code.png)
+
+## Step 5: merge the PR
+
+At the bottom, click the down arrow next to “Merge pull request” and change to
+“Squash and merge”
+
+![](screenshots/squash-and-merge.png)
+
+Click squash and merge, then change the “Commit message” to “Add initial code
+for paper” and delete the “Extended description”
+
+![](screenshots/commit-message.png)
+
+Click “Confirm squash and merge”
+
+## Step 6: create a release
+
+Go to the homepage of the repo, and, on the right, click “Create a new release”
+![](screenshots/create-a-new-release.png)
+
+Click “Choose a tag” and make it “vYYYY.XXXX” matching the ID of the paper. Click “Create new tag”
+![](screenshots/choose-a-tag.png)
+
+Click “Generate release notes” then rename the title to
+
+“Archived version of code for IJOC paper https://doi.org/10.1287/ijoc.YYYY.XXXX”
+
+![](screenshots/change-name-of-release.png)
+
+Click “Publish release” at the bottom
+
+## Step 7: make the repository public
+
+Go back to the settings page, scroll to the bottom to “Danger Zone” click “Change visibility” and then “Change to public”
+
+![](screenshots/danger-zone-visibility.png)
+
+Accept the consequences.
+
+## Step 8: tell the authors
+
+Send them this email. Replace:
+
+* `<<paper id>>` by the ID of the paper (two occurrences)
+* `<<your name>>` by your name (one occurence)
+
+```
+Dear all,
+
+I have published the repo: [https://github.com/INFORMSJoC/](https://github.com/INFORMSJoC/)<<paper id>>
+
+You should now submit a revision of the paper that cites the GitHub repository using the BibTeX at
+https://github.com/INFORMSJoC/<<paper id>>?tab=readme-ov-file\#cite
+
+Regards,
+<<your name>>
+```
