@@ -9,12 +9,56 @@ If questions, please contact Oscar: [o.dowson@gmail.com](mailto:o.dowson@gmail.c
 
 *The GitHub website sometimes changes the UI around. If the screenshots are out-of-date, please let `@odow` know and he will update them.*
 
-## Step 1: get the user name from authors
+## Step 0: get notified of a new paper and start tracking it
 
-Send this email to the authors:
+The Area Editor will send and email to the authors and cc in you. It will say
+something like:
 
 ```
-Dear <<name>>:
+Dear Lead Author:
+
+Manuscript ID JOC-2025-01-OA-1234.R2 entitled "A new paper" which you submitted
+to INFORMS Journal on Computing, has been reviewed and acceptance has been
+recommended.
+
+However, I would first like to suggest some minor revisions to your manuscript:
+
+Please work with the associate editor, Your Name, to make your exact problem
+data and results available online at the IJOC GitHub site.
+```
+
+The Manuscript ID has the format `JOC-XXXX-MM-OA-YYYY.RN`, where
+
+ * `XXXX` is the year of submission
+ * `MM` is the month of submission
+ * `OA` means "original article" (it will be `SI` for special issues)
+ * `YYYY` is a monotonic index of the papers received in the calendar year
+ * `.RN` is optional, and means that the current submission is revision `N`.
+
+In reponse to this email:
+
+ * Create a new issue in the repository-status-tracking: https://github.com/INFORMSJoC/repository-status-tracking/issues/new?template=new_issue.md
+ * Change the title to the eight-digit number, `XXXX.YYYY`, which matches the manuscript ID.
+ * Replace `XXXX.YYY` in the link `https://github.com/INFORMSJoC/XXXX.YYYY` with the actual number.
+   (This link does not exist yet, we will create shortly)
+ * In the right-hand toolbar, click "Assign yourself".
+ * Click "Create" at the bottom.
+
+We will use this issue to privately track the progress of each paper and discuss
+any questions that arise. When you have completed each step, update the tracking
+issue.
+
+## Step 1: get the user name from authors
+
+Go back to the email from the Area Editor, hit reply-all, and send this email.
+
+Replace:
+
+* `v` by the lead author's name (one occurrence)
+* `<<your name>>` by your name (one occurrence)
+
+```
+Dear <<Lead Author>>:
 
 To get started with the process of uploading your code, you'll need a GitHub
 account.
@@ -29,10 +73,14 @@ After I have released the repository, you should then submit a final revision of
 the paper that appropriately cites your code using the DOI I will provide.
 
 Cheers,
-Oscar
+<<your name>>
 ```
 
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
+
 ## Step 2: create a repository
+
+When you receive a response from the author with the name of a GitHub account:
 
 Go to [https://github.com/INFORMSJoC](https://github.com/INFORMSJoC)
 
@@ -40,7 +88,7 @@ Click the “new” button
 
 ![](screenshots/new-repo-button.png)
 
-Enter the ID of the paper, click “Add a README” then “Create repository"
+Enter the eight-digit ID of the paper (`XXXX.YYYY`), click “Add a README” then “Create repository"
 
 ![](screenshots/new-repo-settings.png)
 
@@ -74,9 +122,15 @@ If all well, you should see
 
 ![](screenshots/view-after-inviting-author.png)
 
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
+
 ## Step 3: tell the authors to make a PR
 
-Send them this email. Replace:
+Once the GitHub repository is setup, go back the email, hit reply-all, end them this email.
+Ensure that the recipients includes all the original participants. (Sometimes authors will
+remove some participants like the Area Editor.)
+
+Replace:
 
 * `<<GitHub ID>>` by the GitHub names you added (one occurrence)
 * `<<paper id>>` by the ID of the paper (four occurrences)
@@ -137,6 +191,8 @@ questions.
 Regards,
 <<your name>>
 ```
+
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
 
 ## Step 4: review the PR
 
@@ -218,6 +274,8 @@ make sure that they appropriately document this in the README. For example:
 
 ![](screenshots/review-code.png)
 
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
+
 ## Step 5: merge the PR
 
 At the bottom, click the down arrow next to “Merge pull request” and change to
@@ -231,6 +289,8 @@ for paper” and delete the “Extended description”
 ![](screenshots/commit-message.png)
 
 Click “Confirm squash and merge”
+
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
 
 ## Step 6: create a release
 
@@ -248,6 +308,8 @@ Click “Generate release notes” then rename the title to
 
 Click “Publish release” at the bottom
 
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
+
 ## Step 7: make the repository public
 
 Go back to the settings page, scroll to the bottom to “Danger Zone” click “Change visibility” and then “Change to public”
@@ -255,6 +317,8 @@ Go back to the settings page, scroll to the bottom to “Danger Zone” click �
 ![](screenshots/danger-zone-visibility.png)
 
 Accept the consequences.
+
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
 
 ## Step 8: tell the authors
 
@@ -274,3 +338,11 @@ https://github.com/INFORMSJoC/<<paper id>>?tab=readme-ov-file\#cite
 Regards,
 <<your name>>
 ```
+
+**Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
+
+## Step 9: close the tracking issue
+
+You're all done!
+
+**Close the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
