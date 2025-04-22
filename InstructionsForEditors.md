@@ -39,7 +39,7 @@ In reponse to this email:
 
  * Create a new issue in the repository-status-tracking: https://github.com/INFORMSJoC/repository-status-tracking/issues/new?template=new_issue.md
  * Change the title to the eight-digit number, `XXXX.YYYY`, which matches the manuscript ID.
- * Replace `XXXX.YYY` in the link `https://github.com/INFORMSJoC/XXXX.YYYY` with the actual number.
+ * Replace `XXXX.YYYY` in the link `https://github.com/INFORMSJoC/XXXX.YYYY` with the actual number.
    (This link does not exist yet, we will create shortly)
  * In the right-hand toolbar, click "Assign yourself".
  * Click "Create" at the bottom.
@@ -84,11 +84,11 @@ When you receive a response from the author with the name of a GitHub account:
 
 Go to [https://github.com/INFORMSJoC](https://github.com/INFORMSJoC)
 
-Click the “new” button
+Click the "new" button
 
 ![](screenshots/new-repo-button.png)
 
-Enter the eight-digit ID of the paper (`XXXX.YYYY`), click “Add a README” then “Create repository"
+Enter the eight-digit ID of the paper (`XXXX.YYYY`), click "Add a README" then "Create repository"
 
 ![](screenshots/new-repo-settings.png)
 
@@ -96,24 +96,24 @@ You’ll end up at
 
 ![](screenshots/an-empty-repo.png)
 
-Click “Settings” then “Collaborators and teams”
+Click "Settings" then "Collaborators and teams"
 
 ![](screenshots/collaborators-and-teams.png)
 
 You will be prompted to re-authenticate.
 
-Click “Add people”, type in the user name, then click on the person
+Click "Add people", type in the user name, then click on the person
 
 ![](screenshots/add-people.png)
 
-Choose **Read** then click “Add selection"
+Choose **Read** then click "Add selection"
 
 **Why we chose Read: choosing Read means that the author does not have
 permission to merge their own pull requests, or to make changes to the
 repository after the paper has been accepted without going through a PR and
 review by someone at IJOC. We want the code repository to be a snapshot of the
 code at the time the paper is written. We don’t want on-going changes. The
-downside to “Read” is that authors must fork the repo to add code. More on this
+downside to "Read" is that authors must fork the repo to add code. More on this
 later.**
 
 ![](screenshots/invite-with-read-permission.png)
@@ -215,9 +215,9 @@ an example:
 
 ![](screenshots/readme-file.png)
 
-Check that the first section of the README is the “Cite” section with accurate
+Check that the first section of the README is the "Cite" section with accurate
 bibtex. Here’s a good example. Double check: the DOI ends in .cd, and both the
-“url” and “note” fields exist. Also double check that the “author” includes all
+"url" and "note" fields exist. Also double check that the "author" includes all
 authors on the paper. If not, double check with the author whether other people
 contributed to the code, and suggest that they may want to name all authors,
 even if they were the only one that contributed to the code…
@@ -233,7 +233,7 @@ Double check that the link in the README links to the LICENSE.
 Check that the LICENSE file is a valid open-source license (tag `@odow` in a
 comment if unsure).
 
-Check that the year and authors are correct, and that “Ted Ralphs” is not
+Check that the year and authors are correct, and that "Ted Ralphs" is not
 mentioned.
 
 It should look something like this:
@@ -242,7 +242,7 @@ It should look something like this:
 
 ### Review AUTHORS
 
-Check that the format is “Name <email>” with one entry per line
+Check that the format is "Name <email>" with one entry per line
 
 ![](screenshots/authors-file.png)
 
@@ -267,7 +267,7 @@ main things to watch out for are things like this (all true stories):
 
 3. They don’t appear to have read or understand their own instructions in the
    README. For example, The code is in Julia, but the README says install python
-   and do “pip install JuMP”.
+   and do "pip install JuMP".
 
 It’s okay if some of the code is omitted if it relies on closed-source code. But
 make sure that they appropriately document this in the README. For example:
@@ -278,41 +278,41 @@ make sure that they appropriately document this in the README. For example:
 
 ## Step 5: merge the PR
 
-At the bottom, click the down arrow next to “Merge pull request” and change to
-“Squash and merge”
+At the bottom, click the down arrow next to "Merge pull request" and change to
+"Squash and merge"
 
 ![](screenshots/squash-and-merge.png)
 
-Click squash and merge, then change the “Commit message” to “Add initial code
-for paper” and delete the “Extended description”
+Click squash and merge, then change the "Commit message" to "Add initial code
+for paper" and delete the "Extended description"
 
 ![](screenshots/commit-message.png)
 
-Click “Confirm squash and merge”
+Click "Confirm squash and merge"
 
 **Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
 
 ## Step 6: create a release
 
-Go to the homepage of the repo, and, on the right, click “Create a new release”
+Go to the homepage of the repo, and, on the right, click "Create a new release"
 ![](screenshots/create-a-new-release.png)
 
-Click “Choose a tag” and make it “vYYYY.XXXX” matching the ID of the paper. Click “Create new tag”
+Click "Choose a tag" and make it "vXXXX.YYYY" matching the ID of the paper. Click "Create new tag"
 ![](screenshots/choose-a-tag.png)
 
-Click “Generate release notes” then rename the title to
+Click "Generate release notes" then rename the title to
 
-“Archived version of code for IJOC paper https://doi.org/10.1287/ijoc.YYYY.XXXX”
+"Archived version of code for IJOC paper https://doi.org/10.1287/ijoc.XXXX.YYYY"
 
 ![](screenshots/change-name-of-release.png)
 
-Click “Publish release” at the bottom
+Click "Publish release" at the bottom
 
 **Update the tracking issue: https://github.com/INFORMSJoC/repository-status-tracking/issues**
 
 ## Step 7: make the repository public
 
-Go back to the settings page, scroll to the bottom to “Danger Zone” click “Change visibility” and then “Change to public”
+Go back to the settings page, scroll to the bottom to "Danger Zone" click "Change visibility" and then "Change to public"
 
 ![](screenshots/danger-zone-visibility.png)
 
@@ -330,7 +330,7 @@ Send them this email. Replace:
 ```
 Dear all,
 
-I have published the repo: [https://github.com/INFORMSJoC/](https://github.com/INFORMSJoC/)<<paper id>>
+I have published the repo: https://github.com/INFORMSJoC/<<paper id>>
 
 You should now submit a revision of the paper that cites the GitHub repository using the BibTeX at
 https://github.com/INFORMSJoC/<<paper id>>?tab=readme-ov-file\#cite
