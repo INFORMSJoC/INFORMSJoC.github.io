@@ -176,7 +176,7 @@ include:
 
 You can find more instructions here:
 
-[https://github.com/INFORMSJoC/INFORMSJoC.github.io/blob/master/InstructionsForAuthors.md](https://github.com/INFORMSJoC/INFORMSJoC.github.io/blob/master/InstructionsForAuthors.md)
+https://github.com/INFORMSJoC/INFORMSJoC.github.io/blob/master/InstructionsForAuthors.md
 
 Once you've opened the pull request, I'll review it and we can make any
 necessary changes, so don't worry too much about getting things perfect before
