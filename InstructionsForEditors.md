@@ -1,6 +1,7 @@
 # Instructions for Editors
 
-This document details the procedure for the IJOC GitHub submission.
+This document details the procedure for managing an IJOC GitHub submission from
+the perspective of an Associate Editor.
 
 To execute these instructions, you must have already created a Github
 account and contacted Ted Ralphs to be added to the IJOC Area Editors group.
