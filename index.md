@@ -6,6 +6,9 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Solving Combinatorial Pricing Problems using Embedded Dynamic Programming Models](https://doi.org/10.1287/ijoc.2024.0686) by Margarida Carvalho, José Neto, and Quang Bui has associated [software/data](https://github.com/INFORMSJoC/2024.0686).
+* [Divide-and-Contrast: A Text-based Method for Firm Market Risk Prediction](https://doi.org/10.1287/ijoc.2023.0195) by Yi He, Yi Yang, and Kunpeng Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0195).
+* [Machine Learning-empowered Benders Decomposition for Flow Hub Location in E-Commerce](https://doi.org/10.1287/ijoc.2023.0367) by Tao Wu, Weiwei Chen, Jean-François Cordeau, and Raf Jans has associated [software/data](https://github.com/INFORMSJoC/2023.0367).
 * [Adaptive Bounded Exploration and Intermediate Actions for Data Debiasing](https://doi.org/10.1287/ijoc.2024.0651) by Yifan Yang, Yang Liu, and Parinaz Naghizadeh has associated [software/data](https://github.com/INFORMSJoC/2024.0651).
 * [Real-Time Rolling Stock and Timetable Rescheduling in Urban Rail Transit Systems](https://doi.org/10.1287/ijoc.2023.0391) by Jiateng Yin, Lixing Yang, Zhe Liang, Andrea D'Ariano, and Ziyou Gao has associated [software/data](https://github.com/INFORMSJoC/2023.0391).
 * [An Exact Solution Approach for Hierarchical Clustering](https://doi.org/10.1287/ijoc.2024.0903) by Rick Willemsen, Carlo Cavicchia, Wilco van den Heuvel, and Michel Van de Velden has associated [software/data](https://github.com/INFORMSJoC/2024.0903).
