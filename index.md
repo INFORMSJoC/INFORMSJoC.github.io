@@ -6,6 +6,12 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Two-Stage Dynamic Fusion Framework for Multimodal Classification Tasks](https://doi.org/10.1287/ijoc.2023.0448) by Shoumeng Ge and Ying Chen has associated [software/data](https://github.com/INFORMSJoC/2023.0448).
+* [Guardians of Tomorrow: Leveraging Responsible AI for Early Detection and Response to Criminal Threats](https://doi.org/10.1287/ijoc.2023.0488) by Xiaotong Sun, Qili Wang, Liangfei Qiu, and Wei Xu has associated [software/data](https://github.com/INFORMSJoC/2023.0488).
+* [Mitigating Age-Related Bias in Large Language Models: Strategies for Responsible AI Development](https://doi.org/10.1287/ijoc.2024.0645) by Zhuang Liu, ShiYao Qian, Shuirong Cao, and Tianyu Shi has associated [software/data](https://github.com/INFORMSJoC/2024.0645).
+* [Solving Two-Stage Stochastic Programs with Endogenous Uncertainty via Random Variable Transformation](https://doi.org/10.1287/ijoc.2024.0847) by Maria Bazotte, Margarida Carvalho, and Thibaut Vidal has associated [software/data](https://github.com/INFORMSJoC/2024.0847).
+* [Sempervirens: A Fast Reconstruction Algorithm for Noisy and Incomplete Binary Matrix Representations of Trees](https://doi.org/10.1287/ijoc.2023.0373) by Neelay Junnarkar, Can Kizilkale, Nevena Golubovic, Murat Arcak, and Aydin Buluc has associated [software/data](https://github.com/INFORMSJoC/2023.0373).
+* [Asymptotically Tight MILP Approximations for a Non-convex QCP](https://doi.org/10.1287/ijoc.2024.0719) by Shiyi Jiang, Jianqiang Cheng, Kai Pan, and Boshi Yang has associated [software/data](https://github.com/INFORMSJoC/2024.0719).
 * [Solving Combinatorial Pricing Problems using Embedded Dynamic Programming Models](https://doi.org/10.1287/ijoc.2024.0686) by Margarida Carvalho, José Neto, and Quang Bui has associated [software/data](https://github.com/INFORMSJoC/2024.0686).
 * [Divide-and-Contrast: A Text-based Method for Firm Market Risk Prediction](https://doi.org/10.1287/ijoc.2023.0195) by Yi He, Yi Yang, and Kunpeng Zhang has associated [software/data](https://github.com/INFORMSJoC/2023.0195).
 * [Machine Learning-empowered Benders Decomposition for Flow Hub Location in E-Commerce](https://doi.org/10.1287/ijoc.2023.0367) by Tao Wu, Weiwei Chen, Jean-François Cordeau, and Raf Jans has associated [software/data](https://github.com/INFORMSJoC/2023.0367).
