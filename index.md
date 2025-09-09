@@ -6,6 +6,9 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [A New Upper Bound for the Euclidean TSP Constant](https://doi.org/10.1287/ijoc.2024.0538) by John Gunnar Carlsson and Julien Yu has associated [software/data](https://github.com/INFORMSJoC/2024.0538).
+* [A Logic-Based Benders Decomposition for the Car Resequencing Problem with a Painted Body Storage](https://doi.org/10.1287/ijoc.2024.0904) by Xinyi Guo, Jean-François Côté, Canrong Zhang, and Lixin Miao has associated [software/data](https://github.com/INFORMSJoC/2024.0904).
+* [Constructing Optimal Piecewise Quadratic Approximations for Enhancing Deterministic Global Optimization](https://doi.org/10.1287/ijoc.2024.0909) by Yingkai Song and Christos Maravelias has associated [software/data](https://github.com/INFORMSJoC/2024.0909).
 * [Assessing Multi-Modality Breast Cancer Screening Strategies for BRCA 1/2 Gene Mutation Carriers and Other High-Risk Populations](https://doi.org/10.1287/ijoc.2022.0373) by Çaglar Çaglayan, Turgay Ayer, Donatus Ekwueme, and Donatus Ekwueme has associated [software/data](https://github.com/INFORMSJoC/2022.0373).
 * [PPFL: A Personalized Federated Learning Framework for Heterogeneous Population](https://doi.org/10.1287/ijoc.2023.0376) by Hao Di, Yi Yang, Haishan Ye, and Xiangyu Chang has associated [software/data](https://github.com/INFORMSJoC/2023.0376).
 * [Pseudo-Polynomial Formulations for the Bin Packing Problem with Minimum Color Fragmentation](https://doi.org/10.1287/ijoc.2024.0972) by Mathijs Barkel, Maxence Delorme, Enrico Malaguti, and Michele Monaci has associated [software/data](https://github.com/INFORMSJoC/2024.0972).
