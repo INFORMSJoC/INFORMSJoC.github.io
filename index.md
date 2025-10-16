@@ -6,6 +6,8 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Stochastic Optimization Model with Exogenous and Decision-Dependent Uncertainty for Medical Evacuation](https://doi.org/10.1287/ijoc.2024.0986) by Miguel Lejeune, Francois Margot, and Alan Delgado de Oliveira has associated [software/data](https://github.com/INFORMSJoC/2024.0986).
+* [Quantifying the Academic Quality of Children's Videos Using Machine Comprehension](https://doi.org/10.1287/ijoc.2023.0502) by Sumeet Kumar, Mallikarjuna T., and Ashiqur KhudaBukhsh has associated [software/data](https://github.com/INFORMSJoC/2023.0502).
 * [Learning in Reformulation-Linearization Technique-Based Spatial Branching: Limitations of Strong Branching Imitation](https://doi.org/10.1287/ijoc.2024.0775) by Brais Gonzalez-Rodriguez, Ignacio Gomez-Casares, Bissan Ghaddar, Julio González Díaz, and Beatriz Pateiro-Lopez has associated [software/data](https://github.com/INFORMSJoC/2024.0775).
 * [Strong Partitioning and a Machine Learning Approximation for Accelerating the Global Optimization of](https://doi.org/10.1287/ijoc.2023.0424) by Rohit Kannan, Harsha Nagarajan, and Deepjyoti Deka has associated [software/data](https://github.com/INFORMSJoC/2023.0424).
 * [Responsible AI-Enabled Infodemic Management: A Hypergraph-based Infodemic Topic Prediction Framework](https://doi.org/10.1287/ijoc.2024.0660) by Luyue Zhao, Shuai Ding, Yidong Chai, Jiaheng Xie, Xiao Fang, and Shanlin Yang has associated [software/data](https://github.com/INFORMSJoC/2024.0660).
