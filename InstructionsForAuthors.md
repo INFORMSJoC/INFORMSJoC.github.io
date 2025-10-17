@@ -12,7 +12,7 @@ To follow this guide, you must have already:
  * received and accepted an invite to a private GitHub repository
 
  You must complete the steps in this guide before you submit the next revision
- of you paper.
+ of your paper.
 
 ## Repository Name
 
