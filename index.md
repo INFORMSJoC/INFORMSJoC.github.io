@@ -6,6 +6,9 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Demands Satiated or Not? A Psychology-Informed Deep Probabilistic Approach to Offline Store Recommendations](https://doi.org/10.1287/ijoc.2023.0403) by Jiangning He, Weikun Wu, Jiayi Guo, and Xiao Fang has associated [software/data](https://github.com/INFORMSJoC/2023.0403).
+* [Eliminating Social Popularity Bias in Recommendation: Causal Inference-Based Social Graph Neural Networks](https://doi.org/10.1287/ijoc.2024.0682) by Ruibin Geng, Ruina Yang, and Huilin Xu has associated [software/data](https://github.com/INFORMSJoC/2024.0682).
+* [Gamifying the Vehicle Routing Problem with Stochastic Requests](https://doi.org/10.1287/ijoc.2024.0838) by Nicholas Kullman, Nikita Dudorov, Martin Cousineau, Jorge Mendoza, and Justin Goodson has associated [software/data](https://github.com/INFORMSJoC/2024.0838).
 * [Stochastic Optimization Model with Exogenous and Decision-Dependent Uncertainty for Medical Evacuation](https://doi.org/10.1287/ijoc.2024.0986) by Miguel Lejeune, Francois Margot, and Alan Delgado de Oliveira has associated [software/data](https://github.com/INFORMSJoC/2024.0986).
 * [Quantifying the Academic Quality of Children's Videos Using Machine Comprehension](https://doi.org/10.1287/ijoc.2023.0502) by Sumeet Kumar, Mallikarjuna T., and Ashiqur KhudaBukhsh has associated [software/data](https://github.com/INFORMSJoC/2023.0502).
 * [Learning in Reformulation-Linearization Technique-Based Spatial Branching: Limitations of Strong Branching Imitation](https://doi.org/10.1287/ijoc.2024.0775) by Brais Gonzalez-Rodriguez, Ignacio Gomez-Casares, Bissan Ghaddar, Julio González Díaz, and Beatriz Pateiro-Lopez has associated [software/data](https://github.com/INFORMSJoC/2024.0775).
