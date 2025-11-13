@@ -6,6 +6,8 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Social Network Prediction Problems: Using Meta-Paths and Dynamic Heterogeneous Graph Representation for Label Propagation](https://doi.org/10.1287/ijoc.2023.0274) by Negar Maleki, Balaji Padmanabhan, and Kaushik Dutta has associated [software/data](https://github.com/INFORMSJoC/2023.0274).
+* [Decoupling Geometry from Optimization in 2D Irregular Cutting and Packing Problems: An Open-Source Collision Detection Engine](https://doi.org/10.1287/ijoc.2024.1025) by Jeroen Gardeyn, Greet Vanden Berghe, and Tony Wauters has associated [software/data](https://github.com/INFORMSJoC/2024.1025).
 * [Exact Methods and a Two-Stage Iterative Heuristic for the Carrier-Vehicle Traveling Salesman Problem](https://doi.org/10.1287/ijoc.2025.1140) by Yantong Li, Shanshan Zhou, and Jean-François Côté has associated [software/data](https://github.com/INFORMSJoC/2025.1140).
 * [Solving Cutting Stock Problems via an Extended Ryan-Foster Branching Scheme and Fast Column Generation](https://doi.org/10.1287/ijoc.2023.0399) by Renan Silva and Rafael Schouery has associated [software/data](https://github.com/INFORMSJoC/2023.0399).
 * [Demands Satiated or Not? A Psychology-Informed Deep Probabilistic Approach to Offline Store Recommendations](https://doi.org/10.1287/ijoc.2023.0403) by Jiangning He, Weikun Wu, Jiayi Guo, and Xiao Fang has associated [software/data](https://github.com/INFORMSJoC/2023.0403).
