@@ -6,6 +6,8 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [The Routing-and-Driving Problem for Plug-in Hybrid Electric Vehicles](https://doi.org/10.1287/ijoc.2024.1016) by Fuliang Wu, Yossiri Adulyasak, and Jean-François Cordeau has associated [software/data](https://github.com/INFORMSJoC/2024.1016).
+* [Uniformly Optimal and Parameter-free First-order Methods for Convex and Function-constrained Optimization](https://doi.org/10.1287/ijoc.2025.1177) by Qi Deng, Guanghui Lan, and Zhenwei Lin has associated [software/data](https://github.com/INFORMSJoC/2025.1177).
 * [A Novel Personalized Federated Learning Method for Privacy-Preserving Smart Mobile Health Monitoring](https://doi.org/10.1287/ijoc.2023.0521) by Yidong Chai, Haoxin Liu, Xiao Liu, Liuan Wang, Yi Liu, and Junqiu Wang has associated [software/data](https://github.com/INFORMSJoC/2023.0521).
 * [Network Flow Models for Robust Binary Optimization with Selective Adaptability](https://doi.org/10.1287/ijoc.2024.0718) by Merve Bodur, Timothy Chan, and Ian Zhu has associated [software/data](https://github.com/INFORMSJoC/2024.0718).
 * [Multistage Mobile Anchor Redeployment in Indoor Positioning System Using Hierarchical State Lagrangian Cut-Augmented Stochastic Dual Dynamic integer Programming](https://doi.org/10.1287/ijoc.2024.0969) by Zhongyuan Lyu, Tom Chan, and Daniel P.K. Lun has associated [software/data](https://github.com/INFORMSJoC/2024.0969).
