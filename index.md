@@ -6,6 +6,7 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [A Polynomial-Time Inner Approximation Algorithm for Multi-Objective and Parametric Optimization](https://doi.org/10.1287/ijoc.2025.1308) by Levin Nemesch, Stefan Ruzika, Clemens Thielen, and Alina Wittmann has associated [software/data](https://github.com/INFORMSJoC/2025.1308).
 * [The Routing-and-Driving Problem for Plug-in Hybrid Electric Vehicles](https://doi.org/10.1287/ijoc.2024.1016) by Fuliang Wu, Yossiri Adulyasak, and Jean-François Cordeau has associated [software/data](https://github.com/INFORMSJoC/2024.1016).
 * [Uniformly Optimal and Parameter-free First-order Methods for Convex and Function-constrained Optimization](https://doi.org/10.1287/ijoc.2025.1177) by Qi Deng, Guanghui Lan, and Zhenwei Lin has associated [software/data](https://github.com/INFORMSJoC/2025.1177).
 * [A Novel Personalized Federated Learning Method for Privacy-Preserving Smart Mobile Health Monitoring](https://doi.org/10.1287/ijoc.2023.0521) by Yidong Chai, Haoxin Liu, Xiao Liu, Liuan Wang, Yi Liu, and Junqiu Wang has associated [software/data](https://github.com/INFORMSJoC/2023.0521).
