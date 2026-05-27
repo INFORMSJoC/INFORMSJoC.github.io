@@ -6,6 +6,9 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [RouteOpt: An Open-Source Modular Exact Solver for Vehicle Routing Problems](https://doi.org/10.1287/ijoc.2025.1415) by Zhengzhong You, and Yu Yang has associated [software/data](https://github.com/INFORMSJoC/2025.1415).
+* [Toward Large-Scale Probabilistic Set-Covering Problems: An Efficient Benders Decomposition Approach](https://doi.org/10.1287/ijoc.2025.1307) by Wei Lv, Wei-Kun Chen, Yi-Long Chen, and Yu-Hong Dai has associated [software/data](https://github.com/INFORMSJoC/2025.1307).
+* [Learn to Formulate: A Surrogate Model Framework for Generalized Assignment Problem with Routing Constraints](https://doi.org/10.1287/ijoc.2024.0736) by Sen Xue and Chuanhou Gao has associated [software/data](https://github.com/INFORMSJoC/2024.0736).
 * [Rank-Constrained Mixed-Integer Optimization for Heterogeneous Sensor Location in Route Reconstruction](https://doi.org/10.1287/ijoc.2024.0965) by Chenyi Fu, Li Chen, and Zhiyuan Lou has associated [software/data](https://github.com/INFORMSJoC/2024.0965).
 * [A Branch-Price-and-Cut Algorithm for the Multicommodity Two-Echelon Vehicle Routing Problem with Time Windows](https://doi.org/10.1287/ijoc.2024.1010) by Tayeb Mhamedi, Marilène Cherkesly, and Guy Desaulniers has associated [software/data](https://github.com/INFORMSJoC/2024.1010).
 * [Semantic Aggregated Adversarial Training Framework for Hate Speech Detection](https://doi.org/10.1287/ijoc.2023.0508) by Xingwei Zhang, Hu Tian, Xiaolong Zheng, Jing Peng, and Daniel Dajun Zeng has associated [software/data](https://github.com/INFORMSJoC/2023.0508).
