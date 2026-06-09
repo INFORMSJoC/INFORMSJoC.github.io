@@ -6,6 +6,12 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Online Lead Time Quotation with Predictions](https://doi.org/10.1287/ijoc.2025.1104) by Tianming Huo and Wang Chi Cheung has associated [software/data](https://github.com/INFORMSJoC/2025.1104).
+* [A Convex Relaxation-Based Spatial Branching Approach for Optimal Robust Group Testing Designs Under Prevalence Rate and Dilution Behavior Uncertainty](https://doi.org/10.1287/ijoc.2023.0465) by Su LI, Hrayer Aprahamian, and Sohom Chatterjee has associated [software/data](https://github.com/INFORMSJoC/2023.0465).
+* [Systemic Fairness and College Admissions](https://doi.org/10.1287/ijoc.2023.0523) by Arindam Ray, Balaji Padmanabhan, and Lina Bouayad has associated [software/data](https://github.com/INFORMSJoC/2023.0523).
+* [Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach for Dynamic Treatment Regimes](https://doi.org/10.1287/ijoc.2025.1183) by Di Wang, Yao Wang, and Shao-Bo Lin has associated [software/data](https://github.com/INFORMSJoC/2025.1183).
+* [Assortment Optimization with General Linear Constraints Under the Paired Combinatorial Logit Choice Model](https://doi.org/10.1287/ijoc.2024.0830) by Jianguang Feng, Ada Che, and Zhi-Long Chen has associated [software/data](https://github.com/INFORMSJoC/2024.0830).
+* [Informative Path Planning with Limited Adaptivity](https://doi.org/10.1287/ijoc.2024.0893) by Rayen Tan, Rohan Ghuge, and Vishwanath Nagarajan has associated [software/data](https://github.com/INFORMSJoC/2024.0893).
 * [RouteOpt: An Open-Source Modular Exact Solver for Vehicle Routing Problems](https://doi.org/10.1287/ijoc.2025.1415) by Zhengzhong You, and Yu Yang has associated [software/data](https://github.com/INFORMSJoC/2025.1415).
 * [Toward Large-Scale Probabilistic Set-Covering Problems: An Efficient Benders Decomposition Approach](https://doi.org/10.1287/ijoc.2025.1307) by Wei Lv, Wei-Kun Chen, Yi-Long Chen, and Yu-Hong Dai has associated [software/data](https://github.com/INFORMSJoC/2025.1307).
 * [Learn to Formulate: A Surrogate Model Framework for Generalized Assignment Problem with Routing Constraints](https://doi.org/10.1287/ijoc.2024.0736) by Sen Xue and Chuanhou Gao has associated [software/data](https://github.com/INFORMSJoC/2024.0736).
