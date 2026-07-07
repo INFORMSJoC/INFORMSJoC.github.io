@@ -6,6 +6,9 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [A Reduction-Driven Local Search for the Generalized Independent Set Problem](https://doi.org/10.1287/ijoc.2025.1203) by Yiping Liu, Yi Zhou, Zhenxiang Xu, Mingyu Xiao, and Jin-Kao Hao has associated [software/data](https://github.com/INFORMSJoC/2025.1203).
+* [A Geometrically Convergent Solution to Spatial Hypercube Queueing Models](https://doi.org/10.1287/ijoc.2025.1353) by Cheng Hua, Jun Luo, Arthur Swersey, and Yixing Wen has associated [software/data](https://github.com/INFORMSJoC/2025.1353).
+* [An Improving Column is All You Need: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](https://doi.org/10.1287/ijoc.2024.1005) by Amira Hijazi, Osman Ozaltin, and Reha Uzsoy has associated [software/data](https://github.com/INFORMSJoC/2024.1005).
 * [MultiObjectiveAlgorithms.jl: A Julia Package for Solving Multiobjective Optimization Problems](https://doi.org/10.1287/ijoc.2025.1449) by Oscar Dowson, Xavier Gandibleux, and Gökhan Kof has associated [software/data](https://github.com/INFORMSJoC/2025.1449).
 * [Fast Filter Pruning Method for Neural Network Compression](https://doi.org/10.1287/ijoc.2024.0991) by Dongqi Wang, Weiwei Chen, Cheng Hua, Weihua Zhou, and Xin Lin has associated [software/data](https://github.com/INFORMSJoC/2024.0991).
 * [Solution Path of Time-varying Markov Random Fields with Discrete Regularization](https://doi.org/10.1287/ijoc.2024.0850) by Salar Fattahi and Andres Gomez has associated [software/data](https://github.com/INFORMSJoC/2024.0850).
