@@ -6,6 +6,13 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [A Stable Set Formulation for the Equitable Coloring Problem](https://doi.org/10.1287/ijoc.2025.1294) by Emanuel Florentin Olariu and Cristian Frasinaru has associated [software/data](https://github.com/INFORMSJoC/2025.1294).
+* [On the Use of Regular Languages to Model Personnel Scheduling Problems](https://doi.org/10.1287/ijoc.2024.1003) by Guillaume Ghienne, Odile Bellenguez, Guillaume Massonnet, and Maria I. Restrepo has associated [software/data](https://github.com/INFORMSJoC/2024.1003).
+* [Generating Lagrangian Cuts Using Normalized Dual Problems in Multistage Stochastic Mixed-Integer Programming](https://doi.org/10.1287/ijoc.2024.1039) by Christian Füllner, Xu Andy Sun, and Steffen Rebennack has associated [software/data](https://github.com/INFORMSJoC/2024.1039).
+* [Robust Data-Driven Quasiconcave Optimization](https://doi.org/10.1287/ijoc.2025.1570) by Jian Wu, William Haskell, Wenjie Huang, and Huifu Xu has associated [software/data](https://github.com/INFORMSJoC/2025.1570).
+* [Learning Virtual Machine Scheduling in Cloud Computing through Language Agents](https://doi.org/10.1287/ijoc.2025.1368) by Jiehao Wu, Ziwei Wang, Junjie Sheng, Wenhao Li, Xiangfeng Wang, and Jun Luo has associated [software/data](https://github.com/INFORMSJoC/2025.1368).
+* [Sequence and Speed Optimisation](https://doi.org/10.1287/ijoc.2024.1047) by Stefan Schaudt and Tolga Bektaş has associated [software/data](https://github.com/INFORMSJoC/2024.1047).
+* [An Efficient Solver for Integral Flows in Decision Hypergraphs with Applications to Orthogonal Knapsack Problems](https://doi.org/10.1287/ijoc.2025.1692) by Arthur Léonard and François Clautiaux has associated [software/data](https://github.com/INFORMSJoC/2025.1692).
 * [A Reduction-Driven Local Search for the Generalized Independent Set Problem](https://doi.org/10.1287/ijoc.2025.1203) by Yiping Liu, Yi Zhou, Zhenxiang Xu, Mingyu Xiao, and Jin-Kao Hao has associated [software/data](https://github.com/INFORMSJoC/2025.1203).
 * [A Geometrically Convergent Solution to Spatial Hypercube Queueing Models](https://doi.org/10.1287/ijoc.2025.1353) by Cheng Hua, Jun Luo, Arthur Swersey, and Yixing Wen has associated [software/data](https://github.com/INFORMSJoC/2025.1353).
 * [An Improving Column is All You Need: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](https://doi.org/10.1287/ijoc.2024.1005) by Amira Hijazi, Osman Ozaltin, and Reha Uzsoy has associated [software/data](https://github.com/INFORMSJoC/2024.1005).
