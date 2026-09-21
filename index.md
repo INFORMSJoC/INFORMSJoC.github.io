@@ -6,6 +6,8 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Adversarial Training-Based Deep Imbalanced Learning](https://doi.org/10.1287/ijoc.2025.1251) by Yuhang Tian, Jin Xiao, Lean Yu, Yanlin Jia, Jing Huang, Xiaoyi Jiang, Shouyang Wang, Jing Huang, and Xiaoyi Jiang has associated [software/data](https://github.com/INFORMSJoC/2025.1251).
+* [Landscape-Aware Hybrid Metaheuristic for Cross-Dock Door Assignment](https://doi.org/10.1287/ijoc.2025.1233) by Wei Yang, Yang Wang, Abraham Punnen, and Rafael Marti has associated [software/data](https://github.com/INFORMSJoC/2025.1233).
 * [Integrating Data Cleaning and Robustification: A Study on Linear Regression](https://doi.org/10.1287/ijoc.2024.0884) by Utku Tarik Bilgiç, Xiaoning Qian, and Bo Zeng has associated [software/data](https://github.com/INFORMSJoC/2024.0884).
 * [Decision-Driven Regularization: A Blended Model for Learning and Optimization](https://doi.org/10.1287/ijoc.2024.0930) by Gar Goei Loke, Qinshen Tang, Yangge Xiao, and Xun Zhang has associated [software/data](https://github.com/INFORMSJoC/2024.0930).
 * [Weighted Optimal Classification Forests](https://doi.org/10.1287/ijoc.2025.1475) by Alberto Japon, Victor Blanco, Justo Puerto, and Peter Zhang has associated [software/data](https://github.com/INFORMSJoC/2025.1475).
