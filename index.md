@@ -6,6 +6,8 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Learning to Simulate: Generative Metamodeling via Quantile Regression](https://doi.org/10.1287/ijoc.2025.1378) by Jeff Hong, Yanxi Hou, Zhang Qingkai, and Xiaowei Zhang has associated [software/data](https://github.com/INFORMSJoC/2025.1378).
+* [Learning Capacity Constraints with Convex Neural Networks in Lot-Sizing Problems](https://doi.org/10.1287/ijoc.2024.1033) by David Tremblet, Simon Thevenin, and Alexandre Dolgui has associated [software/data](https://github.com/INFORMSJoC/2024.1033).
 * [Adversarial Training-Based Deep Imbalanced Learning](https://doi.org/10.1287/ijoc.2025.1251) by Yuhang Tian, Jin Xiao, Lean Yu, Yanlin Jia, Jing Huang, Xiaoyi Jiang, Shouyang Wang, Jing Huang, and Xiaoyi Jiang has associated [software/data](https://github.com/INFORMSJoC/2025.1251).
 * [Landscape-Aware Hybrid Metaheuristic for Cross-Dock Door Assignment](https://doi.org/10.1287/ijoc.2025.1233) by Wei Yang, Yang Wang, Abraham Punnen, and Rafael Marti has associated [software/data](https://github.com/INFORMSJoC/2025.1233).
 * [Integrating Data Cleaning and Robustification: A Study on Linear Regression](https://doi.org/10.1287/ijoc.2024.0884) by Utku Tarik Bilgiç, Xiaoning Qian, and Bo Zeng has associated [software/data](https://github.com/INFORMSJoC/2024.0884).
