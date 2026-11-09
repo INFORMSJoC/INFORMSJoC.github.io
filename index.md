@@ -6,6 +6,7 @@ This is the website for the GitHub repositories for hosting software and data as
 
 #### PUBLISHED IN [ARTICLES IN ADVANCE (AIA)](https://pubsonline.informs.org/authorportal/articles-in-advance)
 
+* [Robust Meta-Graph Learning: Exploring Multilevel Feature Interrelationships to Enhance Multimodal Time Series Prediction](https://doi.org/10.1287/ijoc.2024.0933) by Zongxi Liu, Gang Chen, Shuaiyong Xiao, and Huimin Zhao has associated [software/data](https://github.com/INFORMSJoC/2024.0933).
 * [Exact Algorithms for Two-Dimensional Knapsack Problems: A Unified Framework with New Benchmark Results](https://doi.org/10.1287/ijoc.2025.1423) by Sunkanghong Wang, Roberto Baldacci, Fabio Furini, Lijun Wei, and Qiang Liu has associated [software/data](https://github.com/INFORMSJoC/2025.1423).
 * [Scalable Multi-Stage Stochastic Optimization for Freight Procurement in Transportation-Inventory Systems](https://doi.org/10.1287/ijoc.2025.1141) by Lingxiao Wu, Wenxuan Shan, Yossiri Adulyasak, and Jean-François Cordeau has associated [software/data](https://github.com/INFORMSJoC/2025.1141).
 * [Revenue Maximization for Seaport Terminal Operations Considering Multimodal Cargo Flows](https://doi.org/10.1287/ijoc.2025.1238) by Mohammad Sadegh Kazemi and Xinchang Wang has associated [software/data](https://github.com/INFORMSJoC/2025.1238).
